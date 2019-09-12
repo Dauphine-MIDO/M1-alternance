@@ -1,0 +1,393 @@
+%\documentclass[minimal,compress, draft]{beamer} %draft pour pas mettre image et compil rapidement
+\documentclass[minimal,compress]{beamer}
+%\documentclass[minimal,compress]{thesis}
+
+
+%virer la barre moche
+\setbeamertemplate{navigation symbols}{}
+
+
+%gets rid of bottom navigation bars
+%\setbeamertemplate{footline}[page number]{}
+
+\usepackage[utf8]{inputenc}
+%\usepackage[english]{babel}
+\usepackage[french]{babel}
+\usepackage{hyperref}
+\usepackage{graphicx}
+\usepackage{eso-pic}	%put logo anywhere
+\usepackage{xcolor}
+
+
+\definecolor{mydarkred}{rgb}{0.40,0,0}
+\definecolor{myred}{rgb}{0.50,0.17,0.17}
+\definecolor{mydarkgray}{rgb}{0.33,0.33,0.33}
+\definecolor{mygray}{rgb}{0.47,0.47,0.47}
+\definecolor{mydarkblue}{rgb}{0.16,0.26,0.46}
+\definecolor{myblue}{rgb}{0.43,0.50,0.64}
+\definecolor{mydarkgreen}{rgb}{0.16,0.46,0.26}
+\definecolor{mygreen}{rgb}{0.43,0.64,0.50}
+
+\beamerboxesdeclarecolorscheme{redblock}{mydarkred}{myred!50!white}
+\beamerboxesdeclarecolorscheme{greenblock}{mydarkgreen}{mygreen!50!white}
+
+%http://mcclinews.free.fr/latex/beamergalerie/completsgalerie.html
+%\usetheme{Dresden}
+%\usetheme{Frankfurt}
+%\usetheme{Montpellier}
+\usetheme{monTheme}			%http://titilog.free.fr/index.htm
+
+
+%entete pied page http://mcclinews.free.fr/latex/beamergalerie/outerdetails.html
+%\useoutertheme{shadow}
+%\useoutertheme[subsection=false]{Smoothbars}
+%\useoutertheme{infolines}
+%\useoutertheme{miniframes}
+%\useoutertheme{smoothtree}
+%\useoutertheme{tree}
+
+%ensemble des sections dans la headline
+%http://mcclinews.free.fr/latex/beamermodif/beamersection.html
+\defbeamertemplate*{headline}{}
+{%
+  \begin{beamercolorbox}{section in head/foot}
+    \insertsectionnavigationhorizontal{\paperwidth}{}{}
+  \end{beamercolorbox}%
+ }
+
+%\defbeamertemplate*{headline}{miniframes theme}
+%{%
+%  \begin{beamercolorbox}{section in head/foot}
+%    \insertsectionnavigationhorizontal{\paperwidth}{}{}
+%  \end{beamercolorbox}%
+%}
+
+%shadow sous la healine depuis le beamerthemeshadow
+%\setbeamercolor{frametitle}{parent=subsection in head/foot}
+%\setbeamercolor{frametitle right}{parent=section in head/foot}
+%\pgfdeclarehorizontalshading[frametitle.bg,frametitle right.bg]{beamer@frametitleshade}{\paperheight}{%
+%  color(0pt)=(frametitle.bg);
+%  color(\paperwidth)=(frametitle right.bg)}
+%\AtBeginDocument{
+%  \pgfdeclareverticalshading{beamer@topshade}{\paperwidth}{%
+%    color(0pt)=(bg);
+%    color(4pt)=(black!50!bg)}
+%}
+%\addtobeamertemplate{headline}
+%{}
+%{%
+%  \vskip-0.2pt
+%  \pgfuseshading{beamer@topshade}
+%  \vskip-2pt
+%}
+
+
+
+
+
+
+\setbeamertemplate{frametitle}[default]
+\setbeamertemplate{blocks}[rounded][shadow=true]
+
+\usefonttheme{structurebold}
+\setbeamerfont{section in toc}{series=\bfseries}
+\setbeamerfont{alerted text}{series=\bfseries}
+\setbeamerfont{quote}{series=\normalfont}
+
+%\setbeamercolor{section in head}{fg=lightgray,bg=mydarkgray}
+\setbeamercolor{section in head/foot} {fg=lightgray,bg=mydarkgray}
+%\setbeamercolor{section in foot} %{fg=lightgray,bg=mydarkgray}
+%{fg=white,bg=white}
+\setbeamercolor{subsection in head/foot}{fg=mydarkred,bg=}
+\setbeamercolor{titlelike}{fg=mydarkred,bg=}
+\setbeamercolor{section in toc}{fg=mydarkred,bg=}
+\setbeamercolor{subsection in toc}{fg=black!,bg=}
+\setbeamercolor{item}{fg=mydarkred,bg=}
+\setbeamercolor{subitem}{fg=mydarkgray,bg=}
+\setbeamercolor{subsubitem}{fg=myred,bg=}
+\setbeamercolor{navigation symbols}{fg=mygray,bg=}
+\setbeamercolor{block title example}{fg=mydarkred,bg=}
+\setbeamercolor{block title}{fg=mydarkred,bg=}
+\setbeamercolor{block body}{fg=,bg=}
+%\setbeamercolor{frametitle}{fg=mydarkgray,bg=}
+\setbeamercolor{frametitle}{fg=mydarkred,bg=}
+\setbeamercolor{alerted text}{fg=mydarkred,bg=}
+
+%\pgfpagesuselayout{4 on 1}[a4paper,border shrink=5mm,landscape]
+
+%In order to get a full page printable presentation (i.e. auto resized to A4 paper)
+%\pgfpagesuselayout{resize to}[a4paper,border shrink=0mm,landscape]
+
+
+
+%logo dauphine
+\newcommand\AtPagemyUpperLeft[1]{\AtPageLowerLeft{%
+\put(\LenToUnit{0.8\paperwidth},\LenToUnit{0.87\paperheight}){#1}}}
+\AddToShipoutPictureFG{
+  \AtPagemyUpperLeft{{\includegraphics[width=2cm,keepaspectratio]{logo}}}
+}%
+
+
+%numero pages
+\addtobeamertemplate{footline}{\hspace{1em}\insertshorttitle\hfill\insertframenumber/\inserttotalframenumber\hspace{1em}\null}
+
+
+%footer
+%\makeatother
+%\setbeamertemplate{footline}
+%{
+%  \leavevmode%
+%  \hbox{%
+%%  \begin{beamercolorbox}[wd=.4\paperwidth,ht=2.25ex,dp=1ex,center]{author in head/foot}%
+%%    \usebeamerfont{author in head/foot}\insertshortauthor
+%%  \end{beamercolorbox}%
+%  \begin{beamercolorbox}[wd=.6\paperwidth,ht=2.25ex,dp=1ex,center]{title in head/foot}%
+%    \usebeamerfont{title in head/foot}\insertshorttitle\hspace*{3em}
+%    \insertframenumber{} / \inserttotalframenumber\hspace*{1ex}
+%  \end{beamercolorbox}}%
+%  \vskip0pt%
+%}
+%\makeatletter
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 
+
+\title[M1 MIAGE Apprentissage]
+{MIAGE (Méthodes Informatiques Appliquées à la Gestion des Entreprises)}
+
+\author{M1 - Formation en apprentissage}
+\institute{}%
+\date{}
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 
+
+\begin{document}
+
+
+
+\frame[plain]{
+ \titlepage
+ 
+ 
+ \begin{tabular}{ll}
+Responsable pédagogique Dauphine: & \textbf{Florian Sikora} \\
+Chargée de mission CFA AFIA: & \textbf{Patricia Lavagna} \\
+Administration: & \textbf{Delphine Galtier}
+ \end{tabular}
+}
+
+
+
+
+\begin{frame}{Les disciplines}
+\begin{itemize}
+\item Technologies de l’\alert{informatique} et de la \alert{gestion}
+
+\item Modélisation de \alert{systèmes d’information} et méthodes de \alert{conduite de projet}
+
+\item Fonctionnement des organisations, leurs structures, et leurs impératifs stratégiques
+
+\item L’anglais %{\scriptsize (plus une deuxième langue vivante)}
+
+\item \alert{Professionnalisation} avec la formation par apprentissage
+\end{itemize}
+\end{frame}
+
+\begin{frame}{Entreprises d'accueil}
+
+\begin{itemize}
+\item Banques, Assurances, Sociétés de Services, Startups, Logistique,...
+\item Par exemple:
+\end{itemize}
+
+\centering
+\begin{minipage}{.35\textwidth}
+ Caisse des dépôts
+ 
+ Dassault
+ 
+ Air France
+ 
+BNP Paribas
+
+ EDF
+ 
+
+\end{minipage}
+\begin{minipage}{.35\textwidth}
+ LCL
+ 
+ Société Générale
+ 
+GFI
+
+ Natixis
+ 
+ Canal+
+
+\end{minipage}
+
+
+
+\end{frame}
+
+\begin{frame}{Organisation}
+\begin{itemize}
+\item Apprentissage
+\begin{itemize}
+\item 2 semaines entreprise / 2 semaines université
+\item 	Maître d’apprentissage en entreprise + tuteur enseignant
+\item 	Examen au fil de l’eau
+\item 	Présence obligatoire cours/TD/TP
+
+\end{itemize}
+\item Promotion
+\begin{itemize}
+\item 25 à 30 apprentis
+\item L3 apprentissage  en grande partie. Quelques places pour le L3 formation initiale et les externes à l’université Paris Dauphine
+\end{itemize}
+\end{itemize}
+\end{frame}
+
+
+
+\begin{frame}{Programme S1}
+\begin{itemize}
+\item \alert{Bloc Fondamental 1} Semestre 1 (24 ECTS)
+\begin{itemize}
+\item Systèmes de Gestion de Bases de Données  (4 ECTS)
+\item Programmation  Java Avancée (4 ECTS)
+\item Systèmes d’Information Avancés 1 (3 ECTS)
+\item Intelligence Artificielle et raisonnement (4 ECTS)
+
+
+\item Applications Réseaux (3 ECTS)
+\item Analyse et fouille de données (3 ECTS)
+\item Marketing (3 ECTS)	
+\end{itemize}
+\end{itemize}
+\end{frame}
+
+\begin{frame}{Programme S1}
+\begin{itemize}
+\item \alert{Bloc communication} Semestre 1 (6 ECTS)
+\begin{itemize}
+\item Organisation – Communication (3 ECTS)
+\item Anglais 1 (3 ECTS)
+%\item Deuxième langue vivante (3 ECTS)
+
+\end{itemize}
+\end{itemize}
+\end{frame}
+
+
+
+
+\begin{frame}{Programme S2}
+\begin{itemize}
+\item \alert{Bloc Fondamental 2} Semestre 2 (16 ECTS)
+\begin{itemize}
+\item Systèmes et Algorithmes Répartis  (4 ECTS)
+\item Systèmes d’Information Avancés 2 (4 ECTS)
+\item Analyse Financière (3 ECTS) 
+\item e-applications (4 ECTS)
+\item Anglais 2 (1 ECTS)
+
+\end{itemize}
+\end{itemize}
+\end{frame}
+
+\begin{frame}{Programme S2}
+\begin{itemize}
+\item \alert{Options} Semestre 2 (6 ECTS) % (une \textcolor{mydarkgreen}{verte} et une \textcolor{mydarkblue}{bleue})
+\begin{itemize}
+\item Programmation C++ (3 ECTS)
+\item {Marchés financiers (3 ECTS)} 
+\item {Optimisation combinatoire (3 ECTS)} 
+\item {Ordonnancement et  gestion de production (3 ECTS)}
+\item {Décision et Analyse Multicritère (3 ECTS)} 
+\end{itemize}
+\item 2 options à choisir.
+\end{itemize}
+\end{frame}
+
+
+
+
+
+
+
+
+\begin{frame}{Programme}
+
+\begin{itemize}
+\item \alert{Bloc entreprise} (8 ECTS)
+\end{itemize}
+
+\begin{itemize}
+\item Modalités:
+\begin{itemize}
+\item Mémoire sur une problématique rencontrée dans le cadre de la mission
+\item Soutenance (première semaine de septembre).
+\end{itemize}
+\item Évaluation:
+\begin{itemize}
+\item Pertinence du sujet
+\item Qualité du travail réalisé (recherche, analyse et synthèse)
+\item Qualité de la rédaction du mémoire
+\item Travail en entreprise
+\end{itemize}
+
+\end{itemize}
+
+\end{frame}
+
+
+\begin{frame}{Contrôle des connaissances}
+\begin{itemize}
+\item Validation de l’année:
+\begin{itemize}
+\item Note finale de \alert{chacun des blocs} $\geq$ \alert{10}/20
+\item Note finale de \alert{chaque UE} $\geq$ \alert{5}/20.
+\item Valider 60 ECTS.
+\end{itemize}
+\item Seconde session:
+\begin{itemize}
+\item Repasser les UEs avec une note $<$ \alert{5/20}
+\item Compensation des UE dans un bloc
+\item Choix de repasser ou non une UE avec note finale dans [5,10[
+\end{itemize}
+\end{itemize}
+\end{frame}
+
+\begin{frame}{M2 MIAGE en apprentissage}
+
+\begin{itemize}
+\item Accès à la \alert{2ème année} du Master Informatique des Organisations.
+\item Spécialités:
+\begin{itemize}
+\item \alert{MIAGE-IF} (Informatique pour la finance):
+\begin{itemize}
+\item Forme des informaticiens dans les métiers de la \alert{banque et de l’assurance}
+\end{itemize}
+\item \alert{MIAGE-SITN} (Sys. d’info. et tecno. nouv.)
+\begin{itemize}
+\item Forme des professionnels en conception et mise en œuvre de \alert{systèmes d’information}
+\end{itemize}
+\item \alert{ID-MIAGE} (Informatique Décisionnelle)
+\begin{itemize}
+\item Forme des informaticiens en \alert{aide à la décision et en Informatique Décisionnelle}
+\end{itemize}
+\end{itemize}
+\end{itemize}
+
+\end{frame}
+
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 
+
+\end{document}
