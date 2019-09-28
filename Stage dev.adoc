@@ -1,0 +1,18 @@
+= Offre de stage: développement agile d’applications web et de bibliothèques open-source
+
+La personne engagée sera développeur principal d’applications à destination du CFA, d’une part, et, selon les compétences et envies de l’étudiant, de bibliothèques visant à appuyer du travail de recherche en choix social, en modélisation des préférences ou en apprentissage statistique.
+
+L’objectif premier est de développer (éventuellement en adaptant l’existant) un outil simple d’emploi pour la gestion des présences des étudiants, dont le CFA et les enseignants de Dauphine bénéficieraient grandement. 
+
+La mission se tiendra au http://lamsade.dauphine.fr/[LAMSADE], un laboratoire de recherche de Paris-Dauphine. L’étudiant ou étudiante recrutée sera encadrée par une personne enseignant l’ingénierie logicielle et des chercheurs dans les domaines sus-mentionnés. Les applications seront développées en cycles courts, en contact étroit avec les utilisateurs finaux, et avec une emphase importante sur la qualité du code source, qui sera publié au fur et à mesure sur Github sous licence open-source. Le développement pour aider le travail de recherche pourrait s’intégrer à https://whale.imag.fr/[Whale] ou contribuer à faire https://github.com/oliviercailloux/CLut/blob/master/Stage.adoc[dialoguer] des systèmes de recommendation. Le travail accompli devrait pouvoir servir de vitrine à l’étudiant.
+
+== Compétences exigées
+L’étudiant devra faire preuve d’autonomie, aura une bonne connaissance de Java, d’UML, et une bonne maitrise des outils de développement (tels que Eclipse, git), permettant des itérations efficaces. Il sera motivé par la publication open-source et en particulier par un ou plusieurs des domaines mentionnés dans l’offre. Il fera preuve d’une maturité mathématique lui permettant de lire et comprendre des articles scientifiques avec l’aide des encadrants.
+
+== Contact et informations pratiques
+La proposition concerne un stage de Master 1 de trois à six mois, assorti de la gratification légale habituelle (environ 546 € par mois).
+
+Il aura lieu à l’Université Paris-Dauphine, au http://lamsade.dauphine.fr/[LAMSADE]. 
+
+Prière de contacter mailto:olivier.cailloux@dauphine.fr[Olivier Cailloux] pour toute question ou pour postuler à cette offre.
+
