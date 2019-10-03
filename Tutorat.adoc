@@ -1,0 +1,34 @@
+= Tutorat
+La règle à MIDO est d’affecter un tuteur enseignant à chaque étudiant en apprentissage. Généralement, les enseignants intervenant dans la formation suivent des étudiants au prorata de leur nombre d’ECTS dans la formation. Ce suivi, entrant dans le cadre de vos fonctions, est payé en HETD.
+
+- HETD?
+- qui informe les étudiants de qui est leur tuteur ?
+
+== Missions du tuteur
+Votre tâche consiste à aider l’étudiant suivi s’il rencontre une difficulté, s’assurer qu’il est bien accueilli dans son entreprise (y compris en lui rendant visite), et lire et participer à l’évaluation de son mémoire.
+
+- participer à la réunion de rentrée maître d'apprentissage-tuteur-étudiant qui aura lieu le … en A709/espace accueil pour les L3 et les M1 afin de rencontrer le maitre d’apprentissage de l’apprenti(e) et vérifier avec lui que la mission a bien débutée en entreprise
+- Répondre aux questions éventuelles des étudiants, les aider s’ils ont des problèmes dans leur travail en entreprise ; conseiller et accompagner l’étudiant dans la formation
+- rendre visite à l’étudiant et à son encadrant en entreprise (veiller à ce que son stage lui soit profitable dans le cadre de ses études, que ses conditions de travail soient adéquates, que l’étudiant assure son travail avec sérieux)
+- Relire leur rapport (courant septembre) et assister à la soutenance (courant octobre) qui dure maximum 1h.
+- valider la problématique choisie pour le mémoire ; guider et conseiller l'étudiant pour l’élaboration de son mémoire
+- participer à la soutenance du mémoire qui aura lieu début septembre (?) (et donc bien sûr lire le rapport avant la soutenance)
+- regarder et écrire régulièrement des remarques sur le site web de CFA (et en tout cas obligatoirement lors de la visite en entreprise), Le site est http://www.cfa-afia.fr/ Si vous avez des difficultés à vous connecter, il faudrait rentrer en contact avec Patricia Lavagna plavagna@cfa-afia.fr
+
+Nombre d'heures TD payés : x eq. TD par étudiant encadré (encadrement + présence à la soutenance).
+
+== Mémoire
+En raison du grand nombre d'étudiants de M2 qui doivent refaire leur mémoire pour novembre 2016, nous avons décidé de revoir un peu les échéances et l’évaluation du mémoire l’année prochaine.
+Nous allons leurs demander de nous rendre pour début juin une première partie avec le plan, la problématique et un état de l'art. Cet exercice sera noté. Nous allons vous donner plus de précisions très prochainement dans le document 
+
+voir : "Consignes pour la rédaction du mémoire"
+
+Les jurys des M1 et M2 seront composés, en plus du tuteur enseignant et d'un représentant de CFA, d'un président de jury dont le rôle est de relire le mémoire et donner un avis extérieur à l'étudiant.
+Nous demandons la participation de chacun pour un bon déroulement des soutenances. Le président de jury a une heure de décharge pour chaque soutenance.
+
+La non réalisation de toutes les tâches indiquées sera prise en compte lors de l’affectation des apprentis des années suivantes.
+
+=== Soutenance
+Durée :
+Consignes :
+
