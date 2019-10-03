@@ -1,5 +1,6 @@
 = Le mémoire de M1 MIAGE en apprentissage
 :toc:
+
 Document détaillé à l'usage de l'apprenti de Master Miage en apprentissage au CFA de l'AFIA.
 
 Le mémoire de Master 1ère année par apprentissage est un travail de réflexion tirée et alimentée par les missions de l’apprenti(e) au sein de son entreprise d’accueil. Il s’articule autour d’une problématique et d’un ou deux projets informatiques significatifs concrets auxquels l’apprenti(e) a participé.
