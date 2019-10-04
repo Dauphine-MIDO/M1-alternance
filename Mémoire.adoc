@@ -32,7 +32,7 @@ La conclusion doit comporter une évaluation du mémoire et de la méthode suivi
 Il peut également s’agir d’exprimer les limites de la démarche adoptée.
 D’un point de vue prospectif, il s’agit de répondre à la question : _Où aller ?_
 
-== Comment s’organiser pour rédiger le mémoire ?
+== S’organiser pour la rédaction
 Une rédaction efficace du mémoire suppose un minimum d’organisation.
 
 === Le planning
@@ -93,7 +93,7 @@ Conclusion sur la diversité des intérêts de la mission : intérêts professi
 Sans être démesurée, cette conclusion doit être dense et il est important d’éviter les clichés.
 La mise en évidence des lacunes, des erreurs n’est pas négative dans le cas d’un travail qui représente une expérience limitée. Elle illustre au contraire les qualités d’analyse, la lucidité, l’honnêteté intellectuelle.
 
-== Les règles de la rédaction et de la présentation matérielle du mémoire
+== Règles de rédaction et de présentation matérielle
 === Originalité du mémoire
 Le document ne peut pas être la superposition de morceaux de textes/images pris sur Internet. Dans le cas où vous utilisez des citations, ou des illustrations, celles-ci doivent apparaitre clairement (par exemple entre guillemets « citation » ou en italique citation) et faire référence explicitement au document original (exemple : d’après [1] « la citation », illustration tirée de [2]). 
 Un détecteur de plagiat automatique sera utilisé. Tout plagiat manifeste pourra amener à une sanction disciplinaire. 
@@ -101,6 +101,7 @@ Un détecteur de plagiat automatique sera utilisé. Tout plagiat manifeste pourr
 === Une expression écrite impeccable
 Le mémoire doit être agréable à lire, donc bien présenté, bien articulé… et bien écrit. L’orthographe, syntaxe et ponctuation doivent être irréprochables.
 Le langage écrit fait appel à un registre de vocabulaire soutenu qui se distingue du langage oral. 
+
 Il est indispensable de se relire et de se faire relire. Pour la fluidité de la lecture, préférer les phrases courtes aux phrases lourdes et sans fin.
 
 === Les représentations graphiques
@@ -115,7 +116,7 @@ Toute annexe doit être énoncée et utilisée dans le texte. Il y fait référe
 === Présentation matérielle
 Un mémoire comporte généralement dans l’ordre :
 
-
+TODO
 
 
 
