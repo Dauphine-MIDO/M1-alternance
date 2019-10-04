@@ -2,9 +2,9 @@
 
 La règle à MIDO est d’affecter un tuteur enseignant à chaque étudiant en apprentissage. Généralement, les enseignants intervenant dans la formation suivent des étudiants au prorata de leur nombre d’ECTS dans la formation. Ce suivi, entrant dans le cadre de vos fonctions, est payé en heures équivalent TD (5 HTD visite + 2 HTD encadrement, suivi + 1 HTD présidence d’un jury). Chaque apprenti a également un maitre d’apprentissage, une personne de l’entreprise dans laquelle l’apprenti travaille, qui l’encadre sur place.
 
-La liste apprentis, tuteurs enseignants, maitres d’apprentissage est https://universitedauphine-my.sharepoint.com/:x:/g/personal/olivier_cailloux_lamsade_dauphine_fr/Ec_VKGm5UMlAqcDb0uoBtq8BNvGmdPbCqN3iVDVxaJ8V_Q[ici]. Siham informe les étudiants de l’identité de leur tuteur. C’est à l’étudiant de vous contacter concernant la visite en entreprise, le plan du mémoire, …
+La liste des apprentis, tuteurs enseignants, maitres d’apprentissage est https://universitedauphine-my.sharepoint.com/:x:/g/personal/olivier_cailloux_lamsade_dauphine_fr/Ec_VKGm5UMlAqcDb0uoBtq8BNvGmdPbCqN3iVDVxaJ8V_Q[ici]. Siham informe les étudiants de l’identité de leur tuteur. C’est à l’étudiant de vous contacter concernant la visite en entreprise, le plan du mémoire, …
 
-== Missions du tuteur
+== Tâches du tuteur
 Votre tâche consiste à aider l’apprenti suivi s’il rencontre une difficulté, s’assurer qu’il est bien accueilli dans son entreprise (y compris en lui rendant visite), et lire et participer à l’évaluation de son mémoire.
 
 Plus précisément :
@@ -12,19 +12,12 @@ Plus précisément :
 - Participer à la réunion de rencontre de rentrée qui aura lieu le 7 novembre à 10h en https://www.campusmap.fr/map/dauphine-paris?place=A700[A700] (L3 et M1) afin de rencontrer la maitresse d’apprentissage et l’apprenti et vérifier avec eux que la mission a bien débutée en entreprise
 - Répondre aux questions éventuelles des apprentis, les aider s’ils ont des problèmes dans leur travail en entreprise ; conseiller et accompagner l’étudiant dans la formation ; avertir Patricia Lavagna du CFA ou Olivier Cailloux en cas de problème
 - Rendre visite à l’apprentie et à son maitre d’apprentissage (veiller à ce que son stage lui soit profitable dans le cadre de ses études, que ses conditions de travail soient adéquates, que l’étudiante assure son travail avec sérieux)
-- Rédiger un bref compte-rendu de votre visite en entreprise, à destination de l’apprenti et de son maitre d’apprentissage, avec mailto:plavagna@cfa-afia.fr[Patricia Lavagna] en copie
+- Envoyer un bref compte-rendu de votre visite en entreprise, à destination de mailto:plavagna@cfa-afia.fr[Patricia Lavagna], avec l’apprenti et de son maitre d’apprentissage en copie
 - Valider la problématique choisie pour le mémoire ; guider et conseiller l'apprenti pour l’élaboration de son mémoire
 - Participer à la soutenance du mémoire qui aura lieu début septembre (?) (et donc bien sûr lire le manuscrit avant la soutenance)
 
 == Mémoire
-voir : "Consignes pour la rédaction du mémoire"
+voir : "Consignes pour la rédaction du mémoire" ; déroulement des soutenances ; jurys.
 
-Les jurys des M1 et M2 seront composés, en plus du tuteur enseignant et d'un représentant de CFA, d'un président de jury dont le rôle est de relire le mémoire et donner un avis extérieur à l'étudiant.
-Nous demandons la participation de chacun pour un bon déroulement des soutenances. Le président de jury a une heure de décharge pour chaque soutenance.
-
-La non réalisation de toutes les tâches indiquées sera prise en compte lors de l’affectation des apprentis des années suivantes.
-
-=== Soutenance
-Durée :
-Consignes :
+Nous comptons sur les bonnes volontés des intervenants dans le parcours pour jouer le rôle de président de jury. (Comptez 1HETD de décharge pour chaque soutenance.)
 
