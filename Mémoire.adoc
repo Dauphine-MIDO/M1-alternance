@@ -3,18 +3,18 @@
 
 Document détaillé à l'usage de l'apprenti de Master Miage en apprentissage au CFA de l'AFIA.
 
+== L’objectif du mémoire
 Le mémoire de Master 1ère année par apprentissage est un travail de réflexion tirée et alimentée par les missions de l’apprenti au sein de son entreprise d’accueil. Il s’articule autour d’une problématique et d’un ou deux projets informatiques significatifs concrets auxquels l’apprenti a participé.
 
 Le travail confié à l’apprentie ne peut être un travail d’exécution ou à vocation uniquement descriptive. Une mission, une activité en responsabilité, la conduite d’un projet sont généralement confiées. Les observations et les réponses que l’apprentie apportera, pour la totalité ou partie, feront l’objet de la rédaction du mémoire.
 
-Contrairement à un rapport de stage, *ce mémoire ne doit pas être un simple rapport d’activités*. (Le rapport de stage a pour but d’exposer, d’expliquer, de justifier l’ensemble des activités effectuées au cours de la mission, et d’éclairer comment l’activité principale de l’apprenti au sein de l’entreprise a été comprise, réalisée et menée à terme.)
+Contrairement à un rapport de stage, *ce mémoire ne doit pas être un simple rapport d’activités*. (Le rapport de stage a pour simple but d’exposer, d’expliquer, de justifier l’ensemble des activités effectuées au cours de la mission, et d’éclairer comment l’activité principale de l’apprenti au sein de l’entreprise a été comprise, réalisée et menée à terme.)
 
 Il est le témoignage de compétences à un double niveau :
 
 - Celui de la conduite d’un projet répondant de façon pertinente et pratique à une ou à des questions posées dans l’entreprise d’accueil. Le mémoire peut donc être référencé dans un CV et peut servir avantageusement de carte de visite pour se présenter et montrer ses aptitudes à traiter en profondeur des problèmes et des sujets de réflexion.
 - Celui de la capacité à traduire par écrit une réflexion étayée et appliquée dans un domaine de l’informatique de gestion. En ce sens, le mémoire est un document académique qui doit remplir les critères de qualité imposés par l’université : recherche bibliographique, état de l’art, rigueur méthodologique.
 
-== La rédaction du mémoire
 Le mémoire ne se limite pas au simple compte-rendu d’une expérience professionnelle. Son contenu dépasse la plate description de l’organisation et de la mission. Il ne doit pas non plus, à l’opposé, être une simple synthèse d’une recherche documentaire sur un sujet théorique, déconnectée des missions réalisées dans l’entreprise.
 L’apprenti doit utiliser ses capacités d’analyse et ses connaissances pour commenter, mettre en perspective la problématique choisie.
 
@@ -64,6 +64,9 @@ Les grandes étapes du plan illustrent sa logique et sa cohérence. La rédactio
 Les titres sont essentiels pour la lecture. Ils présentent et synthétisent le contenu des parties et chapitres. Ils doivent être explicites sans être trop longs.
 
 === Les points particuliers et délicats à rédiger
+==== Première page
+La première page (c-à-d la page de couverture) doit comporter les informations suivantes : NOM, Prénom de l’apprenti (majuscules accentuées ou virgule SVP), Formation, Entreprise d’accueil, Titre du mémoire, Tuteur enseignant, Maitre d’apprentissage, Résumé (dix lignes max.).
+
 ==== Le titre
 Le titre doit explicitement faire ressortir la problématique. 
 Exemple : « le rôle des systèmes d’information dans le développement de la fonction marketing » ou « introduction d’un ERP et changements organisationnels ».
@@ -77,7 +80,7 @@ Par exemple, elle peut faire ressortir les spécificités de l’entreprise au r
 Le mémoire explique clairement et simplement la place, le rôle de l’apprenti(e) eu sein de l’entreprise d’accueil. Il situe la fonction de la mission dans le contexte et la finalité globale de l’entreprise. Il explicite un travail par définition limité tant dans sa durée que dans sa responsabilité.
 
 ==== L’analyse du contexte, de la situation
-Un problème technique ou fonctionnel a été posé à l’apprenti(e). Il s’agit d’énoncer clairement comment et pourquoi le problème a été posé et d’en faire apparaître tous les tenants et aboutissants.
+Un problème technique ou fonctionnel a été posé à l’apprenti(e). Il s’agit d’énoncer clairement comment et pourquoi le problème a été posé et d’en faire apparaitre tous les tenants et aboutissants.
 
 ==== La démarche de résolution du problème
 Quelles méthodes adaptées au contexte l’apprenti(e) a-t-il adoptées : la rédaction de cahier des charges, comment recueillir l’expression des besoins de la MOA (réunions, guide d’entretien, sondage…), suivant quel calendrier, quelle méthodologie de gestion de projet, etc.. ?
@@ -86,7 +89,7 @@ Quelles méthodes adaptées au contexte l’apprenti(e) a-t-il adoptées : la r
 Tout résultat obtenu doit être analysé et commenté, en particulier au regard des objectifs initiaux. L’analyse des écarts et des difficultés est essentielle.
 
 ==== Les suggestions, les propositions
-S’il y a lieu de le faire, elles doivent être énoncées avec précision et justifiées. Il faut mettre en évidence leurs apports, mais également reconnaître leurs éventuelles limites ou difficultés d’application par rapport à la réalité de l’entreprise.
+S’il y a lieu de le faire, elles doivent être énoncées avec précision et justifiées. Il faut mettre en évidence leurs apports, mais également reconnaitre leurs éventuelles limites ou difficultés d’application par rapport à la réalité de l’entreprise.
 
 ==== Conclusion
 Concluez quand à la diversité des intérêts de la mission : intérêts professionnel, personnel, humain et intellectuel.
@@ -96,11 +99,11 @@ La mise en évidence des lacunes, des erreurs n’est pas négative dans le cas 
 
 == Règles de rédaction et de présentation matérielle
 === Originalité du mémoire
-Le document ne peut pas être la superposition de morceaux de textes/images pris sur Internet. Dans le cas où vous utilisez des citations, ou des illustrations, celles-ci doivent apparaitre clairement (par exemple entre guillemets ou en italique) et faire référence explicitement au document original en précisant la source précise (ne pas se contenter d’indiquer le livre d’où vient la citation, mais préciser son n° de page, ou la section d’où la citation est tirée). Par exemple : d’après Schopenhauer (2002, Stratagème XXX), « Ce que l’on appelle l’opinion générale est, somme toute, l’opinion de deux ou trois personnes et il est aisé de s’en convaincre lorsque l’on comprend comment l’opinion générale se développe. ». Il faut en outre, en fin de document ou en note de bas de page, préciser la référence complète (titre du livre, édition, lien s’il s’agit d’une page web…) : Shopenhauer, Arthur (2002), _L’Art d’avoir toujours raison_, link:https://fr.wikisource.org/wiki/L’Art_d’avoir_toujours_raison[].
+Le document ne peut pas être la superposition de morceaux de textes/images pris sur Internet. Dans le cas où vous utilisez des citations, ou des illustrations, celles-ci doivent apparaitre clairement (par exemple entre guillemets ou en italique) et faire référence explicitement au document original en précisant la source précise (ne pas se contenter d’indiquer le livre d’où vient la citation, mais préciser son n° de page, ou la section d’où la citation est tirée). Par exemple : d’après Schopenhauer (1864, Stratagème XXX), « Ce que l’on appelle l’opinion générale est, somme toute, l’opinion de deux ou trois personnes et il est aisé de s’en convaincre lorsque l’on comprend comment l’opinion générale se développe ». Dans cet exemple, on a précisé que l’extrait vient de la section intitulée Stratagème XXX. Il faut en outre, en fin de document ou en note de bas de page, préciser la référence complète (titre du livre, édition, lien s’il s’agit d’une page web…) : Shopenhauer, Arthur (1864), _L’Art d’avoir toujours raison_, link:https://fr.wikisource.org/wiki/L’Art_d’avoir_toujours_raison[]. De même, il faut citer précisément la source de vos figures, _à l’endroit où vous en faites usage_, si elles ne sont pas votre création personnelle, il ne suffit pas de citer toutes vos sources en vrac en fin de document mais il faut indiquer quel texte ou quelle figure vient de quelle source. Tout ce qui n’est pas accompagné d’une source est sous-entendu être de votre création.
 Un détecteur de plagiat automatique sera utilisé. Tout plagiat manifeste pourra amener à une sanction disciplinaire. 
 
 === Une expression écrite impeccable
-Le mémoire doit être agréable à lire, donc bien présenté, bien articulé… et bien écrit. L’orthographe, syntaxe et ponctuation doivent être irréprochables.
+Le mémoire doit être agréable à lire, donc bien présenté, bien articulé… et bien écrit. L’orthographe, la syntaxe et la ponctuation doivent être irréprochables.
 Le langage écrit fait appel à un registre de vocabulaire soutenu qui se distingue du langage oral. 
 
 Il est indispensable de se relire et de se faire relire. Pour la fluidité de la lecture, préférer les phrases courtes aux phrases lourdes et sans fin.
@@ -112,23 +115,20 @@ Ces schémas et graphiques doivent être accompagnés de titres explicatifs, de 
 Chaque référence bibliographique doit faire l’objet d’une mention dans le texte, là où elle est utilisée. Un mémoire se doit d’avoir une bibliographie dans laquelle sont cités les ouvrages, articles, documents, sites Internet qui ont été consultés et utilisés pour rédiger le mémoire dans le format adéquat. Elle se situe à la fin du mémoire, après la conclusion et avant les annexes. Les références du texte ne doivent pas figurer en bas de page mais doivent renvoyer à la bibliographie. 
 
 === Les annexes
-Toute annexe doit être énoncée et utilisée dans le texte. Il y fait référence de façon précise chaque fois que le lecteur est invité à le consulter (exemple : cf annexe n°X page Y). Les annexes sont regroupées, intitulées, numérotées et paginées après la conclusion et la bibliographie. Leur pagination continue celle du texte principal. Elles sont précédées d’un sommaire propre. Leur nombre ne doit pas excéder 10.
+Toute annexe doit être énoncée et utilisée dans le texte. Il y fait référence de façon précise chaque fois que le lecteur est invité à le consulter (exemple : cf. annexe n° X page Y). Les annexes sont regroupées, intitulées, numérotées et paginées après la conclusion et la bibliographie. Leur pagination continue celle du texte principal. Elles sont précédées d’un sommaire propre. Leur nombre ne doit pas excéder 10.
 
 === Présentation matérielle
 Un mémoire comporte généralement dans l’ordre :
 
 TODO
 
-
-
 === La pagination
-Avant tout, ne pas oublier de numéroter les pages. Cette pagination doit être continue, en chiffres arabes pour le texte et en chiffres romains pour les annexes. Elle commence dès le premier feuillet inclus dans le mémoire, qu’il comporte ou non un texte, et se termine au dernier feuillet. Les pages de titres, pages blanches et le sommaire comptent dans la pagination, même si elles ne sont pas numérotées.
+Avant tout, ne pas oublier de numéroter les pages. Cette pagination doit être continue, en chiffres arabes pour le corps du texte et en chiffres romains pour le préambule (table des matières, …) et les annexes. Elle commence dès le premier feuillet inclus dans le mémoire, qu’il comporte ou non un texte, et se termine au dernier feuillet. Les pages de titres, pages blanches et le sommaire comptent dans la pagination, même si elles ne sont pas numérotées.
 
 === Le nombre de pages
 Attention ! L’épaisseur d’un travail, notamment quand elle est fournie essentiellement par les annexes, n’est pas un signe de qualité. Une quarantaine de pages constitue un format de référence. Le remplissage forcené ou les propos dilatoires seront considérés comme des points négatifs du travail.
 
-Prévoir au minimum 3 exemplaires du mémoire : un pour le maitre d’apprentissage (remis par l’apprenti(e)), deux remis au secrétariat (un pour le tuteur enseignant, un pour le CFA)
-
+Prévoir au minimum 3 exemplaires du mémoire : un pour le maitre d’apprentissage (remis par l’apprenti), deux remis au secrétariat (un pour le tuteur enseignant, un pour le CFA) TODO
 
 == Le déroulement de la soutenance
 Une soutenance ne s’improvise pas ; elle se prépare, se répète seul et en public.
@@ -137,22 +137,23 @@ La soutenance se déroule devant le jury composé du tuteur enseignant, du maitr
 
 La soutenance dure une demi-heure et comporte successivement les deux exercices suivants :
 
-- l’apprenti(e) expose en 20  minutes le sujet développé dans le mémoire en s’appuyant sur une présentation
+- l’apprentie expose en 20 minutes le sujet développé dans le mémoire en s’appuyant sur une présentation
 - un entretien de 10 minutes se déroule ensuite, autour de questions posées par le jury.
 
-
 == Le rôle des tuteurs 
-Le rôle du tuteur enseignant
-- Il s’assure de la compatibilité du sujet retenu avec la finalité de la formation
-- Il veille au respect des contraintes de fond et de forme
-Le rôle du maitre d’apprentissage
-- Il aide à finaliser les termes du sujet de ce mémoire de 1ere année de master
-- Il encadre l’apprenti pour la réalisation de la mission et aussi de ce mémoire
-- Il prend connaissance régulièrement de l’avancement de la conception et de la rédaction du mémoire
-- Il incite et entraîne à la préparation de la soutenance.
-- Il vise le mémoire en s’assurant du respect des règles de confidentialité propre à l’entreprise et des contraintes de diffusion.
+Le tuteur enseignant :
 
+- s’assure de la compatibilité du sujet retenu avec la finalité de la formation
+- veille au respect des contraintes de fond et de forme
+
+La maitresse d’apprentissage :
+
+- aide à finaliser les termes du sujet de ce mémoire de 1^ère^ année de master
+- encadre l’apprenti pour la réalisation de la mission et aussi de ce mémoire
+- prend connaissance régulièrement de l’avancement de la conception et de la rédaction du mémoire
+- incite et entraine à la préparation de la soutenance
+- vise le mémoire en s’assurant du respect des règles de confidentialité propre à l’entreprise et des contraintes de diffusion
 
 == Planning
-- 
+- TODO
 
