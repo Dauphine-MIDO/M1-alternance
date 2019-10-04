@@ -96,7 +96,7 @@ La mise en évidence des lacunes, des erreurs n’est pas négative dans le cas 
 
 == Règles de rédaction et de présentation matérielle
 === Originalité du mémoire
-Le document ne peut pas être la superposition de morceaux de textes/images pris sur Internet. Dans le cas où vous utilisez des citations, ou des illustrations, celles-ci doivent apparaitre clairement (par exemple entre guillemets « citation » ou en italique citation) et faire référence explicitement au document original (exemple : d’après [1] « la citation », illustration tirée de [2]). 
+Le document ne peut pas être la superposition de morceaux de textes/images pris sur Internet. Dans le cas où vous utilisez des citations, ou des illustrations, celles-ci doivent apparaitre clairement (par exemple entre guillemets ou en italique) et faire référence explicitement au document original en précisant la source précise (ne pas se contenter d’indiquer le livre d’où vient la citation, mais préciser son n° de page, ou la section d’où la citation est tirée). Par exemple : d’après Schopenhauer (2002, Stratagème XXX), « Ce que l’on appelle l’opinion générale est, somme toute, l’opinion de deux ou trois personnes et il est aisé de s’en convaincre lorsque l’on comprend comment l’opinion générale se développe. ». Il faut en outre, en fin de document ou en note de bas de page, préciser la référence complète (titre du livre, édition, lien s’il s’agit d’une page web…) : Shopenhauer, Arthur (2002), _L’Art d’avoir toujours raison_, link:https://fr.wikisource.org/wiki/L’Art_d’avoir_toujours_raison[].
 Un détecteur de plagiat automatique sera utilisé. Tout plagiat manifeste pourra amener à une sanction disciplinaire. 
 
 === Une expression écrite impeccable
