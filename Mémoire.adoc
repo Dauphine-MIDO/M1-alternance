@@ -1,7 +1,7 @@
 = Le mémoire de M1 MIAGE en apprentissage
 :toc:
 
-Document détaillé à l'usage de l'apprenti de Master Miage en apprentissage au CFA de l'AFIA.
+Document détaillé à l’usage de l’apprenti de Master Miage en apprentissage au CFA de l’AFIA.
 
 == L’objectif du mémoire
 Le mémoire de Master 1ère année par apprentissage est un travail de réflexion tirée et alimentée par les missions de l’apprenti au sein de son entreprise d’accueil. Il s’articule autour d’une problématique et d’un ou deux projets informatiques significatifs concrets auxquels l’apprenti a participé.
@@ -128,7 +128,7 @@ Avant tout, ne pas oublier de numéroter les pages. Cette pagination doit être 
 === Le nombre de pages
 Attention ! L’épaisseur d’un travail, notamment quand elle est fournie essentiellement par les annexes, n’est pas un signe de qualité. Une quarantaine de pages constitue un format de référence. Le remplissage forcené ou les propos dilatoires seront considérés comme des points négatifs du travail.
 
-Prévoir au minimum 3 exemplaires du mémoire : un pour le maitre d’apprentissage (remis par l’apprenti), deux remis au secrétariat (un pour le tuteur enseignant, un pour le CFA) TODO
+Prévoir au minimum 3 exemplaires du mémoire : un pour le maitre d’apprentissage (remis par l’apprenti), deux remis au secrétariat (un pour le tuteur enseignant, un pour le CFA)
 
 == Le déroulement de la soutenance
 Une soutenance ne s’improvise pas ; elle se prépare, se répète seul et en public.
@@ -138,7 +138,7 @@ La soutenance se déroule devant le jury composé du tuteur enseignant, du maitr
 La soutenance dure une demi-heure et comporte successivement les deux exercices suivants :
 
 - l’apprentie expose en 20 minutes le sujet développé dans le mémoire en s’appuyant sur une présentation
-- un entretien de 10 minutes se déroule ensuite, autour de questions posées par le jury.
+- un entretien de 10 minutes se déroule ensuite, autour de questions posées par le jury
 
 == Le rôle des tuteurs 
 Le tuteur enseignant :
@@ -156,27 +156,22 @@ La maitresse d’apprentissage :
 
 == Planning
 
-Avant le 20 janvier
-- L'apprenti discute avec le Maitre d’apprentissage, le tuteur enseignant et le chargé de mission du CFA du thème et l'enregistre dans le livret.
-	énoncer la problématique choisie
-	décrire le contexte (environnement dans lequel le problème s’est posé) 
-	et mettre en avant la motivation pour ce choix.
-  
-  
-Avant le 30 mars
-Faire viser le plan détaillé du mémoire (env. 2 pages) par les différents tuteurs.
-Enregistrer le plan dans le livret
+. Avant le 20 janvier : L’apprentie discute avec le maitre d’apprentissage, le tuteur enseignant et le chargé de mission du CFA du thème et l’enregistre dans le livret de Afia Link
+** Énoncer la problématique choisie
+** Décrire le contexte (l’environnement dans lequel le problème s’est posé) 
+** Mettre en avant la motivation pour ce choix
 
-27 aout:
-Remettre 2 exemplaires au secrétariat
-3ème exemplaire remis directement au maître d'apprentissage
-Pénalité de 4 points sur la note finale en cas de remise tardive ou de non visa par l’entreprise.
-S'assurer que chacun des membres du jury dispose du mémoire.
+. Avant le 30 mars : Faire viser le plan détaillé du mémoire (env. 2 pages) par les deux encadrants
+** Enregistrer le plan dans le livret
 
-Semaine du 31 Aout:
-Soutenance
-Planning diffusé au mois de luin
-S’assurer quelques jours avant la date de sa soutenance que tous les membres du jury sont bien au courant des lieux, date et heure.
+. Avant le 27 aout
+** Remettre 2 exemplaires au secrétariat
+** 3ème exemplaire remis directement au maitre d’apprentissage
+** Pénalité de 4 points sur la note finale en cas de remise tardive ou de non visa par l’entreprise
+** S'assurer que chacun des membres du jury dispose du mémoire
 
-
+. Semaine du 31 Aout
+** Soutenance
+** Planning diffusé au mois de juin
+** S’assurer quelques jours avant la date de sa soutenance que tous les membres du jury sont bien au courant des lieux, date et heure
 
