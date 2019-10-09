@@ -128,8 +128,6 @@ Avant tout, ne pas oublier de numéroter les pages. Cette pagination doit être 
 === Le nombre de pages
 Attention ! L’épaisseur d’un travail, notamment quand elle est fournie essentiellement par les annexes, n’est pas un signe de qualité. Une quarantaine de pages constitue un format de référence. Le remplissage forcené ou les propos dilatoires seront considérés comme des points négatifs du travail.
 
-Prévoir au minimum 3 exemplaires du mémoire : un pour le maitre d’apprentissage (remis par l’apprenti), deux remis au secrétariat (un pour le tuteur enseignant, un pour le CFA)
-
 == Le déroulement de la soutenance
 Une soutenance ne s’improvise pas ; elle se prépare, se répète seul et en public.
 
@@ -165,7 +163,7 @@ La maitresse d’apprentissage :
 ** Enregistrer le plan dans le livret
 
 . Avant le 27 aout
-** Remettre 2 exemplaires au secrétariat
+** Remettre 2 exemplaires au secrétariat (un pour le tuteur enseignant, un pour le CFA)
 ** 3ème exemplaire remis directement au maitre d’apprentissage
 ** Pénalité de 4 points sur la note finale en cas de remise tardive ou de non visa par l’entreprise
 ** S'assurer que chacun des membres du jury dispose du mémoire
