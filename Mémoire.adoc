@@ -24,9 +24,9 @@ Le mémoire doit au minimum :
 - Décrire le contexte : l’environnement dans lequel le problème s’est posé doit être professionnel
 - Expliciter les raisons du choix du sujet
 - Présenter l’approche de résolution du problème dans l’entreprise. C’est le cœur du mémoire. Il est l’expression des méthodes, modèles, approches ou autres éléments de résolution proposés
-- Avoir une attitude critique, indiquer les hypothèses choisies et retenues.
-- Énoncer les conditions d’application de l’approche proposée. Cerner le champ d’application de la solution ou de la voie de résolution proposée.
-- Réfléchir sur la conduite du mémoire et la prospective.
+- Adopter une attitude critique, indiquer les hypothèses choisies et retenues
+- Énoncer les conditions d’application de l’approche proposée ; cerner le champ d’application de la solution ou de la voie de résolution proposée
+- Réfléchir sur la conduite du mémoire et la prospective
 
 La conclusion doit comporter une évaluation du mémoire et de la méthode suivie en apportant des réponses aux deux questions : _Où en suis-je ? Ai-je atteint mes objectifs ?_
 Il peut également s’agir d’exprimer les limites de la démarche adoptée.
@@ -99,7 +99,7 @@ La mise en évidence des lacunes, des erreurs n’est pas négative dans le cas 
 
 == Règles de rédaction et de présentation matérielle
 === Originalité du mémoire
-Le document ne peut pas être la superposition de morceaux de textes/images pris sur Internet. 
+Le document ne peut pas être la superposition de morceaux de textes et d’images pris sur Internet.
 
 Il faut citer précisément la source de vos affirmations et de vos figures, _à l’endroit où vous en faites usage_, si elles ne sont pas votre création personnelle. Il ne suffit pas de citer toutes vos sources en vrac en fin de document mais il faut indiquer quel texte ou quelle figure vient de quelle source. Tout ce qui n’est pas accompagné d’une source est sous-entendu être de votre création, donc si vous n’indiquez pas vos sources précisément, vous vous appropriez indûment le travail d’autrui.
 
