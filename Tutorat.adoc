@@ -1,6 +1,6 @@
 = Tutorat
 
-La règle à MIDO est d’affecter un tuteur enseignant à chaque étudiant en apprentissage. Généralement, les enseignants intervenant dans la formation suivent des étudiants au prorata de leur nombre d’ECTS dans la formation. Ce suivi, entrant dans le cadre de vos fonctions, est payé en heures équivalent TD (5 HTD visite + 2 HTD encadrement, suivi + 1 HTD présidence d’un jury). Chaque apprenti a également un maitre d’apprentissage, une personne de l’entreprise dans laquelle l’apprenti travaille, qui l’encadre sur place.
+La règle à MIDO est d’affecter un tuteur enseignant à chaque étudiant en apprentissage. Généralement, les enseignants intervenant dans la formation suivent des étudiants au prorata de leur nombre d’ECTS dans la formation. Ce suivi, entrant dans le cadre de vos fonctions, est payé en heures équivalent TD (5 HTD visite + 2 HTD encadrement, suivi). Chaque apprenti a également un maitre d’apprentissage, une personne de l’entreprise dans laquelle l’apprenti travaille, qui l’encadre sur place.
 
 La liste des apprentis, tuteurs enseignants, maitres d’apprentissage est https://universitedauphine-my.sharepoint.com/:x:/g/personal/olivier_cailloux_lamsade_dauphine_fr/Ec_VKGm5UMlAqcDb0uoBtq8BNvGmdPbCqN3iVDVxaJ8V_Q[ici]. Siham informe les étudiants de l’identité de leur tuteur. C’est à l’étudiant de vous contacter concernant la visite en entreprise, le plan du mémoire, …
 
@@ -9,12 +9,12 @@ Votre tâche consiste à aider l’apprenti suivi s’il rencontre une difficult
 
 Plus précisément :
 
-- Participer à la réunion de rencontre de rentrée qui aura lieu le 7 novembre à 10h en https://www.campusmap.fr/map/dauphine-paris?place=A700[A700] (L3 et M1) afin de rencontrer la maitresse d’apprentissage et l’apprenti et vérifier avec eux que la mission a bien débutée en entreprise
+- Participer à la réunion de rencontre de rentrée qui aura lieu le 7 novembre à 9h en https://www.campusmap.fr/map/dauphine-paris?place=A700[A700] (L3 et M1) afin de rencontrer la maitresse d’apprentissage et l’apprenti et vérifier avec eux que la mission a bien débutée en entreprise (votre présence est importante à partir de 9h45 pour la rencontre elle-même, vous pouvez sauter la présentation si vous la connaissez déjà)
 - Répondre aux questions éventuelles des apprentis, les aider s’ils ont des problèmes dans leur travail en entreprise ; conseiller et accompagner l’étudiant dans la formation ; avertir Patricia Lavagna du CFA ou Olivier Cailloux en cas de problème
-- Rendre visite à l’apprentie et à son maitre d’apprentissage (veiller à ce que son stage lui soit profitable dans le cadre de ses études, que ses conditions de travail soient adéquates, que l’étudiante assure son travail avec sérieux)
-- Envoyer un bref compte-rendu de votre visite en entreprise, à destination de mailto:plavagna@cfa-afia.fr[Patricia Lavagna], avec l’apprenti et de son maitre d’apprentissage en copie
+- Rendre visite à l’apprentie et à son maitre d’apprentissage (veiller à ce que son stage lui soit profitable dans le cadre de ses études, que ses conditions de travail soient adéquates, que l’étudiante assure son travail avec sérieux, s’assurer que la mission pourra évoluer en M2 en cohérence avec la spécialisation visée par l’apprentie)
+- Envoyer un bref compte-rendu de votre visite en entreprise, à déposer sur Afia Link (à destination de mailto:plavagna@cfa-afia.fr[Patricia Lavagna], avec l’apprenti et de son maitre d’apprentissage en copie)
 - Valider la problématique choisie pour le mémoire ; guider et conseiller l'apprenti pour l’élaboration de son mémoire (lire : https://github.com/Dauphine-MIDO/M1-app/blob/master/M%C3%A9moire.adoc#lobjectif-du-m%C3%A9moire[L’objectif du mémoire])
-- Participer à la https://github.com/Dauphine-MIDO/M1-app/blob/master/M%C3%A9moire.adoc#le-d%C3%A9roulement-de-la-soutenance[soutenance] du mémoire qui aura lieu début septembre (?) (et donc bien sûr lire le manuscrit avant la soutenance)
+- Participer à la https://github.com/Dauphine-MIDO/M1-app/blob/master/M%C3%A9moire.adoc#le-d%C3%A9roulement-de-la-soutenance[soutenance] du mémoire qui aura lieu début septembre (et donc bien sûr lire le manuscrit avant la soutenance)
 
 == Mémoire
 Nous comptons sur les bonnes volontés des intervenants dans le parcours pour jouer le rôle de président de jury. (Comptez 1HETD de décharge pour chaque soutenance.)
