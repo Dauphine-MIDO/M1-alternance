@@ -99,8 +99,14 @@ La mise en évidence des lacunes, des erreurs n’est pas négative dans le cas 
 
 == Règles de rédaction et de présentation matérielle
 === Originalité du mémoire
-Le document ne peut pas être la superposition de morceaux de textes/images pris sur Internet. Dans le cas où vous utilisez des citations, ou des illustrations, celles-ci doivent apparaitre clairement (par exemple entre guillemets ou en italique) et faire référence explicitement au document original en précisant la source précise (ne pas se contenter d’indiquer le livre d’où vient la citation, mais préciser son n° de page, ou la section d’où la citation est tirée). Par exemple : d’après Schopenhauer (1864, Stratagème XXX), « Ce que l’on appelle l’opinion générale est, somme toute, l’opinion de deux ou trois personnes et il est aisé de s’en convaincre lorsque l’on comprend comment l’opinion générale se développe ». Dans cet exemple, on a précisé que l’extrait vient de la section intitulée Stratagème XXX. Il faut en outre, en fin de document ou en note de bas de page, préciser la référence complète (titre du livre, édition, lien s’il s’agit d’une page web…) : Shopenhauer, Arthur (1864), _L’Art d’avoir toujours raison_, link:https://fr.wikisource.org/wiki/L’Art_d’avoir_toujours_raison[]. De même, il faut citer précisément la source de vos figures, _à l’endroit où vous en faites usage_, si elles ne sont pas votre création personnelle, il ne suffit pas de citer toutes vos sources en vrac en fin de document mais il faut indiquer quel texte ou quelle figure vient de quelle source. Tout ce qui n’est pas accompagné d’une source est sous-entendu être de votre création.
+Le document ne peut pas être la superposition de morceaux de textes/images pris sur Internet. 
+
+Il faut citer précisément la source de vos affirmations et de vos figures, _à l’endroit où vous en faites usage_, si elles ne sont pas votre création personnelle. Il ne suffit pas de citer toutes vos sources en vrac en fin de document mais il faut indiquer quel texte ou quelle figure vient de quelle source. Tout ce qui n’est pas accompagné d’une source est sous-entendu être de votre création, donc si vous n’indiquez pas vos sources précisément, vous vous appropriez indûment le travail d’autrui.
+
 Un détecteur de plagiat automatique sera utilisé. Tout plagiat manifeste pourra amener à une sanction disciplinaire. 
+
+=== Règles de citation et bibliographie
+Les citations doivent apparaitre clairement (par exemple entre guillemets ou en italique) et faire référence explicitement au document original en précisant la source précise (ne pas se contenter d’indiquer le livre d’où vient la citation, mais préciser son n° de page, ou la section d’où la citation est tirée). Par exemple : d’après Schopenhauer (1864, Stratagème XXX), « Ce que l’on appelle l’opinion générale est, somme toute, l’opinion de deux ou trois personnes et il est aisé de s’en convaincre lorsque l’on comprend comment l’opinion générale se développe ». Dans cet exemple, on a précisé que l’extrait vient de la section intitulée Stratagème XXX. Il faut en outre, en fin de document ou en note de bas de page, préciser la référence complète (titre du livre, édition, lien s’il s’agit d’une page web…) : Shopenhauer, Arthur (1864), _L’Art d’avoir toujours raison_, link:https://fr.wikisource.org/wiki/L’Art_d’avoir_toujours_raison[]. http://ecsocman.hse.ru/data/724/883/1217/senx281995x29.pdf[Exemple] réel.
 
 === Une expression écrite impeccable
 Le mémoire doit être agréable à lire, donc bien présenté, bien articulé… et bien écrit. L’orthographe, la syntaxe et la ponctuation doivent être irréprochables.
@@ -120,7 +126,14 @@ Toute annexe doit être énoncée et utilisée dans le texte. Il y fait référe
 === Présentation matérielle
 Un mémoire comporte généralement dans l’ordre :
 
-TODO
+. Une page de garde
+. Les remerciements
+. Un sommaire (une page). Premier texte consulté par le lecteur, il présente tous les documents contenus dans le mémoire avec leur pagination exacte. S’assurer de l’exactitude des liens.
+. Le texte proprement dit : introduction, chapitres, conclusion
+. La bibliographie
+. Une table des annexes (numéro, titre détaillé et numéro de page)
+. Les annexes
+. Un dos cartonné
 
 === La pagination
 Avant tout, ne pas oublier de numéroter les pages. Cette pagination doit être continue, en chiffres arabes pour le corps du texte et en chiffres romains pour le préambule (table des matières, …) et les annexes. Elle commence dès le premier feuillet inclus dans le mémoire, qu’il comporte ou non un texte, et se termine au dernier feuillet. Les pages de titres, pages blanches et le sommaire comptent dans la pagination, même si elles ne sont pas numérotées.
