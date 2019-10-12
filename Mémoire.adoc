@@ -8,7 +8,7 @@ Le mémoire de Master 1ère année par apprentissage est un travail de réflexio
 
 Le travail confié à l’apprentie ne peut être un travail d’exécution ou à vocation uniquement descriptive. Une mission, une activité en responsabilité, la conduite d’un projet sont généralement confiées. Les observations et les réponses que l’apprentie apportera, pour la totalité ou partie, feront l’objet de la rédaction du mémoire.
 
-Contrairement à un rapport de stage, *ce mémoire ne doit pas être un simple rapport d’activités*. (Le rapport de stage a pour simple but d’exposer, d’expliquer, de justifier l’ensemble des activités effectuées au cours de la mission, et d’éclairer comment l’activité principale de l’apprenti au sein de l’entreprise a été comprise, réalisée et menée à terme.)
+*Ce mémoire est bien plus qu’un simple rapport de stage.* (Le rapport de stage a pour simple but d’exposer, d’expliquer, de justifier l’ensemble des activités effectuées au cours de la mission, et d’éclairer comment l’activité principale de l’apprenti au sein de l’entreprise a été comprise, réalisée et menée à terme.)
 
 Il est le témoignage de compétences à un double niveau :
 
@@ -22,15 +22,11 @@ Le mémoire doit au minimum :
 
 - Énoncer la problématique : le problème posé doit être exprimé de manière explicite et claire
 - Décrire le contexte : l’environnement dans lequel le problème s’est posé doit être professionnel
-- Expliciter les raisons du choix du sujet
+- Fournir un état de l’art des approches possibles pour cette problématique
 - Présenter l’approche de résolution du problème dans l’entreprise. C’est le cœur du mémoire. Il est l’expression des méthodes, modèles, approches ou autres éléments de résolution proposés
-- Adopter une attitude critique, indiquer les hypothèses choisies et retenues
-- Énoncer les conditions d’application de l’approche proposée ; cerner le champ d’application de la solution ou de la voie de résolution proposée
-- Réfléchir sur la conduite du mémoire et la prospective
+- Adopter une attitude critique : indiquer les hypothèses choisies et retenues, les conditions d’application et limites de l’approche retenue ; comparer aux autres approches possibles trouvées dans l’état de l’art ; cerner le champ d’application de la solution ou de la voie de résolution proposée
 
-La conclusion doit comporter une évaluation du mémoire et de la méthode suivie en apportant des réponses aux deux questions : _Où en suis-je ? Ai-je atteint mes objectifs ?_
-Il peut également s’agir d’exprimer les limites de la démarche adoptée.
-D’un point de vue prospectif, il s’agit de répondre à la question : _Où aller ?_
+La conclusion doit comporter une évaluation de la méthode suivie en apportant des réponses aux deux questions : _Où en suis-je ? Ai-je atteint mes objectifs ?_ Il peut également aborder la question prospective : _Où aller ?_
 
 == S’organiser pour la rédaction
 Une rédaction efficace du mémoire suppose un minimum d’organisation.
@@ -62,6 +58,9 @@ Le plan du mémoire ne doit pas juxtaposer la théorie et la pratique. Le conten
 Les grandes étapes du plan illustrent sa logique et sa cohérence. La rédaction des titres assure sa dimension explicite. Les titres doivent être rédigés de façon homogène. Cette homogénéité doit être assurée à tous les niveaux du plan.
 
 Les titres sont essentiels pour la lecture. Ils présentent et synthétisent le contenu des parties et chapitres. Ils doivent être explicites sans être trop longs.
+
+=== L’état de l’art
+Rédiger un bon état de l’art prend du temps. Renseignez-vous auprès de connaisseurs de la litérature pour vous fournir de bons points de départ : encadrants dans l’entreprise ; enseignants des matières concernées. L’objectif est de recencer les approches proposées généralement dans les ouvrages de référence pour aborder le genre de problème qui vous intéresse. L’état de l’art doit permettre de situer la solution mise en œuvre parmi l’ensemble des approches connues, et d’indiquer sur quels aspects elle innove le cas échéant. Il doit contribuer à répondre à la question : qu’aurait-on pu faire d’autre ? Quels auraient été les avantages et inconvénients d’autres approches ?
 
 === Les points particuliers et délicats à rédiger
 ==== Première page
@@ -98,17 +97,14 @@ Sans être démesurée, cette conclusion doit être dense et il est important d�
 La mise en évidence des lacunes, des erreurs n’est pas négative dans le cas d’un travail qui représente une expérience limitée. Elle illustre au contraire les qualités d’analyse, la lucidité, l’honnêteté intellectuelle.
 
 == Règles de rédaction et de présentation matérielle
-=== Originalité du mémoire
-Le document ne peut pas être la superposition de morceaux de textes et d’images pris sur Internet.
-
+=== Bibliographie
 Il faut citer précisément la source de vos affirmations et de vos figures, _à l’endroit où vous en faites usage_, si elles ne sont pas votre création personnelle. Il ne suffit pas de citer toutes vos sources en vrac en fin de document mais il faut indiquer quel texte ou quelle figure vient de quelle source. Tout ce qui n’est pas accompagné d’une source est sous-entendu être de votre création, donc si vous n’indiquez pas vos sources précisément, vous vous appropriez indûment le travail d’autrui.
 
 Un détecteur de plagiat automatique sera utilisé. Tout plagiat manifeste pourra amener à une sanction disciplinaire. 
 
-=== Règles de citation et bibliographie
-Les citations doivent apparaitre clairement (par exemple entre guillemets ou en italique) et faire référence explicitement au document original en précisant la source précise (ne pas se contenter d’indiquer le livre d’où vient la citation, mais préciser son n° de page, ou la section d’où la citation est tirée). 
+Les citations doivent apparaitre clairement (par exemple entre guillemets ou en italique) et faire référence explicitement au document original en précisant la source précise (ne pas se contenter d’indiquer le livre d’où vient la citation, mais préciser son n° de page, ou la section d’où la citation est tirée). Il faut préciser la référence complète dans la section Bibliographie : titre du livre, édition, lien s’il s’agit d’une page web… 
 
-Par exemple : d’après Schopenhauer (1864, Stratagème XXX), « _Ce que l’on appelle l’opinion générale est, somme toute, l’opinion de deux ou trois personnes et il est aisé de s’en convaincre lorsque l’on comprend comment l’opinion générale se développe_ ». Dans cet exemple, on a précisé que l’extrait vient de la section intitulée Stratagème XXX. Il faut en outre, en fin de document ou en note de bas de page, préciser la référence complète (titre du livre, édition, lien s’il s’agit d’une page web…) : Shopenhauer, Arthur (1864), _L’Art d’avoir toujours raison_, link:https://fr.wikisource.org/wiki/L’Art_d’avoir_toujours_raison[]. http://darp.lse.ac.uk/PapersDB/Sen_(Econometrica_77).pdf[Exemple] réel.
+Par exemple : d’après Schopenhauer (1864, Stratagème XXX), « _Ce que l’on appelle l’opinion générale est, somme toute, l’opinion de deux ou trois personnes et il est aisé de s’en convaincre lorsque l’on comprend comment l’opinion générale se développe_ ». Dans cet exemple, on a précisé que l’extrait vient de la section intitulée Stratagème XXX. Et on trouvera dans la section Bibliographie : Shopenhauer, Arthur (1864), _L’Art d’avoir toujours raison_, link:https://fr.wikisource.org/wiki/L’Art_d’avoir_toujours_raison[]. http://darp.lse.ac.uk/PapersDB/Sen_(Econometrica_77).pdf[Exemple] réel.
 
 === Une expression écrite impeccable
 Le mémoire doit être agréable à lire, donc bien présenté, bien articulé… et bien écrit. L’orthographe, la syntaxe et la ponctuation doivent être irréprochables.
@@ -119,11 +115,8 @@ Il est indispensable de se relire et de se faire relire. Pour la fluidité de la
 === Les représentations graphiques
 Ces schémas et graphiques doivent être accompagnés de titres explicatifs, de légendes, et surtout d’un commentaire pertinent et précis. Le corps du texte y fait explicitement référence.
 
-=== La bibliographie
-Chaque référence bibliographique doit faire l’objet d’une mention dans le texte, là où elle est utilisée. Un mémoire se doit d’avoir une bibliographie dans laquelle sont cités les ouvrages, articles, documents, sites Internet qui ont été consultés et utilisés pour rédiger le mémoire dans le format adéquat. Elle se situe à la fin du mémoire, après la conclusion et avant les annexes. Les références du texte ne doivent pas figurer en bas de page mais doivent renvoyer à la bibliographie. 
-
 === Les annexes
-Toute annexe doit être énoncée et utilisée dans le texte. Il y fait référence de façon précise chaque fois que le lecteur est invité à le consulter (exemple : cf. annexe n° X page Y). Les annexes sont regroupées, intitulées, numérotées et paginées après la conclusion et la bibliographie. Leur pagination continue celle du texte principal. Elles sont précédées d’un sommaire propre. Leur nombre ne doit pas excéder 10.
+Toute annexe doit être énoncée et utilisée dans le texte. Il y fait référence de façon précise chaque fois que le lecteur est invité à le consulter (exemple : cf. annexe n° X page Y). Les annexes sont regroupées, intitulées, numérotées et paginées. Leur pagination continue celle du texte principal. Elles sont précédées d’un sommaire propre. Leur nombre ne doit pas excéder 10.
 
 === Présentation matérielle
 Un mémoire comporte généralement dans l’ordre :
@@ -135,10 +128,9 @@ Un mémoire comporte généralement dans l’ordre :
 . La bibliographie
 . Une table des annexes (numéro, titre détaillé et numéro de page)
 . Les annexes
-. Un dos cartonné
 
 === La pagination
-Avant tout, ne pas oublier de numéroter les pages. Cette pagination doit être continue, en chiffres arabes pour le corps du texte et en chiffres romains pour le préambule (table des matières, …) et les annexes. Elle commence dès le premier feuillet inclus dans le mémoire, qu’il comporte ou non un texte, et se termine au dernier feuillet. Les pages de titres, pages blanches et le sommaire comptent dans la pagination, même si elles ne sont pas numérotées.
+Avant tout, ne pas oublier de numéroter les pages. Cette pagination doit être continue, en chiffres arabes pour le corps du texte et en chiffres romains pour le préambule (table des matières, …) et les annexes. Elle commence dès le premier feuillet inclus dans le mémoire, qu’il comporte ou non un texte, et se termine au dernier feuillet. Les pages de titres, pages blanches et le sommaire comptent dans la pagination, même si elles ne sont pas numérotées. https://tel.archives-ouvertes.fr/tel-01851485/document[Exemple].
 
 === Le nombre de pages
 Attention ! L’épaisseur d’un travail, notamment quand elle est fournie essentiellement par les annexes, n’est pas un signe de qualité. Une quarantaine de pages constitue un format de référence. Le remplissage forcené ou les propos dilatoires seront considérés comme des points négatifs du travail.
