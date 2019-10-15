@@ -1,5 +1,6 @@
 = Le mémoire de M1 MIAGE en apprentissage
 :toc:
+:toc-title: Sommaire
 
 Document détaillé à l’usage de l’apprenti de Master Miage en apprentissage au CFA de l’AFIA.
 
