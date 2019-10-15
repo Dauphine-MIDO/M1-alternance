@@ -61,7 +61,7 @@ Les grandes étapes du plan illustrent sa logique et sa cohérence. La rédactio
 Les titres sont essentiels pour la lecture. Ils présentent et synthétisent le contenu des parties et chapitres. Ils doivent être explicites sans être trop longs.
 
 === L’état de l’art
-Rédiger un bon état de l’art prend du temps. Renseignez-vous auprès de connaisseurs de la litérature pour vous fournir de bons points de départ : encadrants dans l’entreprise ; enseignants des matières concernées. L’objectif est de recencer les approches proposées généralement dans les ouvrages de référence pour aborder le genre de problème qui vous intéresse. L’état de l’art doit permettre de situer la solution mise en œuvre parmi l’ensemble des approches connues, et d’indiquer sur quels aspects elle innove le cas échéant. Il doit contribuer à répondre à la question : qu’aurait-on pu faire d’autre ? Quels auraient été les avantages et inconvénients d’autres approches ?
+Rédiger un bon état de l’art prend du temps. Renseignez-vous auprès de connaisseurs de la litérature pour vous fournir de bons points de départ : encadrants dans l’entreprise ; enseignants des matières concernées. L’objectif est de recencer les approches proposées généralement dans les ouvrages de référence pour aborder le genre de problème qui vous intéresse. L’état de l’art doit permettre de situer la solution mise en œuvre parmi l’ensemble des approches connues, et d’indiquer sur quels aspects elle innove le cas échéant. Il doit contribuer à répondre à la question : qu’aurait-on pu faire d’autre ? Quels auraient été les avantages et inconvénients d’autres approches ?
 
 === Les points particuliers et délicats à rédiger
 ==== Première page
