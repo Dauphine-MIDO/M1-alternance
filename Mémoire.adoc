@@ -27,11 +27,11 @@ Le mémoire doit au minimum :
 - Présenter l’approche de résolution du problème dans l’entreprise. C’est le cœur du mémoire. Il est l’expression des méthodes, modèles, approches ou autres éléments de résolution proposés
 - Adopter une attitude critique : indiquer les hypothèses choisies et retenues, les conditions d’application et limites de l’approche retenue ; comparer aux autres approches possibles trouvées dans l’état de l’art ; cerner le champ d’application de la solution ou de la voie de résolution proposée
 
+Rédiger un bon état de l’art prend du temps. Renseignez-vous auprès de connaisseurs de la litérature pour vous fournir de bons points de départ : encadrants dans l’entreprise ; enseignants des matières concernées. L’objectif est de recencer les approches proposées généralement dans les ouvrages de référence pour aborder le genre de problème qui vous intéresse. L’état de l’art doit permettre de situer la solution mise en œuvre parmi l’ensemble des approches connues, et d’indiquer sur quels aspects elle innove le cas échéant. Il doit contribuer à répondre à la question : qu’aurait-on pu faire d’autre ? Quels auraient été les avantages et inconvénients d’autres approches ?
+
 La conclusion doit comporter une évaluation de la méthode suivie en apportant des réponses aux deux questions : _Où en suis-je ? Ai-je atteint mes objectifs ?_ Il peut également aborder la question prospective : _Où aller ?_
 
-== S’organiser pour la rédaction
-Une rédaction efficace du mémoire suppose un minimum d’organisation.
-
+== Règles de rédaction et de présentation matérielle
 === Le plan
 Le plan est essentiel. Il structure le texte, il en organise les étapes de lecture pour le destinataire. Un bon plan n’est pas un plan compliqué. Un plan de qualité est équilibré, cohérent, explicite et logique. Il reflète la démarche intellectuelle adoptée par l’apprenti pour rendre compte le plus efficacement possible de son expérience.
 
@@ -43,45 +43,7 @@ Les grandes étapes du plan illustrent sa logique et sa cohérence. La rédactio
 
 Les titres sont essentiels pour la lecture. Ils présentent et synthétisent le contenu des parties et chapitres. Ils doivent être explicites sans être trop longs.
 
-=== L’état de l’art
-Rédiger un bon état de l’art prend du temps. Renseignez-vous auprès de connaisseurs de la litérature pour vous fournir de bons points de départ : encadrants dans l’entreprise ; enseignants des matières concernées. L’objectif est de recencer les approches proposées généralement dans les ouvrages de référence pour aborder le genre de problème qui vous intéresse. L’état de l’art doit permettre de situer la solution mise en œuvre parmi l’ensemble des approches connues, et d’indiquer sur quels aspects elle innove le cas échéant. Il doit contribuer à répondre à la question : qu’aurait-on pu faire d’autre ? Quels auraient été les avantages et inconvénients d’autres approches ?
-
-=== Les points particuliers et délicats à rédiger
-==== Première page
-La première page (c-à-d la page de garde) doit comporter les informations suivantes : NOM, Prénom de l’apprenti (majuscules accentuées ou virgule SVP), Formation, Entreprise d’accueil, Titre du mémoire, Tuteur enseignant, Maitre d’apprentissage, Résumé (dix lignes max.). Mentionner également le CFA sur votre page de garde.
-
-==== Le titre
-Le titre doit explicitement faire ressortir la problématique. 
-Exemple : « le rôle des systèmes d’information dans le développement de la fonction marketing » ou « introduction d’un ERP et changements organisationnels ».
-
-==== La présentation de la structure d’accueil
-Il s’agit d’un élément qui doit rester minoritaire dans l’ensemble du mémoire. Il n’a de sens que pour mettre en contexte la problématique choisie. Il faut éviter les interminables descriptions pour en rester à une approche analytique : elle n’est pas exhaustive mais orientée en fonction de la mission et de la problématique retenue. 
-
-Par exemple, elle peut faire ressortir les spécificités de l’entreprise au regard de la mission : pourquoi l’entreprise, au regard de son activité, s’est-elle posé ce problème ?
-
-==== La présentation de la mission
-Le mémoire explique clairement et simplement la place, le rôle de l’apprentie eu sein de l’entreprise d’accueil. Il situe la fonction de la mission dans le contexte et la finalité globale de l’entreprise. Il explicite un travail par définition limité tant dans sa durée que dans sa responsabilité.
-
-==== L’analyse du contexte, de la situation
-Un problème technique ou fonctionnel a été posé à l’apprenti. Il s’agit d’énoncer clairement comment et pourquoi le problème a été posé et d’en faire apparaitre tous les tenants et aboutissants.
-
-==== La démarche de résolution du problème
-Quelles méthodes adaptées au contexte l’apprentie a-t-il adoptées : la rédaction de cahier des charges, comment recueillir l’expression des besoins de la MOA (réunions, guide d’entretien, sondage…), suivant quel calendrier, quelle méthodologie de gestion de projet, etc.. ?
-
-==== La présentation des résultats
-Tout résultat obtenu doit être analysé et commenté, en particulier au regard des objectifs initiaux. L’analyse des écarts et des difficultés est essentielle.
-
-==== Les suggestions, les propositions
-S’il y a lieu de le faire, elles doivent être énoncées avec précision et justifiées. Il faut mettre en évidence leurs apports, mais également reconnaitre leurs éventuelles limites ou difficultés d’application par rapport à la réalité de l’entreprise.
-
-==== Conclusion
-Concluez quant à la diversité des intérêts de la mission : intérêts professionnel, personnel, humain et intellectuel.
-
-Sans être démesurée, cette conclusion doit être dense et il est important d’éviter les clichés.
-La mise en évidence des lacunes, des erreurs n’est pas négative dans le cas d’un travail qui représente une expérience limitée. Elle illustre au contraire les qualités d’analyse, la lucidité, l’honnêteté intellectuelle.
-
-== Règles de rédaction et de présentation matérielle
-=== Bibliographie
+=== La bibliographie
 Il faut citer précisément la source de vos affirmations et de vos figures, _à l’endroit où vous en faites usage_, si elles ne sont pas votre création personnelle. Il ne suffit pas de citer toutes vos sources en vrac en fin de document mais il faut indiquer quel texte ou quelle figure vient de quelle source. Tout ce qui n’est pas accompagné d’une source est sous-entendu être de votre création, donc si vous n’indiquez pas vos sources précisément, vous vous appropriez indûment le travail d’autrui.
 
 Un détecteur de plagiat automatique sera utilisé. Tout plagiat manifeste pourra amener à une sanction disciplinaire. 
@@ -118,6 +80,40 @@ Avant tout, ne pas oublier de numéroter les pages. Cette pagination doit être 
 
 === Le nombre de pages
 Attention ! L’épaisseur d’un travail, notamment quand elle est fournie essentiellement par les annexes, n’est pas un signe de qualité. Une quarantaine de pages constitue un format de référence. Le remplissage forcené ou les propos dilatoires seront considérés comme des points négatifs du travail.
+
+=== Autres points délicats
+==== Première page
+La première page (c-à-d la page de garde) doit comporter les informations suivantes : NOM, Prénom de l’apprenti (majuscules accentuées ou virgule SVP), Formation, Entreprise d’accueil, Titre du mémoire, Tuteur enseignant, Maitre d’apprentissage, Résumé (dix lignes max.). Mentionner également le CFA sur votre page de garde.
+
+==== Le titre
+Le titre doit explicitement faire ressortir la problématique. 
+Exemple : « le rôle des systèmes d’information dans le développement de la fonction marketing » ou « introduction d’un ERP et changements organisationnels ».
+
+==== La présentation de la structure d’accueil
+Il s’agit d’un élément qui doit rester minoritaire dans l’ensemble du mémoire. Il n’a de sens que pour mettre en contexte la problématique choisie. Il faut éviter les interminables descriptions pour en rester à une approche analytique : elle n’est pas exhaustive mais orientée en fonction de la mission et de la problématique retenue. 
+
+Par exemple, elle peut faire ressortir les spécificités de l’entreprise au regard de la mission : pourquoi l’entreprise, au regard de son activité, s’est-elle posé ce problème ?
+
+==== La présentation de la mission
+Le mémoire explique clairement et simplement la place, le rôle de l’apprentie eu sein de l’entreprise d’accueil. Il situe la fonction de la mission dans le contexte et la finalité globale de l’entreprise. Il explicite un travail par définition limité tant dans sa durée que dans sa responsabilité.
+
+==== L’analyse du contexte, de la situation
+Un problème technique ou fonctionnel a été posé à l’apprenti. Il s’agit d’énoncer clairement comment et pourquoi le problème a été posé et d’en faire apparaitre tous les tenants et aboutissants.
+
+==== La démarche de résolution du problème
+Quelles méthodes adaptées au contexte l’apprentie a-t-il adoptées : la rédaction de cahier des charges, comment recueillir l’expression des besoins de la MOA (réunions, guide d’entretien, sondage…), suivant quel calendrier, quelle méthodologie de gestion de projet, etc.. ?
+
+==== La présentation des résultats
+Tout résultat obtenu doit être analysé et commenté, en particulier au regard des objectifs initiaux. L’analyse des écarts et des difficultés est essentielle.
+
+==== Les suggestions, les propositions
+S’il y a lieu de le faire, elles doivent être énoncées avec précision et justifiées. Il faut mettre en évidence leurs apports, mais également reconnaitre leurs éventuelles limites ou difficultés d’application par rapport à la réalité de l’entreprise.
+
+==== Conclusion
+Concluez quant à la diversité des intérêts de la mission : intérêts professionnel, personnel, humain et intellectuel.
+
+Sans être démesurée, cette conclusion doit être dense et il est important d’éviter les clichés.
+La mise en évidence des lacunes, des erreurs n’est pas négative dans le cas d’un travail qui représente une expérience limitée. Elle illustre au contraire les qualités d’analyse, la lucidité, l’honnêteté intellectuelle.
 
 == Le déroulement de la soutenance
 Une soutenance ne s’improvise pas ; elle se prépare, se répète seul et en public.
