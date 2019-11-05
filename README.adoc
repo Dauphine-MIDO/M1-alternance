@@ -1,0 +1,8 @@
+= M1 apprentissage
+
+* https://docs.google.com/spreadsheets/d/15CiuejRCSkYZrPvhuQRIFRg2xbb0DKYkvSm8bW_LmxI/edit?usp=sharing[Associations] entre étudiants et cours optionnels
+* https://github.com/Dauphine-MIDO/M1-app/blob/master/Tutorat.adoc[Tutorat]
+* https://github.com/Dauphine-MIDO/M1-app/blob/master/M%C3%A9moire.adoc[Mémoire]
+* https://github.com/Dauphine-MIDO/M1-app/raw/master/Pr%C3%A9sentation%20M1%20Miage.pdf[Présentation] du parcours
+* https://github.com/Dauphine-MIDO/M1-app/blob/master/Stage%20dev.adoc[Offre] de stage
+
