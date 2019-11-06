@@ -2,7 +2,7 @@
 :toc:
 :toc-title: Sommaire
 
-Document détaillé à l’usage de l’apprenti de Master Miage en apprentissage au CFA de l’AFIA.
+//Document détaillé à l’usage de l’apprenti de Master Miage en apprentissage au CFA de l’AFIA.
 
 == L’objectif du mémoire
 Le mémoire de Master 1ère année par apprentissage est un travail de réflexion tirée et alimentée par les missions de l’apprenti au sein de son entreprise d’accueil. Il s’articule autour d’une problématique et d’un ou deux projets informatiques significatifs concrets auxquels l’apprenti a participé.
@@ -81,35 +81,35 @@ Avant tout, ne pas oublier de numéroter les pages. Cette pagination doit être 
 === Le nombre de pages
 Attention ! L’épaisseur d’un travail, notamment quand elle est fournie essentiellement par les annexes, n’est pas un signe de qualité. Une quarantaine de pages constitue un format de référence. Le remplissage forcené ou les propos dilatoires seront considérés comme des points négatifs du travail.
 
-=== Autres points délicats
-==== Première page
+== Quelques points délicats
+=== Première page
 La première page (c-à-d la page de garde) doit comporter les informations suivantes : NOM, Prénom de l’apprenti (majuscules accentuées ou virgule SVP), Formation, Entreprise d’accueil, Titre du mémoire, Tuteur enseignant, Maitre d’apprentissage, Résumé (dix lignes max.). Mentionner également le CFA sur votre page de garde.
 
-==== Le titre
+=== Le titre
 Le titre doit explicitement faire ressortir la problématique. 
 Exemple : « le rôle des systèmes d’information dans le développement de la fonction marketing » ou « introduction d’un ERP et changements organisationnels ».
 
-==== La présentation de la structure d’accueil
+=== La présentation de la structure d’accueil
 Il s’agit d’un élément qui doit rester minoritaire dans l’ensemble du mémoire. Il n’a de sens que pour mettre en contexte la problématique choisie. Il faut éviter les interminables descriptions pour en rester à une approche analytique : elle n’est pas exhaustive mais orientée en fonction de la mission et de la problématique retenue. 
 
 Par exemple, elle peut faire ressortir les spécificités de l’entreprise au regard de la mission : pourquoi l’entreprise, au regard de son activité, s’est-elle posé ce problème ?
 
-==== La présentation de la mission
+=== La présentation de la mission
 Le mémoire explique clairement et simplement la place, le rôle de l’apprentie eu sein de l’entreprise d’accueil. Il situe la fonction de la mission dans le contexte et la finalité globale de l’entreprise. Il explicite un travail par définition limité tant dans sa durée que dans sa responsabilité.
 
-==== L’analyse du contexte, de la situation
+=== L’analyse du contexte, de la situation
 Un problème technique ou fonctionnel a été posé à l’apprenti. Il s’agit d’énoncer clairement comment et pourquoi le problème a été posé et d’en faire apparaitre tous les tenants et aboutissants.
 
-==== La démarche de résolution du problème
+=== La démarche de résolution du problème
 Quelles méthodes adaptées au contexte l’apprentie a-t-il adoptées : la rédaction de cahier des charges, comment recueillir l’expression des besoins de la MOA (réunions, guide d’entretien, sondage…), suivant quel calendrier, quelle méthodologie de gestion de projet, etc.. ?
 
-==== La présentation des résultats
+=== La présentation des résultats
 Tout résultat obtenu doit être analysé et commenté, en particulier au regard des objectifs initiaux. L’analyse des écarts et des difficultés est essentielle.
 
-==== Les suggestions, les propositions
+=== Les suggestions, les propositions
 S’il y a lieu de le faire, elles doivent être énoncées avec précision et justifiées. Il faut mettre en évidence leurs apports, mais également reconnaitre leurs éventuelles limites ou difficultés d’application par rapport à la réalité de l’entreprise.
 
-==== Conclusion
+=== Conclusion
 Concluez quant à la diversité des intérêts de la mission : intérêts professionnel, personnel, humain et intellectuel.
 
 Sans être démesurée, cette conclusion doit être dense et il est important d’éviter les clichés.
