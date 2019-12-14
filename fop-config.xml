@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fop version="1.0">
+  <strict-configuration>true</strict-configuration>
+  <fonts>
+    <substitutions>
+      <substitution>
+        <from font-family="Symbol" font-weight="700"/>
+        <to font-family="Symbol"/>
+      </substitution>
+      <substitution>
+        <from font-family="ZapfDingbats" font-weight="700"/>
+        <to font-family="ZapfDingbats"/>
+      </substitution>
+    </substitutions>
+  </fonts>
+</fop>
