@@ -5,4 +5,5 @@
 * https://github.com/Dauphine-MIDO/M1-app/blob/master/M%C3%A9moire.adoc[Mémoire]
 * https://github.com/Dauphine-MIDO/M1-app/raw/master/Pr%C3%A9sentation%20M1%20Miage.pdf[Présentation] du parcours
 * https://github.com/Dauphine-MIDO/M1-app/blob/master/Stage%20dev.adoc[Offre] de stage
+* https://mido.dauphine.fr/fileadmin/mediatheque/mido/emploi_du_temps/emploi_du_temps_M1-IAGE-app.pdf[Emploi] du temps
 
