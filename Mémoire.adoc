@@ -1,6 +1,7 @@
 = Le mémoire de M1 MIAGE en apprentissage
 :toc:
 :toc-title: Sommaire
+:lang: fr
 
 //Document détaillé à l’usage de l’apprenti de Master Miage en apprentissage au CFA de l’AFIA.
 
@@ -50,7 +51,7 @@ Un détecteur de plagiat automatique sera utilisé. Tout plagiat manifeste pourr
 
 Les citations doivent apparaitre clairement (par exemple entre guillemets ou en italique) et faire référence explicitement au document original en précisant la source précise (ne pas se contenter d’indiquer le livre d’où vient la citation, mais préciser son n° de page, ou la section d’où la citation est tirée). Il faut préciser la référence complète dans la section Bibliographie : titre du livre, édition, lien s’il s’agit d’une page web… 
 
-Par exemple : d’après Schopenhauer (1864, Stratagème XXX), « _Ce que l’on appelle l’opinion générale est, somme toute, l’opinion de deux ou trois personnes et il est aisé de s’en convaincre lorsque l’on comprend comment l’opinion générale se développe_ ». Dans cet exemple, on a précisé que l’extrait vient de la section intitulée Stratagème XXX. Et on trouvera dans la section Bibliographie : Shopenhauer, Arthur (1864), _L’Art d’avoir toujours raison_, link:https://fr.wikisource.org/wiki/L’Art_d’avoir_toujours_raison[]. http://darp.lse.ac.uk/PapersDB/Sen_(Econometrica_77).pdf[Exemple] réel.
+Par exemple : d’après Schopenhauer (1864, Stratagème XXX), « _Ce que l’on appelle l’opinion générale est, somme toute, l’opinion de deux ou trois personnes et il est aisé de s’en convaincre lorsque l’on comprend comment l’opinion générale se développe_ ». Dans cet exemple, on a précisé que l’extrait vient de la section intitulée Stratagème XXX. Et on trouvera dans la section Bibliographie : Shopenhauer, Arthur (1864), _L’Art d’avoir toujours raison_, link:https://fr.wikisource.org/wiki/L’Art_d’avoir_toujours_raison[]. Voici également un http://darp.lse.ac.uk/PapersDB/Sen_(Econometrica_77).pdf[exemple] réel.
 
 === Une expression écrite impeccable
 Le mémoire doit être agréable à lire, donc bien présenté, bien articulé… et bien écrit. L’orthographe, la syntaxe et la ponctuation doivent être irréprochables.
@@ -144,7 +145,7 @@ La maitresse d’apprentissage :
 La réalisation du mémoire doit être effectuée en parallèle de l’accomplissement de la mission en entreprise et non à la dernière minute. 
 Ce travail de réflexion doit permettre à l’apprenti de mieux gérer et comprendre ses activités pratiques dans le cadre de la mission elle-même.
 
-. Avant le 20 janvier : L’apprentie discute avec le maitre d’apprentissage, le tuteur enseignant et le chargé de mission du CFA du thème et l’enregistre dans le livret de Afia Link
+. Avant le 20 janvier 2019 : L’apprentie discute avec le maitre d’apprentissage, le tuteur enseignant et le chargé de mission du CFA du thème et l’enregistre dans le livret de Afia Link
 ** Énoncer la problématique choisie
 ** Décrire le contexte (l’environnement dans lequel le problème s’est posé) 
 ** Mettre en avant la motivation pour ce choix
