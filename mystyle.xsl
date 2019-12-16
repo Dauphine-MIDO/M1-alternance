@@ -6,8 +6,10 @@
 	<xsl:param name="section.autolabel" select="1"/>
 	<xsl:param name="ulink.footnotes" select="1"/>
 	<xsl:template name="article.titlepage.before.recto">
-		<fo:block text-align="right" space-after="1cm">
-			<fo:external-graphic src="DauphineBleu.png" width="35%" content-width="scale-to-fit"/>
+		<fo:block text-align-last="justify" space-after="1cm">
+			<fo:external-graphic src="DauphineBleu.png" height="8mm" content-width="scale-to-fit"/>
+			<fo:leader leader-pattern="space" />
+			<fo:external-graphic src="CFA.jpg" height="9mm" content-width="scale-to-fit"/>
 		</fo:block>
 	</xsl:template>
 </xsl:stylesheet>
