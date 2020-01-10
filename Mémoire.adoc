@@ -102,7 +102,7 @@ Le mémoire explique clairement et simplement la place, le rôle de l’apprenti
 Un problème technique ou fonctionnel a été posé à l’apprenti. Il s’agit d’énoncer clairement comment et pourquoi le problème a été posé et d’en faire apparaitre tous les tenants et aboutissants.
 
 === Démarche de résolution du problème
-Quelles méthodes adaptées au contexte l’apprentie a-t-il adoptées : la rédaction de cahier des charges, comment recueillir l’expression des besoins de la MOA (réunions, guide d’entretien, sondage…), suivant quel calendrier, quelle méthodologie de gestion de projet, etc.. ?
+Quelles méthodes adaptées au contexte l’apprentie a-t-il adoptées : la rédaction de cahier des charges, comment recueillir l’expression des besoins (réunions, guide d’entretien, sondage…), suivant quel calendrier, quelle méthodologie de gestion de projet, etc.. ?
 
 === Présentation des résultats
 Tout résultat obtenu doit être analysé et commenté, en particulier au regard des objectifs initiaux. L’analyse des écarts et des difficultés est essentielle.
@@ -113,7 +113,7 @@ S’il y a lieu de le faire, les propositions doivent être énoncées avec pré
 === Conclusion
 Concluez quant à la diversité des intérêts de la mission : intérêts professionnel, personnel, humain et intellectuel.
 
-Sans être démesurée, cette conclusion doit être dense. Évitez les clichés.
+Cette conclusion doit être dense. Évitez les clichés.
 La mise en évidence des lacunes, des erreurs n’est pas négative, elle illustre au contraire les qualités d’analyse, la lucidité, l’honnêteté intellectuelle.
 
 == Soutenance
@@ -123,9 +123,9 @@ La soutenance se déroule devant le jury composé du tuteur enseignant, du maitr
 
 La soutenance dure 40 minutes et comporte successivement les étapes suivantes :
 
-- l’apprentie expose en 20 minutes le sujet développé dans le mémoire en s’appuyant sur une présentation
-- un entretien de 10 minutes se déroule ensuite, autour de questions posées par le jury
-- une délibération du jury de 10 minutes
+- exposé par l’apprentie du sujet développé dans le mémoire, avec le support de diapositives, en 20 minutes
+- entretien autour de questions posées par le jury durant 10 minutes
+- délibération du jury de 10 minutes
 
 == Rôle des tuteurs 
 Le tuteur enseignant :
@@ -135,7 +135,7 @@ Le tuteur enseignant :
 
 La maitresse d’apprentissage :
 
-- aide à finaliser les termes du sujet de ce mémoire de 1^ère^ année de master
+- aide à finaliser les termes du sujet du mémoire
 - encadre l’apprenti pour la réalisation de la mission et aussi de ce mémoire
 - prend connaissance régulièrement de l’avancement de la conception et de la rédaction du mémoire
 - incite et entraine à la préparation de la soutenance
@@ -154,6 +154,7 @@ Ce travail de réflexion doit permettre à l’apprenti de mieux gérer et compr
 ** Enregistrer le plan dans le livret
 
 . Avant le 27 aout : Dépôt
+// TODO faut-il un exemplaire pour le CFA ?
 ** Remettre 2 exemplaires au secrétariat (un pour le tuteur enseignant, un pour le CFA)
 ** 3ème exemplaire remis directement au maitre d’apprentissage
 ** Pénalité de 4 points sur la note finale en cas de remise tardive ou de non visa par l’entreprise
