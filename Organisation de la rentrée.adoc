@@ -1,0 +1,37 @@
+= Organisation de la rentrée
+Organisation de la rentrée en septembre 2020 dans les filières L3 MIAGE, M1 MIAGE, M2 ID-MIAGE, M2 IF-MIAGE, M2 SITN-MIAGE en Apprentissage.
+
+Cette proposition fait suite à la réunion des responsables de formations et des responsables CFA sous l’initiative de Siham TEGUIA. Cette réunion est née du besoin d’avoir une ligne directrice claire le plus rapidement possible étant donné le temps nécessaire à sa mise en œuvre. 
+
+Les différents responsables : Cristina Bazgan, Khalid Belhajjame, Olivier Cailloux, Xavier Crenn, Michail Lampis, Patricia Lavagna, Emmanuel Lépinette, Gabriella Pigozzi, Siham Teguia.
+
+Nous nous sommes mis d’accord sur les points suivants afin d’assurer des cours complets tout en favorisant une cohésion sociale des promotions. On notera que ces principes ne nécessitent aucunement une refonte des emplois du temps et de la réservation des salles. Au cas par cas, selon les problèmes rencontrés, les enseignants s’arrangeront entre eux pour des permutations éventuelles de cours.
+
+. Les soutenances des mémoires en septembre 2020 seront en Visio sur Teams sauf exception. L’expérience a été très concluante pour les auditions lors des recrutements début juillet 2020.
+. Maintien des réservations des salles de cours selon l’emploi du temps des formations.
+. Les cours seront en présentiel le jour de la réunion de rentrée entre étudiants, responsables de formation et responsables du CFA, si les salles nécessaires sont disponibles.
+. Dans l’hypothèse de cours présentiels uniquement possibles par rotation d’une fraction de la promotion, les cours seront privilégiés en 100 % Visio étant donné que cela permettra de dispenser la totalité du programme (cours en direct par partage d’écran où on écrit son cours sur un tableau blanc virtuel). Les cours en présentiel partiels seront possibles quand les enseignants le souhaitent ou s’ils n’ont pas le choix pour des raisons matériels. Dans ce cas, le responsable de formation organisera si possible des journées entières quitte à s’arranger entre collègues pour s’échanger des créneaux de cours (cela ne changera pas les emplois du temps et les salles déjà mises en place). 
+
+Une suggestion de contrôle de présence est la suivante : contrôle aléatoire de la présence pendant les cours en Visio. Le CFA est en train de développer une application dans ce sens pour éviter de le faire manuellement. 
+
+Une suggestion de CC et de contrôle de présence simultanée est la suivante : On arrête le cours à un instant t aléatoire. On demande à un étudiant tiré au sort, de signaler sa présence en activant sa webcam et le son. On lui pose une question sur le cours précédent à laquelle il doit répondre immédiatement. On attribue une note entre 0 et 2 points à chaque étudiant qui s’ajoutera à la note de l’examen final (0 point=absence non justifiée). Deux possibilités : le contrôle final sera constitué d’un contenu sur 18 points auquel s’ajouteront les 2 points au plus du CC ou bien l’examen sera sur 20 points mais avec une question sur deux points extrêmement difficiles auxquels s’ajouteront deux points de bonus issus du CC.  Cela n’est qu’une suggestion à la discrétion des enseignants.
+
+Pour les cours en Visio, une autre possibilité serait aussi de faire un CC intermédiaire en présentiel dans un amphi à la discrétion des enseignants. 
+
+Chaque enseignant qui choisit le cours en Visio s’assurera que la rotation d’une fraction des étudiants qui se rendront sur place à Dauphine dans la salle de l’emploi du temps est bien communiquée et effective. Les étudiants ayant des problèmes Internet seront prioritaires. L’objectif étant d’éviter l’isolement social et assurer une cohésion de groupe. On notera que la Visio en présentiel n’est pas réalisable du point de vue matériel comme déjà expérimentée durant les grèves de décembre 2019 où il était très difficile pour les étudiants absents de voir le tableau en Visio.
+
+Chaque enseignant qui dispense un cours en présentiel s’assurera également que la rotation d’une fraction des étudiants qui se rendront sur place à Dauphine dans la salle de l’emploi du temps est bien communiquée et effective. 
+
+. L’examen final au fil de l’eau devra absolument être en présentiel. 
+. Pour mettre en place cette organisation, nous utilisons Teams:
+.. Donner la possibilité aux enseignants extérieurs d’accéder à Teams (faute de quoi le responsable de formation, programmera le cours à leur place sur Teams).
+.. La solution la plus efficace est la suivante que Patricia Dessans nous a donnée : 
+
+Pour les UE dans lesquelles vous enseignez en  2020-2021, vous pourrez bénéficier d'espaces pédagogiques numériques composés d'un espace de cours sur la plateforme MyCourse et d'une Equipe Teams associée (classe virtuelle, collaboration, partage simple de fichiers...).Pour les espaces MyCourse déjà existants en 2019-2020, les espaces seront créés automatiquement sur la base de ceux créés l'an dernier (même enseignant). L'équipe Teams correspondante sera disponible à la rentrée. Si vous n'aviez pas d'espace de cours en ligne en 2019-2020, vous pouvez en demander la création via le formulaire http://enquetes.dauphine.fr/index.php/953816/lang-fr pour l’année 2020-2021.
+
+.. Autrement, il est possible de programmer les cours séance par séance sur le calendrier Outlook, avec le navigateur Chrome pour ceux qui ont un Mac.
+
+Organisation validée par Yann Chevaleyre et Jacques Fejoz, responsables du MIDO.
+
+23 juillet 2020.
+
