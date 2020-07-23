@@ -6,6 +6,7 @@ Confinement : voir document https://github.com/Dauphine-MIDO/M1-app/blob/master/
 * https://github.com/Dauphine-MIDO/M1-app/blob/master/Tutorat.adoc[Tutorat]
 * https://github.com/Dauphine-MIDO/M1-app/blob/master/M%C3%A9moire.adoc[Mémoire]
 * https://trombis.dauphine.fr/?dn=cn=structure-etu-vet/A4AMIA-100/2020,ou=groups,dc=dauphine,dc=fr[Trombinoscope] (sera rempli lors de l’inscription administrative des étudiants, en septembre)
+* https://dauphine.psl.eu/formations/masters/informatique/m1-methodes-informatiques-appliquees-a-la-gestion-des-entreprises/formation[Programme] des cours
 
 //* https://docs.google.com/spreadsheets/d/15CiuejRCSkYZrPvhuQRIFRg2xbb0DKYkvSm8bW_LmxI/edit?usp=sharing[Associations] entre étudiants et cours optionnels
 //* https://github.com/Dauphine-MIDO/M1-app/raw/master/Pr%C3%A9sentation%20M1%20Miage.pdf[Présentation] du parcours
