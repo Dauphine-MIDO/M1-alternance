@@ -26,11 +26,7 @@ Chaque enseignant qui dispense un cours en présentiel s’assurera également q
 . L’examen final au fil de l’eau devra absolument être en présentiel. 
 . Pour mettre en place cette organisation, nous utilisons Teams:
 .. Donner la possibilité aux enseignants extérieurs d’accéder à Teams (faute de quoi le responsable de formation, programmera le cours à leur place sur Teams).
-.. La solution la plus efficace est la suivante que Patricia Dessans nous a donnée : 
-
-Pour les UE dans lesquelles vous enseignez en  2020-2021, vous pourrez bénéficier d'espaces pédagogiques numériques composés d'un espace de cours sur la plateforme MyCourse et d'une Equipe Teams associée (classe virtuelle, collaboration, partage simple de fichiers...).Pour les espaces MyCourse déjà existants en 2019-2020, les espaces seront créés automatiquement sur la base de ceux créés l'an dernier (même enseignant). L'équipe Teams correspondante sera disponible à la rentrée. Si vous n'aviez pas d'espace de cours en ligne en 2019-2020, vous pouvez en demander la création via le formulaire http://enquetes.dauphine.fr/index.php/953816/lang-fr pour l’année 2020-2021.
-
-[start = 3]
+.. La solution la plus efficace est la suivante que Patricia Dessans nous a donnée : « Pour les UE dans lesquelles vous enseignez en  2020-2021, vous pourrez bénéficier d'espaces pédagogiques numériques composés d'un espace de cours sur la plateforme MyCourse et d'une Equipe Teams associée (classe virtuelle, collaboration, partage simple de fichiers...).Pour les espaces MyCourse déjà existants en 2019-2020, les espaces seront créés automatiquement sur la base de ceux créés l'an dernier (même enseignant). L'équipe Teams correspondante sera disponible à la rentrée. Si vous n'aviez pas d'espace de cours en ligne en 2019-2020, vous pouvez en demander la création via le formulaire http://enquetes.dauphine.fr/index.php/953816/lang-fr pour l’année 2020-2021. »
 .. Autrement, il est possible de programmer les cours séance par séance sur le calendrier Outlook, avec le navigateur Chrome pour ceux qui ont un Mac.
 
 Organisation validée par Yann Chevaleyre et Jacques Fejoz, responsables du MIDO.
