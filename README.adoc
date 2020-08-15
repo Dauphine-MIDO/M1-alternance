@@ -1,4 +1,4 @@
-= M1 apprentissage
+= M1 alternance
 
 Confinement : voir document https://github.com/Dauphine-MIDO/M1-app/blob/master/Organisation%20de%20la%20rentrée.adoc[Organisation de la rentrée]. Voici quelques informations supplémentaires. En cas de permutation de séances de cours avec un collègue enseignant, il est bon d’avertir Siham, car inscrire la permutation sur l’emploi du temps (ADE) permet de mettre les étudiants au courant (cela pose problème en cas de présentiel car cela annule la réservation de salle, mais en distanciel, pas de souci). Pour un CC en présentiel, avertir Siham dès que possible pour réserver un amphi.
 

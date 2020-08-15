@@ -62,6 +62,9 @@ Il est indispensable de se relire et de se faire relire. Pour la fluidité de la
 === Représentations graphiques
 Les schémas et graphiques doivent être accompagnés de titres explicatifs, de légendes, et surtout d’un commentaire pertinent et précis. Le corps du texte y fait explicitement référence.
 
+=== Abréviations
+Toute abréviation (sauf celles extrêmement courantes telles que SNCF) doit être explicitée lors du premier usage. Par exemple : le service RTM (Restauration des Terrains en Montagne)…
+
 === Annexes
 Toute annexe doit être énoncée et utilisée dans le texte. Il y fait référence de façon précise chaque fois que le lecteur est invité à le consulter (exemple : cf. annexe n° X page Y). Les annexes sont regroupées, intitulées, numérotées et paginées. Leur pagination continue celle du texte principal. Elles sont précédées d’un sommaire propre. Leur nombre ne doit pas excéder 10.
 
@@ -145,7 +148,7 @@ La maitresse d’apprentissage :
 La réalisation du mémoire doit être effectuée en parallèle de l’accomplissement de la mission en entreprise et non à la dernière minute. 
 Ce travail de réflexion doit permettre à l’apprenti de mieux gérer et comprendre ses activités pratiques dans le cadre de la mission elle-même.
 
-. Avant le 20 janvier 2019 : L’apprentie discute avec le maitre d’apprentissage, le tuteur enseignant et le chargé de mission du CFA du thème et l’enregistre dans le livret de Afia Link
+. Avant le 20 janvier 2020 : L’apprentie discute avec le maitre d’apprentissage, le tuteur enseignant et le chargé de mission du CFA du thème et l’enregistre dans le livret de Afia Link
 ** Énoncer la problématique choisie
 ** Décrire le contexte (l’environnement dans lequel le problème s’est posé) 
 ** Mettre en avant la motivation pour ce choix
