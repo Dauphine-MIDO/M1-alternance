@@ -10,9 +10,6 @@
 //* Diapos de présentation (mars 2020) du https://github.com/Dauphine-MIDO/M1-app/raw/master/Pr%C3%A9sentation%20M2%20ID.pdf[M2 ID] (par Cristina Bazgan), https://universitedauphine-my.sharepoint.com/:b:/g/personal/khalid_belhajjame_lamsade_dauphine_fr/ER4Pd4tfElVBsdApeIZ4NZkBgH0zLqJD3x7TFLbR-Nz0bQ?e=q9NfNo[M2 SITN] (par Khalid Belhajjame), https://github.com/Dauphine-MIDO/M1-app/raw/master/Pr%C3%A9sentation%20M2%20IF.pdf[M2 IF] (par Michael Lampis), https://github.com/Dauphine-MIDO/M1-app/raw/master/Pr%C3%A9sentation%20M2%20IASD%20Apprentissage.pdf[M2 IASD] (par Tristan Canzenave)
 
 == Enseignants
-Confinement : voir document https://github.com/Dauphine-MIDO/M1-app/blob/master/Organisation%20de%20la%20rentrée.adoc[Organisation de la rentrée]. Voici quelques informations supplémentaires. En cas de permutation de séances de cours avec un collègue enseignant, il est bon d’avertir Siham, car inscrire la permutation sur l’emploi du temps (ADE) permet de mettre les étudiants au courant (cela pose problème en cas de présentiel car cela annule la réservation de salle, mais en distanciel, pas de souci). Pour un CC en présentiel, avertir Siham dès que possible pour réserver un amphi.
-
-* Informations générales concernant la période à venir : https://universitedauphine.sharepoint.com/:w:/r/sites/msteams_a2743d/_layouts/15/Doc.aspx?sourcedoc=%7B3E149DBE-406E-446C-8279-4E92DA6E6F83%7D&file=Organisation%20des%20enseignements.docx[Organisation des enseignements], Département MIDO, 2020-2021
-* https://trombis.dauphine.fr/?dn=cn=structure-etu-vet/A4AMIA-100/2020,ou=groups,dc=dauphine,dc=fr[Trombinoscope] (sera rempli lors de l’inscription administrative des étudiants, en septembre)
+* https://trombis.dauphine.fr/?dn=cn=structure-etu-vet/A4AMIA-100/2020,ou=groups,dc=dauphine,dc=fr[Trombinoscope] (rempli lors de l’inscription administrative des étudiants, en septembre)
 * https://github.com/Dauphine-MIDO/M1-app/blob/master/Tutorat.adoc[Tutorat]
 
