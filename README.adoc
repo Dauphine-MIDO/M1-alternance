@@ -1,7 +1,7 @@
 = M1 alternance
 
 * https://github.com/Dauphine-MIDO/M1-alternance/raw/master/Pr%C3%A9sentation%20M1%20Miage.pdf[Présentation] du M1 MIAGE en alternance
-* https://github.com/Dauphine-MIDO/M1-app/blob/master/M%C3%A9moire.adoc[Mémoire]
+* https://github.com/Dauphine-MIDO/M1-app/blob/master/M%C3%A9moire.adoc[Mémoire] (et https://github.com/Dauphine-MIDO/M1-alternance/raw/master/M%C3%A9moire.pdf[PDF])
 * https://dauphine.psl.eu/formations/masters/informatique/m1-methodes-informatiques-appliquees-a-la-gestion-des-entreprises/formation[Programme] des cours
 * https://github.com/Dauphine-MIDO/M1-app/blob/master/Tutorat.adoc[Tutorat]
 
