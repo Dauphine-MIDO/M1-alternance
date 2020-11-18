@@ -148,22 +148,22 @@ La maitresse d’apprentissage :
 La réalisation du mémoire doit être effectuée en parallèle de l’accomplissement de la mission en entreprise et non à la dernière minute. 
 Ce travail de réflexion doit permettre à l’apprenti de mieux gérer et comprendre ses activités pratiques dans le cadre de la mission elle-même.
 
-. Avant le 20 janvier 2020 : L’apprentie discute avec le maitre d’apprentissage, le tuteur enseignant et le chargé de mission du CFA du thème et l’enregistre dans le livret de Afia Link
+. Avant fin janvier : L’apprentie discute avec le maitre d’apprentissage, le tuteur enseignant et le chargé de mission du CFA du thème et l’enregistre dans le livret d’apprentissage
 ** Énoncer la problématique choisie
 ** Décrire le contexte (l’environnement dans lequel le problème s’est posé) 
 ** Mettre en avant la motivation pour ce choix
 
-. Avant le 30 mars : Faire viser le plan détaillé du mémoire (env. 2 pages) par les deux encadrants
+. Avant le 31 mars : Faire viser le plan détaillé du mémoire (env. 2 pages) par les deux encadrants
 ** Enregistrer le plan dans le livret
 
-. Avant le 27 aout : Dépôt
+Avant le 27 aout : Dépôt sur MyCourse
 // TODO faut-il un exemplaire pour le CFA ?
-** Remettre 2 exemplaires au secrétariat (un pour le tuteur enseignant, un pour le CFA)
-** 3ème exemplaire remis directement au maitre d’apprentissage
+// ** Remettre 2 exemplaires au secrétariat (un pour le tuteur enseignant, un pour le CFA)
+// ** 3ème exemplaire remis directement au maitre d’apprentissage
 ** Pénalité de 4 points sur la note finale en cas de remise tardive ou de non visa par l’entreprise
 ** S'assurer que chacun des membres du jury dispose du mémoire
 
-. Semaine du 31 Aout : Soutenance
+. Les jeudi et vendredi 3 septembre : soutenances
 ** Planning diffusé au mois de juin
 ** S’assurer quelques jours avant la date de sa soutenance que tous les membres du jury sont bien au courant des lieux, date et heure
 
