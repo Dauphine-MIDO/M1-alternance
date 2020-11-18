@@ -1,4 +1,4 @@
-= Le mémoire de M1 MIAGE en apprentissage
+= Le mémoire de M1 MIAGE en alternance
 :toc:
 :toc-title: Sommaire
 :lang: fr
