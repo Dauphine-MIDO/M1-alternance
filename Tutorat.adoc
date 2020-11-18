@@ -3,7 +3,7 @@
 Chaque apprenti a un maitre d’apprentissage : une personne de l’entreprise dans laquelle l’apprenti travaille, qui l’encadre sur place. Chaque apprenti (à MIDO) a également un tuteur enseignant.
 Généralement, les enseignants intervenant dans la formation suivent des étudiants au prorata de leur nombre d’ECTS dans la formation. 
 
-La liste des apprentis, tuteurs enseignants, maitres d’apprentissage est https://universitedauphine-my.sharepoint.com/:x:/g/personal/olivier_cailloux_lamsade_dauphine_fr/Ec_VKGm5UMlAqcDb0uoBtq8BiZZHoX-XPdE-7wXn7lYYGw[ici] (ou https://universitedauphine-my.sharepoint.com/:x:/g/personal/olivier_cailloux_lamsade_dauphine_fr/Ec_VKGm5UMlAqcDb0uoBtq8B85jEN_ywyd8W6eV_zJPm0w[ici] avec droit d’écriture pour les externes). Siham informe les étudiants de l’identité de leur tuteur. C’est à l’apprenti de contacter sa tutrice concernant la visite en entreprise, le plan du mémoire, …
+La liste des apprentis, tuteurs enseignants, maitres d’apprentissage est https://universitedauphine-my.sharepoint.com/:x:/g/personal/olivier_cailloux_lamsade_dauphine_fr/Ec_VKGm5UMlAqcDb0uoBtq8BRryQrtUxpn2FoLoYz1jRFQ[ici] (ou https://universitedauphine-my.sharepoint.com/:x:/g/personal/olivier_cailloux_lamsade_dauphine_fr/Ec_VKGm5UMlAqcDb0uoBtq8B85jEN_ywyd8W6eV_zJPm0w[ici] avec droit d’écriture pour les externes). Siham informe les étudiants de l’identité de leur tuteur. C’est à l’apprenti de contacter sa tutrice concernant la visite en entreprise, le plan du mémoire, …
 
 == Tâches du tuteur
 Le tuteur enseignant aide son apprenti s’il rencontre une difficulté, s’assure qu’il est bien accueilli dans son entreprise (y compris en lui rendant visite), et aide à la rédaction et participe à l’évaluation de son mémoire.
@@ -17,5 +17,5 @@ Plus précisément, ses tâches sont les suivantes.
 - Valider la problématique choisie pour le mémoire ; guider et conseiller l'apprenti pour l’élaboration de son mémoire (lire : https://github.com/Dauphine-MIDO/M1-app/blob/master/M%C3%A9moire.adoc#objectif-du-m%C3%A9moire[L’objectif du mémoire])
 - Participer à la https://github.com/Dauphine-MIDO/M1-app/blob/master/M%C3%A9moire.adoc#d%C3%A9roulement-de-la-soutenance[soutenance] du mémoire qui a lieu début septembre
 
-Voir également les https://universitedauphine-my.sharepoint.com/:w:/g/personal/olivier_cailloux_lamsade_dauphine_fr/Ec67_3ebGoxDhbCfTn_Kv1QBNLaeyHYC86d1zZjcj-R7wg?e=zYNPkp[informations à usage interne].
+Voir également les https://universitedauphine-my.sharepoint.com/:w:/g/personal/olivier_cailloux_lamsade_dauphine_fr/Ec67_3ebGoxDhbCfTn_Kv1QBoMayLU9gp_usmN9SNTwYow[informations à usage interne].
 
