@@ -156,7 +156,7 @@ Ce travail de réflexion doit permettre à l’apprenti de mieux gérer et compr
 . Avant le 31 mars : Faire viser le plan détaillé du mémoire (env. 2 pages) par les deux encadrants
 ** Enregistrer le plan dans le livret
 
-Avant le 27 aout : Dépôt sur MyCourse
+. Avant le 27 aout : Dépôt sur MyCourse
 // TODO faut-il un exemplaire pour le CFA ?
 // ** Remettre 2 exemplaires au secrétariat (un pour le tuteur enseignant, un pour le CFA)
 // ** 3ème exemplaire remis directement au maitre d’apprentissage
