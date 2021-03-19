@@ -4,6 +4,7 @@
 * https://github.com/Dauphine-MIDO/M1-app/blob/master/M%C3%A9moire.adoc[Mémoire] (et https://github.com/Dauphine-MIDO/M1-alternance/raw/master/M%C3%A9moire.pdf[PDF])
 * https://dauphine.psl.eu/formations/masters/informatique/m1-methodes-informatiques-appliquees-a-la-gestion-des-entreprises/formation[Programme] des cours
 * https://github.com/Dauphine-MIDO/M1-app/blob/master/Tutorat.adoc[Tutorat]
+* https://github.com/oliviercailloux/Teaching/blob/main/README.adoc#take-notes[Take notes]!
 
 //* https://docs.google.com/spreadsheets/d/15CiuejRCSkYZrPvhuQRIFRg2xbb0DKYkvSm8bW_LmxI/edit?usp=sharing[Associations] entre étudiants et cours optionnels
 //* https://github.com/Dauphine-MIDO/M1-app/blob/master/Stage%20dev.adoc[Offre] de stage
