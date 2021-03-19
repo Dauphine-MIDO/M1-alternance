@@ -1,15 +1,15 @@
 = M1 alternance
 
 * https://github.com/Dauphine-MIDO/M1-alternance/raw/master/Pr%C3%A9sentation%20M1%20Miage.pdf[Présentation] du M1 MIAGE en alternance
-* https://github.com/Dauphine-MIDO/M1-app/blob/master/M%C3%A9moire.adoc[Mémoire] (et https://github.com/Dauphine-MIDO/M1-alternance/raw/master/M%C3%A9moire.pdf[PDF])
+* https://github.com/Dauphine-MIDO/M1-alternance/blob/master/M%C3%A9moire.adoc[Mémoire] (et https://github.com/Dauphine-MIDO/M1-alternance/raw/master/M%C3%A9moire.pdf[PDF])
 * https://dauphine.psl.eu/formations/masters/informatique/m1-methodes-informatiques-appliquees-a-la-gestion-des-entreprises/formation[Programme] des cours
-* https://github.com/Dauphine-MIDO/M1-app/blob/master/Tutorat.adoc[Tutorat]
+* https://github.com/Dauphine-MIDO/M1-alternance/blob/master/Tutorat.adoc[Tutorat]
 * https://github.com/oliviercailloux/Teaching/blob/main/README.adoc#take-notes[Take notes]!
 
 //* https://docs.google.com/spreadsheets/d/15CiuejRCSkYZrPvhuQRIFRg2xbb0DKYkvSm8bW_LmxI/edit?usp=sharing[Associations] entre étudiants et cours optionnels
 //* https://github.com/Dauphine-MIDO/M1-app/blob/master/Stage%20dev.adoc[Offre] de stage
 //* https://mido.dauphine.fr/fileadmin/mediatheque/mido/emploi_du_temps/emploi_du_temps_M1-IAGE-app.pdf[Emploi] du temps
-* Diapos de présentation (mars 2021) du https://github.com/Dauphine-MIDO/M1-app/raw/master/Pr%C3%A9sentation%20M2%20ID.pdf[M2 ID] (par Cristina Bazgan), https://github.com/Dauphine-MIDO/M1-app/raw/master/Pr%C3%A9sentation%20M2%20SITN.pdf[M2 SITN] (par Khalid Belhajjame), https://github.com/Dauphine-MIDO/M1-app/raw/master/Pr%C3%A9sentation%20M2%20IF.pdf[M2 IF] (2020, par Michael Lampis), https://github.com/Dauphine-MIDO/M1-app/raw/master/Pr%C3%A9sentation%20M2%20IASD%20Apprentissage.pdf[M2 IASD] (2020, par Tristan Canzenave)
+* Diapos de présentation (mars 2021) du https://github.com/Dauphine-MIDO/M1-alternance/raw/master/Pr%C3%A9sentation%20M2%20ID.pdf[M2 ID] (par Cristina Bazgan), https://github.com/Dauphine-MIDO/M1-alternance/raw/master/Pr%C3%A9sentation%20M2%20SITN.pdf[M2 SITN] (par Khalid Belhajjame), https://github.com/Dauphine-MIDO/M1-alternance/raw/master/Pr%C3%A9sentation%20M2%20IF.pdf[M2 IF] (2020, par Michael Lampis), https://github.com/Dauphine-MIDO/M1-alternance/raw/master/Pr%C3%A9sentation%20M2%20IASD%20Apprentissage.pdf[M2 IASD] (2020, par Tristan Canzenave)
 
 == Enseignants
 * https://trombis.dauphine.fr/?dn=cn=structure-etu-vet/A4AMIA-100/2020,ou=groups,dc=dauphine,dc=fr[Trombinoscope] (rempli lors de l’inscription administrative des étudiants, en septembre)
