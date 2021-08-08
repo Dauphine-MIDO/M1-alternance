@@ -1,0 +1,36 @@
+name: Execute workflow
+on: push
+jobs:
+  maven_ci:
+    name: Maven CI job
+    runs-on: ubuntu-latest
+    
+    env:
+      API_USERNAME: ${{ secrets.API_USERNAME }}
+      API_PASSWORD: ${{ secrets.API_PASSWORD }}
+      
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v2
+      with:
+        repository: Dauphine-MIDO/plaquette-MIDO
+        ref: v0.0.1
+        
+    - name: Write WSDL_credentials
+      uses: './.github/actions/Write WSDL_credentials'
+      
+    - name: Set up JDK
+      uses: actions/setup-java@v1
+      with:
+        java-version: 14
+        
+    - name: Cache
+      uses: actions/cache@v2
+      with:
+        key: maven-cache-${{ hashFiles('**/pom.xml') }}
+        restore-keys: maven-cache
+        path: ~/.m2/repository
+        
+    - name: Maven
+      run: mvn exec:java
+      

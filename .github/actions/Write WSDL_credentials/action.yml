@@ -1,0 +1,5 @@
+name: 'Write WSDL_credentials'
+description: 'Writes a file called WSDL_credentials.txt with the content of API_username and API_password, url-encoded'
+runs:
+  using: 'node12'
+  main: 'index.js'
