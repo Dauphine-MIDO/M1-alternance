@@ -10,6 +10,9 @@ jobs:
       API_PASSWORD: ${{ secrets.API_PASSWORD }}
       
     steps:
+    - name: Checkout Own
+      uses: actions/checkout@v2
+
     - name: Checkout plaquette-MIDO
       uses: actions/checkout@v2
       with:
@@ -17,9 +20,6 @@ jobs:
         ref: v0.0.1
         path: 'plaquette-MIDO'
         
-    - name: Checkout Own
-      uses: actions/checkout@v2
-
     - name: Write WSDL_credentials
       uses: './.github/actions/Write WSDL_credentials'
       
