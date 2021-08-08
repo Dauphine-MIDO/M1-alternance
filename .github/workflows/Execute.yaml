@@ -57,5 +57,5 @@ jobs:
     - name: Add and commit
       uses: EndBug/add-and-commit@v7
       with:
-        add: '["Programme des cours.adoc", "Programme des cours.pdf"]'
+        add: '["''Programme des cours.adoc''", "''Programme des cours.pdf''"]'
    
