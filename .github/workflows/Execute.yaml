@@ -10,14 +10,16 @@ jobs:
       API_PASSWORD: ${{ secrets.API_PASSWORD }}
       
     steps:
-    - name: Checkout
+    - name: Checkout plaquette-MIDO
       uses: actions/checkout@v2
       with:
         repository: Dauphine-MIDO/plaquette-MIDO
         ref: v0.0.1
+        path: 'plaquette-MIDO'
         
     - name: Write WSDL_credentials
       uses: './.github/actions/Write WSDL_credentials'
+      working-directory: 'plaquette-MIDO'
       
     - name: Set up JDK
       uses: actions/setup-java@v1
@@ -33,10 +35,18 @@ jobs:
         
     - name: Maven
       run: mvn verify exec:java
+      working-directory: 'plaquette-MIDO'
       
     - run: mv out.adoc "Programme des cours.adoc"
+      working-directory: 'plaquette-MIDO'
     - run: mv out.pdf "Programme des cours.pdf"
-    - run: git add "Programme des cours.adoc" "Programme des cours.pdf"
-    - run: git commit -m "From Execute workflow"
-    - run: git push
+      working-directory: 'plaquette-MIDO'
+
+    - name: Checkout Own
+      uses: actions/checkout@v2
+
+    - name: Add and commit
+      uses: EndBug/add-and-commit@v7
+      with:
+        add: '["Programme des cours.adoc", "Programme des cours.pdf"]'
    
