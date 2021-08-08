@@ -15,13 +15,9 @@ jobs:
       API_PASSWORD: ${{ secrets.API_PASSWORD }}
       
     steps:
-    - run: pwd
-    
     - name: Checkout Own
       uses: actions/checkout@v2
 
-    - run: pwd
-    
     - name: Checkout plaquette-MIDO
       uses: actions/checkout@v2
       with:
@@ -29,8 +25,6 @@ jobs:
         ref: v0.0.1
         path: 'plaquette-MIDO'
     
-    - run: pwd
-        
     - name: Write WSDL_credentials
       uses: './.github/actions/Write WSDL_credentials'
       
@@ -49,9 +43,7 @@ jobs:
         path: ~/.m2/repository
         
     - name: Maven
-      run: |
-        pwd
-        mvn verify exec:java
+      run: mvn verify exec:java
       working-directory: 'plaquette-MIDO'
       
     - run: |
@@ -62,4 +54,4 @@ jobs:
       uses: EndBug/add-and-commit@v7
       with:
         add: '["''Programme des cours.adoc''", "''Programme des cours.pdf''"]'
-   
+
