@@ -19,7 +19,8 @@ jobs:
         
     - name: Write WSDL_credentials
       uses: './.github/actions/Write WSDL_credentials'
-      working-directory: 'plaquette-MIDO'
+      
+    - run: mv "WSDL_credentials.txt" "plaquette-MIDO"
       
     - name: Set up JDK
       uses: actions/setup-java@v1
@@ -37,9 +38,9 @@ jobs:
       run: mvn verify exec:java
       working-directory: 'plaquette-MIDO'
       
-    - run: mv out.adoc "Programme des cours.adoc"
-      working-directory: 'plaquette-MIDO'
-    - run: mv out.pdf "Programme des cours.pdf"
+    - run: |
+        mv out.adoc "Programme des cours.adoc"
+        mv out.pdf "Programme des cours.pdf"
       working-directory: 'plaquette-MIDO'
 
     - name: Checkout Own
