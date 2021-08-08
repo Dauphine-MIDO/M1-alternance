@@ -50,9 +50,8 @@ jobs:
       working-directory: 'plaquette-MIDO'
       
     - run: |
-        mv out.adoc "Programme des cours.adoc"
-        mv out.pdf "Programme des cours.pdf"
-      working-directory: 'plaquette-MIDO'
+        mv "plaquette-MIDO/out.adoc" "Programme des cours.adoc"
+        mv "plaquette-MIDO/out.pdf" "Programme des cours.pdf"
 
     - name: Add and commit
       uses: EndBug/add-and-commit@v7
