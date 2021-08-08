@@ -17,8 +17,11 @@ jobs:
         ref: v0.0.1
         path: 'plaquette-MIDO'
         
+    - name: Checkout Own
+      uses: actions/checkout@v2
+
     - name: Write WSDL_credentials
-      uses: 'plaquette-MIDO/.github/actions/Write WSDL_credentials'
+      uses: '.github/actions/Write WSDL_credentials'
       
     - run: mv "WSDL_credentials.txt" "plaquette-MIDO"
       
@@ -42,9 +45,6 @@ jobs:
         mv out.adoc "Programme des cours.adoc"
         mv out.pdf "Programme des cours.pdf"
       working-directory: 'plaquette-MIDO'
-
-    - name: Checkout Own
-      uses: actions/checkout@v2
 
     - name: Add and commit
       uses: EndBug/add-and-commit@v7
