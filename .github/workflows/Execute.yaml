@@ -21,7 +21,7 @@ jobs:
       uses: actions/checkout@v2
 
     - name: Write WSDL_credentials
-      uses: '.github/actions/Write WSDL_credentials'
+      uses: './.github/actions/Write WSDL_credentials'
       
     - run: mv "WSDL_credentials.txt" "plaquette-MIDO"
       
