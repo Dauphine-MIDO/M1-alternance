@@ -2,7 +2,7 @@ name: Execute workflow
 on: push
 jobs:
   maven_ci:
-    name: Maven CI job
+    name: Execute job
     runs-on: ubuntu-latest
     
     env:
@@ -32,5 +32,5 @@ jobs:
         path: ~/.m2/repository
         
     - name: Maven
-      run: mvn exec:java
+      run: mvn verify exec:java
       
