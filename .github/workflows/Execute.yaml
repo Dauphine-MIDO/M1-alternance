@@ -10,15 +10,21 @@ jobs:
       API_PASSWORD: ${{ secrets.API_PASSWORD }}
       
     steps:
+    - run: pwd
+    
     - name: Checkout Own
       uses: actions/checkout@v2
 
+    - run: pwd
+    
     - name: Checkout plaquette-MIDO
       uses: actions/checkout@v2
       with:
         repository: Dauphine-MIDO/plaquette-MIDO
         ref: v0.0.1
         path: 'plaquette-MIDO'
+    
+    - run: pwd
         
     - name: Write WSDL_credentials
       uses: './.github/actions/Write WSDL_credentials'
