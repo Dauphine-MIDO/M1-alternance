@@ -18,7 +18,7 @@ jobs:
         path: 'plaquette-MIDO'
         
     - name: Write WSDL_credentials
-      uses: './.github/actions/Write WSDL_credentials'
+      uses: 'plaquette-MIDO/.github/actions/Write WSDL_credentials'
       
     - run: mv "WSDL_credentials.txt" "plaquette-MIDO"
       
