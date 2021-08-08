@@ -1,7 +1,12 @@
 name: Execute workflow
-on: push
+
+on: 
+  push:
+  schedule:
+    - cron:  '43 2 * * *'
+    
 jobs:
-  maven_ci:
+  execute:
     name: Execute job
     runs-on: ubuntu-latest
     
