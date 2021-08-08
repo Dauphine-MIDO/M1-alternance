@@ -34,3 +34,9 @@ jobs:
     - name: Maven
       run: mvn verify exec:java
       
+    - run: mv out.adoc "Programme des cours.adoc"
+    - run: mv out.pdf "Programme des cours.pdf"
+    - run: git add "Programme des cours.adoc" "Programme des cours.pdf"
+    - run: git commit -m "From Execute workflow"
+    - run: git push
+   
