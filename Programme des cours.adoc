@@ -1,7 +1,7 @@
 = Programme du M1 MIAGE en apprentissage
 :lang: fr
 
-Généré le 27 août 2021 à partir des données du https://dauphine.psl.eu/formations/masters/informatique/m1-methodes-informatiques-appliquees-a-la-gestion-des-entreprises/formation[site internet] de Dauphine.
+Généré le 28 août 2021 à partir des données du https://dauphine.psl.eu/formations/masters/informatique/m1-methodes-informatiques-appliquees-a-la-gestion-des-entreprises/formation[site internet] de Dauphine.
 
 == Semestre 1
 === Bloc Fondamental
