@@ -128,7 +128,7 @@ La soutenance dure 40 minutes et comporte successivement les étapes suivantes :
 
 - exposé par l’apprentie du sujet développé dans le mémoire, avec le support de diapositives, en 20 minutes
 - entretien autour de questions posées par le jury durant 10 minutes
-- délibération du jury de 10 minutes
+- délibération du jury (sans l’apprentie mais avec le maitre d’apprentissage) de 10 minutes
 
 == Rôle des tuteurs 
 Le tuteur enseignant :
