@@ -1,10 +1,101 @@
-= Programme du M1 MIAGE en apprentissage
+= Programme des cours du M1 MIAGE en alternance
 :lang: fr
+:toc: preamble
 
 Généré le 19 septembre 2021 à partir des données du https://dauphine.psl.eu/formations/masters/informatique/m1-methodes-informatiques-appliquees-a-la-gestion-des-entreprises/formation[site internet] de Dauphine.
 
+== Vue d’ensemble
+[cols = "6, 6, 1"]
+|===
+|Cours|Enseignant responsable|ECTS
+
+|Programmation Objet avancée
+|BORIS DOUX
+|4
+|Introduction au Machine Learning
+|FLORIAN YGER
+|4
+|Systèmes de gestion de bases de données
+|KHALID BELHAJJAME
+|4
+|Systèmes d'information avancés 1
+|THIERRY JAILLET
+|3
+|Systèmes et algorithmiques répartis
+|JOYCE EL HADDAD
+|4
+|Organisation et communication
+|FLORENCE VATIN
+|3
+|Notions générales de Droit
+|CESAR OUAMPANA
+|3
+|Marketing
+|SARAH LASRI
+|3
+|Anglais 1
+|KIERAN HELME
+|2
+|Intelligence artificielle
+|HUGO GILBERT
+|3
+|Analyse financière
+|ERIC THIBONNIER
+|3
+|Systèmes d'information avancés 2
+|THIERRY JAILLET
+|3
+|Éthique en informatique et protection des données
+|STEPHANE AIRIAU
+|1
+|Jeu d’entreprise
+|RAPHAEL ACOSTA
+|1
+|Programmation Web
+|
+|3
+|Anglais 2
+|KIERAN HELME
+|2
+|Marchés Financiers  
+|FRANCOIS PETER
+|3
+|Décision collective, décision multicritère
+|LUCIE GALAND
+|3
+|Ordonnancement et Gestion de production
+|SYLVIE KORNMAN
+|3
+|Sécurité et réseaux
+|HERVÉ COSTANTINI
+|3
+|Mémoire
+|
+|8
+|===
 == Semestre 1
 === Bloc Fondamental
+==== Programmation Objet avancée
+36 h ; 4 ECTS
+
+Enseignant responsable : BORIS DOUX
+
+
+
+
++Introduction à la programmation object avancée.+
+
++Introduction. Rappels des concepts : classes, héritage, interface, énumérations, exceptions.+
+
++Définition et utilisations des classes internes et anonymes+
+
++Application au traitement des collections.+
+
++Types paramétrés et wildcards.+
+
++Traitement des processus (thread). Introduction à la programmation de tâches s’exécutant en parallèle. Gestion de ressources partagées entre processus+
+
+
 ==== Introduction au Machine Learning
 36 h ; 4 ECTS
 
@@ -30,27 +121,6 @@ Enseignant responsable : FLORIAN YGER
 +nuées dynamiques,+
 
 +mixtures de gaussiennes+
-
-==== Programmation Objet avancée
-36 h ; 4 ECTS
-
-Enseignant responsable : BORIS DOUX
-
-
-
-
-+Introduction à la programmation object avancée.+
-
-+Introduction. Rappels des concepts : classes, héritage, interface, énumérations, exceptions.+
-
-+Définition et utilisations des classes internes et anonymes+
-
-+Application au traitement des collections.+
-
-+Types paramétrés et wildcards.+
-
-+Traitement des processus (thread). Introduction à la programmation de tâches s’exécutant en parallèle. Gestion de ressources partagées entre processus+
-
 
 ==== Systèmes de gestion de bases de données
 36 h ; 4 ECTS
@@ -148,6 +218,31 @@ Enseignant responsable : FLORENCE VATIN
 
 
 === Bloc UE d'application
+==== Notions générales de Droit
+30 h ; 3 ECTS
+
+Enseignant responsable : CESAR OUAMPANA
+
+
+
+
++Permettre aux étudiants de découvrir les fondements du droit français et de se familiariser avec les principaux concepts ainsi qu’avec les grandes classifications du droit positif afin de prendre conscience des spécificités du droit de l’entreprise.+
+
++Présentation du droit : organisation, sanction, régulation+
+
++Notions générales de base : droit privé/droit public, sujets/objets, droit impératif/droit supplétif+
+
++Sources de droit : droit interne, droit européen, droit international+
+
++Droit de la preuve : modes de preuve, charge de la preuve, originalité du droit commercial par rapport au droit civil+
+
++Justice en France : ordre judiciaire, ordre administratif, règles de compétences en matière de droit des affaires+
+
++Droit des contrats et responsabilité contractuelle : contrats d’affaires Droit des sociétés : structure des entreprises+
+
++Études de cas+
+
+
 ==== Marketing
 30 h ; 3 ECTS
 
@@ -189,31 +284,6 @@ Enseignant responsable : SARAH LASRI
 +Revues : Recherches et Applications Marketing (AFM), Décisions Marketing (AFM), Revue Française du Marketing (ADETEM)+
 
 +Le Mercator, L. Levy, Dunod, 11ème édition, 2014.+
-
-
-==== Notions générales de Droit
-30 h ; 3 ECTS
-
-Enseignant responsable : CESAR OUAMPANA
-
-
-
-
-+Permettre aux étudiants de découvrir les fondements du droit français et de se familiariser avec les principaux concepts ainsi qu’avec les grandes classifications du droit positif afin de prendre conscience des spécificités du droit de l’entreprise.+
-
-+Présentation du droit : organisation, sanction, régulation+
-
-+Notions générales de base : droit privé/droit public, sujets/objets, droit impératif/droit supplétif+
-
-+Sources de droit : droit interne, droit européen, droit international+
-
-+Droit de la preuve : modes de preuve, charge de la preuve, originalité du droit commercial par rapport au droit civil+
-
-+Justice en France : ordre judiciaire, ordre administratif, règles de compétences en matière de droit des affaires+
-
-+Droit des contrats et responsabilité contractuelle : contrats d’affaires Droit des sociétés : structure des entreprises+
-
-+Études de cas+
 
 
 ==== Anglais 1
@@ -296,23 +366,6 @@ Enseignant responsable : ERIC THIBONNIER
 
 +L’analyse financière de l’entreprise, B. Colasse, La Découverte, 2000+
 
-==== Programmation Web
-30 h ; 3 ECTS
-
-
-+Introduction to the construction of Web applications.+
-
-+The main topic of this class is the construction of modern web applications. cover the following two topics:+
-
-+Client-side programming with javascript.+
-
-+Server-side programming with JSP and servlets.+
-
-
-
-+Enseignant responsable : Yohan Azoulay+
-
-
 ==== Systèmes d'information avancés 2
 39 h ; 3 ECTS
 
@@ -359,6 +412,23 @@ Enseignant responsable : RAPHAEL ACOSTA
 
 
 +Application des concepts de l’analyse financière sur un logiciel de simulation.+
+
+==== Programmation Web
+30 h ; 3 ECTS
+
+
++Introduction to the construction of Web applications.+
+
++The main topic of this class is the construction of modern web applications. cover the following two topics:+
+
++Client-side programming with javascript.+
+
++Server-side programming with JSP and servlets.+
+
+
+
++Enseignant responsable : Yohan Azoulay+
+
 
 ==== Anglais 2
 18 h ; 2 ECTS
