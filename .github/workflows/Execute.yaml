@@ -46,7 +46,7 @@ jobs:
         path: ~/.m2/repository
         
     - name: Maven
-      run: mvn verify exec:java
+      run: mvn "-DtrimStackTrace=false" verify exec:java
       working-directory: 'plaquette-MIDO'
       
     - run: |
