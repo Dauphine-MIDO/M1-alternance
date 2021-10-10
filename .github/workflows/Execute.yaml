@@ -34,7 +34,10 @@ jobs:
       uses: actions/setup-java@v1
       with:
         java-version: 14
-        
+    
+    - name: Check empty space
+      run: df -H
+      
     - name: Cache
       uses: actions/cache@v2
       with:
