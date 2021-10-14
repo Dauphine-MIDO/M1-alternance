@@ -2,7 +2,7 @@
 :lang: fr
 :toc: preamble
 
-Généré le 7 octobre 2021 à partir des données du https://dauphine.psl.eu/formations/masters/informatique/m1-methodes-informatiques-appliquees-a-la-gestion-des-entreprises/formation[site internet] de Dauphine.
+Généré le 14 octobre 2021 à partir des données du https://dauphine.psl.eu/formations/masters/informatique/m1-methodes-informatiques-appliquees-a-la-gestion-des-entreprises/formation[site internet] de Dauphine.
 
 == Vue d’ensemble
 [cols = "6, 6, 1"]
@@ -10,7 +10,7 @@ Généré le 7 octobre 2021 à partir des données du https://dauphine.psl.eu/fo
 |Cours|Enseignant responsable|ECTS
 
 |Programmation Objet avancée
-|BORIS DOUX
+|KHITEM BLIDAOUI
 |4
 |Introduction au Machine Learning
 |FLORIAN YGER
@@ -78,7 +78,7 @@ Généré le 7 octobre 2021 à partir des données du https://dauphine.psl.eu/fo
 ==== Programmation Objet avancée
 36 h ; 4 ECTS
 
-Enseignant responsable : BORIS DOUX
+Enseignant responsable : KHITEM BLIDAOUI
 
 
 
