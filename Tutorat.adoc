@@ -2,20 +2,20 @@
 
 https://universitedauphine-my.sharepoint.com/:x:/g/personal/olivier_cailloux_lamsade_dauphine_fr/ERZXgm6xKVxKjP4AIRN-pLEBsb7_tB6Z5_YxioWHSXKSYA[Affectations apprentis et tuteurs enseignants]
 
-Chaque apprenti a un maitre d’apprentissage : une personne de l’entreprise dans laquelle l’apprenti travaille, qui l’encadre sur place. Chaque apprenti (à MIDO) a également un tuteur enseignant.
+Chaque apprenti a une maitresse d’apprentissage : une personne de l’entreprise dans laquelle l’apprenti travaille, qui l’encadre sur place. Chaque apprenti (à MIDO) a également un tuteur enseignant. (J’ai tiré aléatoirement le genre des rôles, selon la règle de l’[alternance des genres](https://langagenonsexiste.ca/l-alternance-des-genres/).)
 Généralement, les enseignants intervenant dans la formation suivent des étudiants au prorata de leur nombre d’ECTS dans la formation. 
 
-C’est à l’apprenti de contacter sa tutrice concernant la visite en entreprise, le plan du mémoire, …
+C’est à l’apprenti de contacter son tuteur concernant la visite en entreprise, le plan du mémoire, …
 
 == Tâches du tuteur
 Le tuteur enseignant aide son apprenti s’il rencontre une difficulté, s’assure qu’il est bien accueilli dans son entreprise (y compris en lui rendant visite), et aide à la rédaction et participe à l’évaluation de son mémoire.
 
 Plus précisément, ses tâches sont les suivantes.
 
-//- Participer à la réunion de rencontre de rentrée qui aura lieu le 7 novembre 2019 à 9h en https://www.campusmap.fr/map/dauphine-paris?place=A700[A700] (L3 et M1) afin de rencontrer la maitresse d’apprentissage et l’apprenti et vérifier avec eux que la mission a bien débuté en entreprise (vous pouvez sauter la présentation si vous la connaissez déjà mais votre présence est importante à partir de 9h45 pour la rencontre elle-même)
+- Participer à la réunion de rencontre de rentrée qui aura lieu le mardi 9 novembre 2021 à 9h en https://www.campusmap.fr/map/dauphine-paris?place=A709[A709] afin de rencontrer la maitresse d’apprentissage et l’apprenti et vérifier avec eux que la mission a bien débuté en entreprise (vous pouvez sauter la présentation si vous la connaissez déjà mais votre présence est importante à partir de 9h45 pour la rencontre elle-même)
 - Répondre aux questions éventuelles des apprentis, les aider s’ils ont des problèmes dans leur travail en entreprise ; conseiller et accompagner l’étudiant dans la formation ; avertir mailto:plavagna@cfa-afia.fr[Patricia Lavagna] du CFA ou Olivier Cailloux en cas de problème
-- Rendre visite à l’apprentie et à son maitre d’apprentissage (veiller à ce que son stage lui soit profitable dans le cadre de ses études, que ses conditions de travail soient adéquates, que l’étudiante assure son travail avec sérieux, s’assurer que la mission pourra évoluer en M2 en cohérence avec la spécialisation visée par l’apprentie), si compatible avec les mesures anti-covid
-- Envoyer le https://github.com/Dauphine-MIDO/M1-app/blob/master/CFA-AFIA-_CR_de_suivi_en_entreprise.odt?raw=true[formulaire] (ou format https://github.com/Dauphine-MIDO/M1-app/blob/master/CFA-AFIA-_CR_de_suivi_en_entreprise.doc?raw=true[DOC]) complété suite à votre visite en entreprise à Patricia Lavagna
+- Rendre visite à l’apprenti et à sa maitresse d’apprentissage (veiller à ce que son stage lui soit profitable dans le cadre de ses études, que ses conditions de travail soient adéquates, que l’étudiant assure son travail avec sérieux, s’assurer que la mission pourra évoluer en M2 en cohérence avec la spécialisation visée par l’apprenti), si compatible avec les mesures anti-covid
+- Compléter le [carnet de suivi](https://www.elia-cfa-afia.com/) à intervalles réguliers
 - Valider la problématique choisie pour le mémoire ; guider et conseiller l'apprenti pour l’élaboration de son mémoire (lire : https://github.com/Dauphine-MIDO/M1-app/blob/master/M%C3%A9moire.adoc#objectif-du-m%C3%A9moire[L’objectif du mémoire])
 - Participer à la https://github.com/Dauphine-MIDO/M1-app/blob/master/M%C3%A9moire.adoc#d%C3%A9roulement-de-la-soutenance[soutenance] du mémoire qui a lieu début septembre
 
