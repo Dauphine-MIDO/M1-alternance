@@ -2,7 +2,7 @@
 
 https://universitedauphine-my.sharepoint.com/:x:/g/personal/olivier_cailloux_lamsade_dauphine_fr/ERZXgm6xKVxKjP4AIRN-pLEBsb7_tB6Z5_YxioWHSXKSYA[Affectations apprentis et tuteurs enseignants]
 
-Chaque apprenti a une maitresse d’apprentissage : une personne de l’entreprise dans laquelle l’apprenti travaille, qui l’encadre sur place. Chaque apprenti (à MIDO) a également un tuteur enseignant. (J’ai tiré aléatoirement le genre des rôles, selon la règle de l’[alternance des genres](https://langagenonsexiste.ca/l-alternance-des-genres/).)
+Chaque apprenti a une maitresse d’apprentissage : une personne de l’entreprise dans laquelle l’apprenti travaille, qui l’encadre sur place. Chaque apprenti (à MIDO) a également un tuteur enseignant. (J’ai tiré aléatoirement le genre des rôles, selon la règle de l’https://langagenonsexiste.ca/l-alternance-des-genres/[alternance des genres].)
 Généralement, les enseignants intervenant dans la formation suivent des étudiants au prorata de leur nombre d’ECTS dans la formation. 
 
 C’est à l’apprenti de contacter son tuteur concernant la visite en entreprise, le plan du mémoire, …
