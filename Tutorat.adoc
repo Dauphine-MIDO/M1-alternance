@@ -15,7 +15,7 @@ Plus précisément, ses tâches sont les suivantes.
 - Participer à la réunion de rencontre de rentrée qui aura lieu le mardi 9 novembre 2021 à 9h15 en https://www.campusmap.fr/map/dauphine-paris?place=A709[A709] afin de rencontrer la maitresse d’apprentissage et l’apprenti et vérifier avec eux que la mission a bien débuté en entreprise (vous pouvez sauter la présentation si vous la connaissez déjà mais votre présence est importante à partir de 10h pour la rencontre elle-même)
 - Répondre aux questions éventuelles des apprentis, les aider s’ils ont des problèmes dans leur travail en entreprise ; conseiller et accompagner l’étudiant dans la formation ; avertir mailto:plavagna@cfa-afia.fr[Patricia Lavagna] du CFA ou Olivier Cailloux en cas de problème
 - Rendre visite à l’apprenti et à sa maitresse d’apprentissage (veiller à ce que son stage lui soit profitable dans le cadre de ses études, que ses conditions de travail soient adéquates, que l’étudiant assure son travail avec sérieux, s’assurer que la mission pourra évoluer en M2 en cohérence avec la spécialisation visée par l’apprenti), si compatible avec les mesures anti-covid
-- Compléter le [carnet de suivi](https://www.elia-cfa-afia.com/) à intervalles réguliers
+- Compléter le https://www.elia-cfa-afia.com/[carnet de suivi] à intervalles réguliers
 - Valider la problématique choisie pour le mémoire ; guider et conseiller l'apprenti pour l’élaboration de son mémoire (lire : https://github.com/Dauphine-MIDO/M1-app/blob/master/M%C3%A9moire.adoc#objectif-du-m%C3%A9moire[L’objectif du mémoire])
 - Participer à la https://github.com/Dauphine-MIDO/M1-app/blob/master/M%C3%A9moire.adoc#d%C3%A9roulement-de-la-soutenance[soutenance] du mémoire qui a lieu début septembre
 
