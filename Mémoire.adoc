@@ -153,17 +153,17 @@ Ce travail de réflexion doit permettre à l’apprenti de mieux gérer et compr
 ** Décrire le contexte (l’environnement dans lequel le problème s’est posé) 
 ** Mettre en avant la motivation pour ce choix
 
-. Avant le 31 mars : Faire viser le plan détaillé du mémoire (env. 2 pages) par les deux encadrants
+. Avant fin mars : Faire viser le plan détaillé du mémoire (env. 2 pages) par les deux encadrants
 ** Enregistrer le plan dans le livret
 
-. Avant le 27 aout : Dépôt sur MyCourse
+. Le 25 aout 2022 au plus tard : Dépôt sur Moodle
 // TODO faut-il un exemplaire pour le CFA ?
 // ** Remettre 2 exemplaires au secrétariat (un pour le tuteur enseignant, un pour le CFA)
 // ** 3ème exemplaire remis directement au maitre d’apprentissage
 ** Pénalité de 4 points sur la note finale en cas de remise tardive ou de non visa par l’entreprise
 ** S'assurer que chacun des membres du jury dispose du mémoire
 
-. Les jeudi et vendredi 3 septembre : soutenances
+. 1 au 7 septembre : soutenances
 ** Planning diffusé au mois de juin
 ** S’assurer quelques jours avant la date de sa soutenance que tous les membres du jury sont bien au courant des lieux, date et heure
 
