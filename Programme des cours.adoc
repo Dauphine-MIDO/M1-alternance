@@ -2,7 +2,7 @@
 :lang: fr
 :toc: preamble
 
-Généré le 26 octobre 2021 à partir des données du https://dauphine.psl.eu/formations/masters/informatique/m1-methodes-informatiques-appliquees-a-la-gestion-des-entreprises/formation[site internet] de Dauphine.
+Généré le 14 décembre 2021 à partir des données du https://dauphine.psl.eu/formations/masters/informatique/m1-methodes-informatiques-appliquees-a-la-gestion-des-entreprises/formation[site internet] de Dauphine.
 
 == Vue d’ensemble
 [cols = "6, 6, 1"]
@@ -52,7 +52,7 @@ Généré le 26 octobre 2021 à partir des données du https://dauphine.psl.eu/f
 |RAPHAEL ACOSTA
 |1
 |Programmation Web
-|
+|YOHAN AZOULAY
 |3
 |Anglais 2
 |KIERAN HELME
@@ -61,7 +61,7 @@ Généré le 26 octobre 2021 à partir des données du https://dauphine.psl.eu/f
 |FRANCOIS PETER
 |3
 |Décision collective, décision multicritère
-|
+|PAUL ALAIN KALDJOB KALDJOB
 |3
 |Ordonnancement et Gestion de production
 |SYLVIE KORNMAN
@@ -81,11 +81,26 @@ Généré le 26 octobre 2021 à partir des données du https://dauphine.psl.eu/f
 Enseignant responsable : KHITEM BLIDAOUI
 
 
+===== Prérequis recommandés
 
 
-+Introduction à la programmation object avancée.+
++De bonne bases en programmation impérative+
 
-+Introduction. Rappels des concepts : classes, héritage, interface, énumérations, exceptions.+
++Notions et vocabulaire de la programmation objet+
+
+===== Compétences à acquérir
+
+
++Consolider les bases en programmation objet+
+
++Connaitre des éléments de développement logiciel (SCMs (Source Control Manager) : Git, Testing : Junit)+
+
++Apprendre quelques nouveautés: Programmation multi-threads, Construction fonctionnelles (Java 8)+
+
+===== Contenu
+
+
++Introduction à la programmation object avancée: Rappels des concepts classes, héritage, interface, énumérations, exceptions.+
 
 +Définition et utilisations des classes internes et anonymes+
 
@@ -93,8 +108,27 @@ Enseignant responsable : KHITEM BLIDAOUI
 
 +Types paramétrés et wildcards.+
 
-+Traitement des processus (thread). Introduction à la programmation de tâches s’exécutant en parallèle. Gestion de ressources partagées entre processus+
++Traitement des processus (thread).+
 
++Introduction à la programmation de tâches s’exécutant en parallèle.+
+
++Gestion de ressources partagées entre processus+
+
+
+===== Références
+
+
++Effective Java 2nd Edition - J. Bloch (1ère éd. traduite mais vieille). TRES BIEN.+
+
++Programmer en Java 6eme Edition - C. Delannoy.+
+
++Java in a nutshell - D. Flanagan.+
+
++Thinking in Java - B. Eckel.+
+
++Programmation concurrente en Java - B. Goetz.+
+
++Tête la première, Design Patterns - E. Freeman et al.+
 
 ==== Introduction au Machine Learning
 36 h ; 4 ECTS
@@ -102,7 +136,15 @@ Enseignant responsable : KHITEM BLIDAOUI
 Enseignant responsable : FLORIAN YGER
 
 
+===== Compétences à acquérir
+
+
++Fondamentaux du Machine Learning (nécessaires pour l’étude des modèles plus récents), méthodologie pour l’application du Machine Learning sur des données réelles (baseline, validation, pré-traitement) et bases librairies ML de Python+
+
+===== Contenu
 +Ce cours constitue une introduction à l’apprentissage artificiel. Nous ferons des rappels de statistiques élémentaires et y aborderons les algorithmes fondamentaux d’apprentissage supervisé et non supervisé.+
+
+
 
 +1) apprentissage supervisé:+
 
@@ -113,6 +155,8 @@ Enseignant responsable : FLORIAN YGER
 +méthode bayésienne naïve,+
 
 +régression logistique+
+
+
 
 +2) apprentissage non supervisé:+
 
@@ -128,6 +172,7 @@ Enseignant responsable : FLORIAN YGER
 Enseignant responsable : KHALID BELHAJJAME
 
 
+===== Contenu
 
 
 +L’objectif de ce cours est de couvrir les techniques internes des systèmes de gestion de base de données (SGBD) qui sont responsables de l'optimisation de l'evaluation de requêtes SQL.+
@@ -145,6 +190,7 @@ Enseignant responsable : KHALID BELHAJJAME
 Enseignant responsable : THIERRY JAILLET
 
 
+===== Contenu
 
 
 +Introduction aux systèmes d'information avancés.+
@@ -162,37 +208,29 @@ Enseignant responsable : THIERRY JAILLET
 Enseignant responsable : JOYCE EL HADDAD
 
 
+===== Prérequis recommandés
 
 
-+Ce cours vise à présenter les concepts élémentaires des systèmes et les algorithmes associés aux environnements répartis+
+- Système d'Exploitation
+- Réseau
 
-+Introduction aux systèmes répartis+
+===== Compétences à acquérir
 
-+Les applications réparties s'exécutent sur un ensemble de machines connectées en réseau. Elles représentent un ensemble de composants qui coopèrent pour réaliser un objectif commun en utilisant le réseau comme un moyen d'échanger des données. Ce cours vise à présenter les concepts élémentaires des systèmes et les algorithmes associés aux environnements répartis+
 
-+Introduction aux systèmes répartis+
++Introduction aux systèmes répartis.+
 
-+Principe et fonctionnement des appels de procédure à distance (RPC)+
+===== Contenu
 
-+Mise en œuvre de la communication à distance en utilisant la couche réseaux (RMI) en Java,+
 
-+Introduction à l’algorithmique répartie+
++Les applications réparties s'exécutent sur un ensemble de machines connectées en réseau. Elles représentent un ensemble de composants qui coopèrent pour réaliser un objectif commun en utilisant le réseau comme un moyen d'échanger des données. Ce cours vise à présenter les concepts élémentaires des systèmes et les algorithmes associés aux environnements répartis.+
 
-+Présentation du modèle de répartition basé sur les échanges de messages+
-
-+Présentation des concepts liés à la communication: contrôle de flux, synchronisation de processus, relation de causalité, réseaux FIFO+
-
-+Présentation des concepts liés au temps et à la concurrence : horloges logiques, exclusion mutuelle.+
++Introduction aux systèmes répartis et à l’algorithmique répartie. Présentation du modèle de répartition basé sur les échanges de messages. Présentation des concepts liés à la communication: contrôle de flux, synchronisation de processus, relation de causalité, réseaux FIFO. Présentation des concepts liés au temps et à la concurrence : horloges logiques, exclusion mutuelle.+
 
 ===== Références
-+Systèmes d'exploitation, systèmes centralisés, systèmes distribués, A. Tanenbaum,+
 
-+Dunod-Prentice Hall, 1994+
 
-+La communication et le temps dans les réseaux et les systèmes répartis, M. Raynal,+
-
-+Collection Direction des Etudes et des Recherches d'EDF n°75, Hermès, 1991+
-
+- Systèmes d'exploitation, systèmes centralisés, systèmes distribués, A. Tanenbaum, Dunod-Prentice Hall, 1994
+- La communication et le temps dans les réseaux et les systèmes répartis, M. Raynal, Collection Direction des Etudes et des Recherches d'EDF n°75, Hermès, 1991 
 
 ==== Organisation et communication
 30 h ; 3 ECTS
@@ -200,8 +238,7 @@ Enseignant responsable : JOYCE EL HADDAD
 Enseignant responsable : FLORENCE VATIN
 
 
-
-
+===== Compétences à acquérir
 +Ce cours se donne pour objectif de permettre aux étudiants de :+
 
 +1) Comprendre et analyser le processus de changement et plus particulèrement d'innovation dans l'organisation de l'entreprise ;+
@@ -210,6 +247,7 @@ Enseignant responsable : FLORENCE VATIN
 
 +3) Conduire efficacement des réunions et des négociations dans un processus de changement+
 
+===== Contenu
 +Ce cours comporte :+
 
 +1) Une partie "sociologie" qui développe différents aspects du processus de changement dans l'organisation et du processus ;+
@@ -224,24 +262,57 @@ Enseignant responsable : FLORENCE VATIN
 Enseignant responsable : CESAR OUAMPANA
 
 
+===== Prérequis recommandés
 
 
-+Permettre aux étudiants de découvrir les fondements du droit français et de se familiariser avec les principaux concepts ainsi qu’avec les grandes classifications du droit positif afin de prendre conscience des spécificités du droit de l’entreprise.+
 
-+Présentation du droit : organisation, sanction, régulation+
 
-+Notions générales de base : droit privé/droit public, sujets/objets, droit impératif/droit supplétif+
+*+Les cours se font sur le mode de la classe inversée+*+: AVANT chaque séance, les étudiants doivent avoir lu le contenu du support écrit envoyé auparavant, afin de participer de manière interactive au déroulement des séances. Cette lecture devra nécessairement être enrichie par la consultation des références bibliographiques recommandées.+
 
-+Sources de droit : droit interne, droit européen, droit international+
+===== Compétences à acquérir
 
-+Droit de la preuve : modes de preuve, charge de la preuve, originalité du droit commercial par rapport au droit civil+
 
-+Justice en France : ordre judiciaire, ordre administratif, règles de compétences en matière de droit des affaires+
++Permettre aux étudiants de découvrir les fondements du droit français et de se familiariser avec les principaux concepts ainsi qu’avec les grandes classifications du droit positif.+
 
-+Droit des contrats et responsabilité contractuelle : contrats d’affaires Droit des sociétés : structure des entreprises+
+===== Contenu
 
-+Études de cas+
 
++Présentation du droit : organisation, sanction, régulation et études de ca.+
+
++Notions générales de base : droit privé/droit public, sujets/objets, droit impératif/droit supplétif et études de cas.+
+
++Sources de droit : droit interne, droit européen, droit international et études de cas+
+
+
+
++Droit des contrats et responsabilité contractuelle plus études de cas.+
+
++Droit de la preuve : modes de preuve, charge de la preuve, originalité du droit commercial par rapport au droit civil et études de cas.+
+
++Justice en France : ordre judiciaire, ordre administratif et études de ca.+
+
+
+===== Références
+
+
+
+
++Manuels et lectures recommandés :+
+
++Pour les aspects généraux : BONIFASSI, BUCHER, VARLET,+*+Fondamentaux du Droit+*+, NATHAN, dernière édition.+
+
++Autres ouvrages :+
+
+*+Introduction au droit+*+/ FABRE-MAGNAN ; Presses Universitaires de France, dernière édition- Version électronique disponible).+
+
+*+Introduction à l'étude du droit+*+/ MALINVAUD Philippe ; Paris : LexisNexis, dernière édition.+
+
+===== Évaluation
+
+
+
+
++L’enseignement est évalué sur la base d'un examen final portant sur la vérification des connaissances acquises lors de la formation.+
 
 ==== Marketing
 30 h ; 3 ECTS
@@ -249,12 +320,10 @@ Enseignant responsable : CESAR OUAMPANA
 Enseignant responsable : SARAH LASRI
 
 
+===== Compétences à acquérir
++Familiariser les étudiants avec les concepts de marketing et leur permettre d'avoir une vision critique sur le fonctionnement des marchés, des entreprises et de leurs actions.+
 
-
-+Familiariser les étudiants avec les concepts de marketing et leur permettre d'avoir une vision critique sur le fonctionnement des marchés, des entreprises et de leurs+
-
-+actions.+
-
+===== Contenu
 +Présentation du marketing+
 
 +Présentation de la démarche marketing+
@@ -292,10 +361,10 @@ Enseignant responsable : SARAH LASRI
 Enseignant responsable : KIERAN HELME
 
 
-
-
+===== Compétences à acquérir
 +Fournir aux étudiants les outils linguistiques nécessaires pour fonctionner efficacement dans l'entreprise et avec leurs partenaires européens.+
 
+===== Contenu
 +Expression orale / écrite : anglais des affaires, faire un compte rendu oral en public, rédiger, lettres, rapports, résumé de conférences, réunions.+
 
 +Préparation au TOEIC : Test of English for International Communication.+
@@ -311,20 +380,33 @@ Enseignant responsable : KIERAN HELME
 Enseignant responsable : HUGO GILBERT
 
 
-+Introduction aux outils et aux méthodes de résolution de l’intelligence artificielle.+
+===== Compétences à acquérir
 
 
++Compétences de base en intelligence artificielle.+
 
-+1) Apprentissage d'un langage fonctionnel LISP ou Scheme.+
+===== Contenu
 
-+2) Méthodes de résolution de problèmes : algorithmes de recherche dans un graphe d’états.+
 
-+3) Jeux à deux joueurs : mini-max et alpha-béta.+
++Ce cours est une introduction à l'intelligence artificielle. Son but est d'introduire un large spectre de techniques.+
 
-+4) Systèmes Experts. Utilisation d’un générateur de systèmes experts.+
+- Recherche dans des graphes d'états (recherche non-informée et recherche informée avec A*)
+- Recherche locale
+- Recherche avec observations partielles ou dans un environnement stochastique
+- Problème de satisfaction de contraintes (CSP)
+- IA et décision
 
 ===== Références
-+Artificial Intelligence, A Modern Approach, Norvig et Russel (en anglais) Intelligence artificielle /Stuart J. Russell, Peter Norvig (en français) Expert systems : principles and programming, Joseph Giarratano, Gary Riley+
+
+
++Artificial Intelligence, A Modern Approach.+
+
++Stuart Russell and Peter Norvig.+
+
+===== Évaluation
+
+
++L'UE est évaluée à l'aide d'un examen sur table et d'un projet informatique à réaliser en binôme.+
 
 ==== Analyse financière
 30 h ; 3 ECTS
@@ -332,6 +414,7 @@ Enseignant responsable : HUGO GILBERT
 Enseignant responsable : ERIC THIBONNIER
 
 
+===== Contenu
 
 
 +Introduction de notions de comptabilités générales et de mathématiques financières nécessaires à l’analyse financière et présentation de l’analyse du compte de résultat et du bilan financier.+
@@ -372,6 +455,7 @@ Enseignant responsable : ERIC THIBONNIER
 Enseignant responsable : THIERRY JAILLET
 
 
+===== Contenu
 +Apporter des compléments en architecture et en urbanisation des systèmes d’information et mettre en application les concepts introduits au premier semestre en conduite de projet sous forme d’un projet mené par équipe de 3 à 4 étudiants. Architecture orienté service (SOA)+
 
 +Urbanisme et processus métier : introduction aux processus métiers, les constats, les limites du fonctionnement en silo, quelques règles de description des processus et des activités, règles de découpage et niveau de maille, l’apport d’une démarche d’urbanisation au niveau métier.+
@@ -388,6 +472,7 @@ Enseignant responsable : THIERRY JAILLET
 Enseignant responsable : STEPHANE AIRIAU
 
 
+===== Contenu
 
 
 +Objectif de ce cours est de sensibiliser les étudiants au regard de techniques de manipulation et d’introduire à la problématique de la protection et traitement des données et à ses conséquences sur les individus.+
@@ -409,6 +494,7 @@ Enseignant responsable : STEPHANE AIRIAU
 Enseignant responsable : RAPHAEL ACOSTA
 
 
+===== Contenu
 
 
 +Application des concepts de l’analyse financière sur un logiciel de simulation.+
@@ -416,7 +502,10 @@ Enseignant responsable : RAPHAEL ACOSTA
 ==== Programmation Web
 30 h ; 3 ECTS
 
+Enseignant responsable : YOHAN AZOULAY
 
+
+===== Contenu
 +Introduction to the construction of Web applications.+
 
 +The main topic of this class is the construction of modern web applications. cover the following two topics:+
@@ -426,18 +515,16 @@ Enseignant responsable : RAPHAEL ACOSTA
 +Server-side programming with JSP and servlets.+
 
 
-
-+Enseignant responsable : Yohan Azoulay+
-
-
 ==== Anglais 2
 18 h ; 2 ECTS
 
 Enseignant responsable : KIERAN HELME
 
 
+===== Compétences à acquérir
 +Fournir aux étudiants les outils linguistiques nécessaires pour fonctionner efficacement dans l'entreprise et avec leurs partenaires européens.+
 
+===== Contenu
 +Expression orale / écrite : anglais des affaires, faire un compte rendu oral en public, rédiger, lettres, rapports, résumé de conférences, réunions.+
 
 +Préparation au TOEIC : Test of English for International Communication.+
@@ -452,6 +539,7 @@ Enseignant responsable : KIERAN HELME
 Enseignant responsable : FRANCOIS PETER
 
 
+===== Contenu
 
 
 +Connaissance générale des marchés de capitaux (fonctionnement et raison d'être). Mathématiques des calculs financiers. Initiation à la modélisation stochastique des marchés et principaux résultats de la théorie "classique".+
@@ -480,26 +568,41 @@ Enseignant responsable : FRANCOIS PETER
 ==== Décision collective, décision multicritère
 3 ECTS
 
-
-+Présenter les principales familles de méthodes d’agrégation multicritère existantes et mise en œuvre de telles méthodes dans des situations réelles de décision.+
-
-+Présenter les principales familles de méthodes d’agrégation multicritère existantes et mise en œuvre de telles méthodes dans des situations réelles de décision.+
-
-+Introduction au processus de décision : actions, problématique,+
-
-+Modélisation des préférences : vrai, quasi et pseudo critères, structures associées+
-
-+Procédures d’agrégation multicritères de type critère de synthèse,+
-
-+Procédures d’agrégation multicritères : relation de surclassement,+
-
-+Présentation de la méthode programmation par objectif (goal programming)+
-
-+Illustration des méthodes sur le logiciel Electre.+
+Enseignant responsable : PAUL ALAIN KALDJOB KALDJOB
 
 
+===== Prérequis recommandés
 
-+Enseignant : Paul KALDJOB+
+
++Langue française. Bases en théorie des jeux et choix social.+
+
+===== Prérequis obligatoires
+
+
++Langue française+
+
+===== Compétences à acquérir
+
+
++Présenter les principales familles de méthodes d’agrégation multicritère existantes et mise en œuvre de telles méthodes dans des situations réelles de décision+
+
+===== Contenu
+
+
++Introduction au processus de décision+
+
++Introduction à la théorie du choix social+
+
++Procédures d’agrégation multicritères de type critère de synthèse+
+
++Procédures d’agrégation multicritères de type relation de surclassement,+
+
++Illustration des méthodes sur des cas réel+
+
+===== Évaluation
+
+
++Contrôles sur table et travaux pratiques sur machine+
 
 ==== Ordonnancement et Gestion de production
 3 ECTS
@@ -507,6 +610,7 @@ Enseignant responsable : FRANCOIS PETER
 Enseignant responsable : SYLVIE KORNMAN
 
 
+===== Contenu
 
 
 +Cet enseignement a pour objet de sensibiliser les étudiants aux problématiques de gestion de la production de biens et de services, en mettant en évidence la très grande complexité des problèmes à résoudre et la difficulté qui en découle de piloter efficacement une chaîne logistique. Quelques grilles d’analyse, modélisations et instrumentations seront abordées.+
@@ -519,6 +623,22 @@ Enseignant responsable : SYLVIE KORNMAN
 Enseignant responsable : HERVÉ COSTANTINI
 
 
+===== Prérequis recommandés
+
+
++Couches basses réseaux+
+
+===== Prérequis obligatoires
+
+
++Aucun.+
+
+===== Compétences à acquérir
+
+
++Notions Réseaux informatiques et Télécoms ainsi que leurs sécurités.+
+
+===== Contenu
 
 
 +Le cours porte sur les protocoles réseaux utilisés dans les couches hautes du modèle OSI, ainsi que sur les algorithmes de cryptographie qui permettent de les sécuriser.+
@@ -535,15 +655,9 @@ Enseignant responsable : HERVÉ COSTANTINI
 
 +Internet et IP+
 
-+IPv4+
-
 +Masque et sous-réseau+
 
 +Protocole de contrôle de l'Internet+
-
-+Protocoles de routage: OSPF et BGP+
-
-+IPv6+
 
 +Couche transport+
 
@@ -559,43 +673,24 @@ Enseignant responsable : HERVÉ COSTANTINI
 
 +Protocole de transport Internet: UDP et TCP+
 
-+Couche application+
++Réseaux de mobiles+
 
-+DNS+
++Réseaux sans fil+
 
-+Messagerie électronique+
++Cloud Networking+
 
-+Le web+
+===== Références
 
-+Cryptographie+
 
-+Introduction aux concepts de la cryptographie+
++Pujol, Guy, Les Réseaux+
 
-+Algorithmes à clé symétrique+
+===== Évaluation
 
-+DES+
 
-+AES+
++DST : 2 cc et exam+
 
-+Modes de chiffrement+
 
-+Algorithme à clé publique+
 
-+RSA+
-
-+Signature numérique+
-
-+Fonction de hashage (SHA)+
-
-+Protocoles d'authentification+
-
-+Echange de clés de Diffie-Hellman+
-
-+Sécurité des communications+
-
-+Psec+
-
-+Pare-feu+
 
 === Bloc entreprise
 ==== Mémoire
