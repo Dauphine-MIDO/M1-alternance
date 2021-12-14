@@ -6,7 +6,7 @@
 * https://github.com/oliviercailloux/Teaching/blob/main/README.adoc#take-notes[Take notes]!
 * https://github.com/oliviercailloux/Teaching/blob/main/Plagiat.adoc[Le plagiat]
 
-* Options : https://github.com/Dauphine-MIDO/M1-alternance/blob/master/Options/Sécurité%20et%20réseaux.adoc[Sécurité et réseaux], https://github.com/Dauphine-MIDO/M1-alternance/blob/master/Options/Décision%20collective,%20décision%20multicritère.adoc[Décision collective, décision multicritère]
+* Options : https://github.com/Dauphine-MIDO/M1-alternance/blob/master/Options/Sécurité%20et%20réseaux.pdf[Sécurité et réseaux], https://github.com/Dauphine-MIDO/M1-alternance/blob/master/Options/Décision%20collective,%20décision%20multicritère.pdf[Décision collective, décision multicritère]
 
 //* https://docs.google.com/spreadsheets/d/15CiuejRCSkYZrPvhuQRIFRg2xbb0DKYkvSm8bW_LmxI/edit?usp=sharing[Associations] entre étudiants et cours optionnels
 * Diapos de présentation (mars 2021) du https://github.com/Dauphine-MIDO/M1-alternance/raw/master/Pr%C3%A9sentation%20M2%20ID.pdf[M2 ID] (par Cristina Bazgan), https://github.com/Dauphine-MIDO/M1-alternance/raw/master/Pr%C3%A9sentation%20M2%20SITN.pdf[M2 SITN] (par Khalid Belhajjame), https://github.com/Dauphine-MIDO/M1-alternance/raw/master/Pr%C3%A9sentation%20M2%20IF.pdf[M2 IF] (par Emmanuel Lepinette), https://github.com/Dauphine-MIDO/M1-alternance/raw/master/Pr%C3%A9sentation%20M2%20IASD%20Apprentissage.pdf[M2 IASD] (2020, par Tristan Canzenave)
