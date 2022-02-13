@@ -2,7 +2,7 @@
 :lang: fr
 :toc: preamble
 
-Généré le 12 février 2022 à partir des données du https://dauphine.psl.eu/formations/masters/informatique/m1-methodes-informatiques-appliquees-a-la-gestion-des-entreprises/formation[site internet] de Dauphine.
+Généré le 13 février 2022 à partir des données du https://dauphine.psl.eu/formations/masters/informatique/m1-methodes-informatiques-appliquees-a-la-gestion-des-entreprises/formation[site internet] de Dauphine.
 
 == Vue d’ensemble
 [cols = "6, 6, 1"]
