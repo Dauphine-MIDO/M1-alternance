@@ -85,6 +85,9 @@ Avant tout, ne pas oublier de numéroter les pages. Cette pagination doit être 
 === Nombre de pages
 L’épaisseur d’un travail n’est pas un signe de qualité. Une quarantaine de pages constitue un format de référence. Le remplissage forcené est considéré négativement.
 
+=== Canevas LaTeX
+Pour les étudiants qui souhaitent rédiger en utilisant LaTeX (ce qui est apprécié mais pas obligatoire), https://github.com/av1m/thesis-template[ce canevas] a été mis à disposition par un étudiant d’une année précédente. Merci à lui !
+
 == Quelques points délicats
 === Première page
 La première page (c-à-d la page de garde) doit comporter les informations suivantes : NOM, Prénom de l’apprenti (majuscules accentuées ou virgule SVP), Formation, Entreprise d’accueil, Titre du mémoire, Tuteur enseignant, Maitre d’apprentissage, Résumé (dix lignes max.). Mentionner également le CFA sur votre page de garde.
