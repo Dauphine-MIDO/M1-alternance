@@ -165,6 +165,7 @@ Ce travail de réflexion doit permettre à l’apprenti de mieux gérer et compr
 // ** 3ème exemplaire remis directement au maitre d’apprentissage
 ** Pénalité de 4 points sur la note finale en cas de remise tardive ou de non visa par l’entreprise
 ** S'assurer que chacun des membres du jury dispose du mémoire
+** _Mise à jour du 24 aout_ : En raison d’un accès temporairement problématique à l’espace de remise des mémoires sur Moodle, la date de remise est décalée à la fin du dimanche 28 aout.
 
 . Semaine du 5 septembre 2022 : soutenances
 ** En présentiel, à Dauphine (ou en hybride si le MA ne peut s’y rendre)
