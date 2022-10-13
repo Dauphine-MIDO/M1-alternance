@@ -2,7 +2,7 @@
 :lang: fr
 :toc: preamble
 
-Généré le 6 octobre 2022 à partir des données du https://dauphine.psl.eu/formations/masters/informatique/m1-methodes-informatiques-appliquees-a-la-gestion-des-entreprises/formation[site internet] de Dauphine.
+Généré le 13 octobre 2022 à partir des données du https://dauphine.psl.eu/formations/masters/informatique/m1-methodes-informatiques-appliquees-a-la-gestion-des-entreprises/formation[site internet] de Dauphine.
 
 == Vue d’ensemble
 [cols = "6, 6, 1"]
@@ -13,13 +13,13 @@ Généré le 6 octobre 2022 à partir des données du https://dauphine.psl.eu/fo
 |KHITEM BLIDAOUI
 |4
 |Introduction au Machine Learning
-|FLORIAN YGER
+|LUCAS GNECCO HEREDIA
 |4
 |Systèmes de gestion de bases de données
 |KHALID BELHAJJAME
 |4
 |Systèmes d'information avancés 1
-|THIERRY JAILLET
+|ALAIN DEDENIS
 |3
 |Systèmes et algorithmiques répartis
 |JOYCE EL HADDAD
@@ -52,7 +52,7 @@ Généré le 6 octobre 2022 à partir des données du https://dauphine.psl.eu/fo
 |RAPHAEL ACOSTA
 |1
 |Programmation Web
-|YOHAN AZOULAY
+|FELIX FRITZ
 |3
 |Anglais 2
 |KIERAN HELME
@@ -61,7 +61,7 @@ Généré le 6 octobre 2022 à partir des données du https://dauphine.psl.eu/fo
 |FRANCOIS PETER
 |3
 |Décision collective, décision multicritère
-|PAUL ALAIN KALDJOB KALDJOB
+|LUCIE GALAND
 |3
 |Ordonnancement et Gestion de production
 |SYLVIE KORNMAN
@@ -133,7 +133,7 @@ Enseignant responsable : KHITEM BLIDAOUI
 ==== Introduction au Machine Learning
 36 h ; 4 ECTS
 
-Enseignant responsable : FLORIAN YGER
+Enseignant responsable : LUCAS GNECCO HEREDIA
 
 
 ===== Compétences à acquérir
@@ -187,7 +187,7 @@ Enseignant responsable : KHALID BELHAJJAME
 ==== Systèmes d'information avancés 1
 30 h ; 3 ECTS
 
-Enseignant responsable : THIERRY JAILLET
+Enseignant responsable : ALAIN DEDENIS
 
 
 ===== Contenu
@@ -502,7 +502,7 @@ Enseignant responsable : RAPHAEL ACOSTA
 ==== Programmation Web
 30 h ; 3 ECTS
 
-Enseignant responsable : YOHAN AZOULAY
+Enseignant responsable : FELIX FRITZ
 
 
 ===== Contenu
@@ -568,7 +568,7 @@ Enseignant responsable : FRANCOIS PETER
 ==== Décision collective, décision multicritère
 3 ECTS
 
-Enseignant responsable : PAUL ALAIN KALDJOB KALDJOB
+Enseignant responsable : LUCIE GALAND
 
 
 ===== Prérequis recommandés
