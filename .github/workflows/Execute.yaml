@@ -9,11 +9,8 @@ jobs:
   execute:
     name: Execute job
     runs-on: ubuntu-latest
-    
-    env:
-      API_USERNAME: ${{ secrets.API_USERNAME }}
-      API_PASSWORD: ${{ secrets.API_PASSWORD }}
-      
+    environment: API
+     
     steps:
     - name: Checkout Own
       uses: actions/checkout@v2
@@ -39,6 +36,13 @@ jobs:
         path: ~/.m2/repository
         
     - name: Maven
+      env:
+        #For mvn generate-sources (WSDL access credentials)
+        URL_ENCODED_API_USERNAME: ${{ secrets.URL_ENCODED_API_USERNAME }}
+        URL_ENCODED_API_PASSWORD: ${{ secrets.URL_ENCODED_API_PASSWORD }}
+        #For mvn test (runtime credentials)
+        API_USERNAME: ${{ secrets.API_USERNAME }}
+        API_PASSWORD: ${{ secrets.API_PASSWORD }}
       run: mvn "-PCI" "-DtrimStackTrace=false" verify org.codehaus.mojo:exec-maven-plugin:3.0.0:exec
       working-directory: 'plaquette-MIDO'
       
