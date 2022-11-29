@@ -19,7 +19,7 @@ jobs:
       uses: actions/checkout@v2
       with:
         repository: Dauphine-MIDO/plaquette-MIDO
-        ref: v0.0.9
+        ref: v0.0.10
         path: 'plaquette-MIDO'
     
     - name: Set up JDK
