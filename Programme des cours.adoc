@@ -2,7 +2,7 @@
 :lang: fr
 :toc: preamble
 
-Généré le 9 novembre 2022 à partir des données du https://dauphine.psl.eu/formations/masters/informatique/m1-methodes-informatiques-appliquees-a-la-gestion-des-entreprises/formation[site internet] de Dauphine.
+Généré le 3 janvier 2023 à partir des données du https://dauphine.psl.eu/formations/masters/informatique/m1-methodes-informatiques-appliquees-a-la-gestion-des-entreprises/formation[site internet] de Dauphine.
 
 == Vue d’ensemble
 [cols = "6, 6, 1"]
@@ -12,6 +12,9 @@ Généré le 9 novembre 2022 à partir des données du https://dauphine.psl.eu/f
 |Programmation Objet avancée
 |KHITEM BLIDAOUI
 |4
+|Organisation et communication
+|FLORENCE VATIN
+|3
 |Introduction au Machine Learning
 |LUCAS GNECCO HEREDIA
 |4
@@ -24,20 +27,14 @@ Généré le 9 novembre 2022 à partir des données du https://dauphine.psl.eu/f
 |Systèmes et algorithmiques répartis
 |JOYCE EL HADDAD
 |4
-|Organisation et communication
-|FLORENCE VATIN
-|3
-|Notions générales de Droit
-|CESAR OUAMPANA
-|3
+|Anglais 1
+|KIERAN HELME
+|1
 |Marketing
 |SARAH LASRI
 |3
-|Anglais 1
-|KIERAN HELME
-|2
-|Intelligence artificielle
-|HUGO GILBERT
+|Notions générales de Droit
+|CESAR OUAMPANA
 |3
 |Analyse financière
 |ERIC THIBONNIER
@@ -45,18 +42,21 @@ Généré le 9 novembre 2022 à partir des données du https://dauphine.psl.eu/f
 |Systèmes d'information avancés 2
 |THIERRY JAILLET
 |3
+|Intelligence artificielle et raisonnement
+|HUGO GILBERT
+|4
 |Éthique en informatique et protection des données
 |STEPHANE AIRIAU
-|1
+|2
 |Jeu d’entreprise
 |RAPHAEL ACOSTA
-|1
+|2
 |Programmation Web
 |FELIX FRITZ
 |3
 |Anglais 2
 |KIERAN HELME
-|2
+|3
 |Marchés Financiers  
 |FRANCOIS PETER
 |3
@@ -71,7 +71,7 @@ Généré le 9 novembre 2022 à partir des données du https://dauphine.psl.eu/f
 |3
 |Mémoire
 |
-|8
+|3
 |===
 == Semestre 1
 === Bloc Fondamental
@@ -129,6 +129,29 @@ Enseignant responsable : KHITEM BLIDAOUI
 +Programmation concurrente en Java - B. Goetz.+
 
 +Tête la première, Design Patterns - E. Freeman et al.+
+
+==== Organisation et communication
+30 h ; 3 ECTS
+
+Enseignant responsable : FLORENCE VATIN
+
+
+===== Compétences à acquérir
++Ce cours se donne pour objectif de permettre aux étudiants de :+
+
++1) Comprendre et analyser le processus de changement et plus particulèrement d'innovation dans l'organisation de l'entreprise ;+
+
++2) Comprendre et maîtriser le mécanisme de la communication liés au processus de changement ;+
+
++3) Conduire efficacement des réunions et des négociations dans un processus de changement+
+
+===== Contenu
++Ce cours comporte :+
+
++1) Une partie "sociologie" qui développe différents aspects du processus de changement dans l'organisation et du processus ;+
+
++2) Une partie "communication" qui présente et analyse différents types d'interactions liés au processus de changement (conduite de réunion, négociation, gestion de conflit, etc...)+
+
 
 ==== Introduction au Machine Learning
 36 h ; 4 ECTS
@@ -230,32 +253,66 @@ Enseignant responsable : JOYCE EL HADDAD
 
 
 - Systèmes d'exploitation, systèmes centralisés, systèmes distribués, A. Tanenbaum, Dunod-Prentice Hall, 1994
-- La communication et le temps dans les réseaux et les systèmes répartis, M. Raynal, Collection Direction des Etudes et des Recherches d'EDF n°75, Hermès, 1991 
+- La communication et le temps dans les réseaux et les systèmes répartis, M. Raynal, Collection Direction des Etudes et des Recherches d'EDF n°75, Hermès, 1991
 
-==== Organisation et communication
-30 h ; 3 ECTS
+==== Anglais 1
+18 h ; 1 ECTS
 
-Enseignant responsable : FLORENCE VATIN
+Enseignant responsable : KIERAN HELME
 
 
 ===== Compétences à acquérir
-+Ce cours se donne pour objectif de permettre aux étudiants de :+
-
-+1) Comprendre et analyser le processus de changement et plus particulèrement d'innovation dans l'organisation de l'entreprise ;+
-
-+2) Comprendre et maîtriser le mécanisme de la communication liés au processus de changement ;+
-
-+3) Conduire efficacement des réunions et des négociations dans un processus de changement+
++Fournir aux étudiants les outils linguistiques nécessaires pour fonctionner efficacement dans l'entreprise et avec leurs partenaires européens.+
 
 ===== Contenu
-+Ce cours comporte :+
++Expression orale / écrite : anglais des affaires, faire un compte rendu oral en public, rédiger, lettres, rapports, résumé de conférences, réunions.+
 
-+1) Une partie "sociologie" qui développe différents aspects du processus de changement dans l'organisation et du processus ;+
++Préparation au TOEIC : Test of English for International Communication.+
 
-+2) Une partie "communication" qui présente et analyse différents types d'interactions liés au processus de changement (conduite de réunion, négociation, gestion de conflit, etc...)+
++Traduction Economique : Familiariser les étudiants avec la terminologie économique à partir de thèmes d'actualité. Travail en laboratoire et/ou en salle audiovisuelle à partir de documents authentiques.+
 
 
-=== Bloc UE d'application
+==== Marketing
+30 h ; 3 ECTS
+
+Enseignant responsable : SARAH LASRI
+
+
+===== Compétences à acquérir
++Familiariser les étudiants avec les concepts de marketing et leur permettre d'avoir une vision critique sur le fonctionnement des marchés, des entreprises et de leurs actions.+
+
+===== Contenu
++Présentation du marketing+
+
++Présentation de la démarche marketing+
+
++La stratégie marketing, de segmentation, de positionnement+
+
++Les études et recherches en marketing, qualitatives, quantitatives+
+
++Le comportement du consommateur+
+
++Les politiques marketing, produit, de prix, de communication, de distribution+
+
++Le marketing international+
+
++Études de cas+
+
+
+===== Références
++L'essentiel du Marketing, E. Vernette, Editions d'Organisation, 2ème édition, 2002+
+
++Marketing Management , adaptation française de Ph. Kotler et D. Manceau, 10ème édition, Paris, Publi-Union, 2004+
+
++Études et Recherches en Marketing, Fondements et Méthodes, Y. Evrard, B. Pras et E. Roux, Dunod, 2000+
+
++Marketing, J.-P. Helfer, J.-M. Orsoni, 8ème édition, Vuibert, 2003+
+
++Revues : Recherches et Applications Marketing (AFM), Décisions Marketing (AFM), Revue Française du Marketing (ADETEM)+
+
++Le Mercator, L. Levy, Dunod, 11ème édition, 2014.+
+
+
 ==== Notions générales de Droit
 30 h ; 3 ECTS
 
@@ -314,100 +371,8 @@ Enseignant responsable : CESAR OUAMPANA
 
 +L’enseignement est évalué sur la base d'un examen final portant sur la vérification des connaissances acquises lors de la formation.+
 
-==== Marketing
-30 h ; 3 ECTS
-
-Enseignant responsable : SARAH LASRI
-
-
-===== Compétences à acquérir
-+Familiariser les étudiants avec les concepts de marketing et leur permettre d'avoir une vision critique sur le fonctionnement des marchés, des entreprises et de leurs actions.+
-
-===== Contenu
-+Présentation du marketing+
-
-+Présentation de la démarche marketing+
-
-+La stratégie marketing, de segmentation, de positionnement+
-
-+Les études et recherches en marketing, qualitatives, quantitatives+
-
-+Le comportement du consommateur+
-
-+Les politiques marketing, produit, de prix, de communication, de distribution+
-
-+Le marketing international+
-
-+Études de cas+
-
-
-===== Références
-+L'essentiel du Marketing, E. Vernette, Editions d'Organisation, 2ème édition, 2002+
-
-+Marketing Management , adaptation française de Ph. Kotler et D. Manceau, 10ème édition, Paris, Publi-Union, 2004+
-
-+Études et Recherches en Marketing, Fondements et Méthodes, Y. Evrard, B. Pras et E. Roux, Dunod, 2000+
-
-+Marketing, J.-P. Helfer, J.-M. Orsoni, 8ème édition, Vuibert, 2003+
-
-+Revues : Recherches et Applications Marketing (AFM), Décisions Marketing (AFM), Revue Française du Marketing (ADETEM)+
-
-+Le Mercator, L. Levy, Dunod, 11ème édition, 2014.+
-
-
-==== Anglais 1
-18 h ; 2 ECTS
-
-Enseignant responsable : KIERAN HELME
-
-
-===== Compétences à acquérir
-+Fournir aux étudiants les outils linguistiques nécessaires pour fonctionner efficacement dans l'entreprise et avec leurs partenaires européens.+
-
-===== Contenu
-+Expression orale / écrite : anglais des affaires, faire un compte rendu oral en public, rédiger, lettres, rapports, résumé de conférences, réunions.+
-
-+Préparation au TOEIC : Test of English for International Communication.+
-
-+Traduction Economique : Familiariser les étudiants avec la terminologie économique à partir de thèmes d'actualité. Travail en laboratoire et/ou en salle audiovisuelle à partir de documents authentiques.+
-
-
 == Semestre 2
 === Bloc Fondamental
-==== Intelligence artificielle
-30 h ; 3 ECTS
-
-Enseignant responsable : HUGO GILBERT
-
-
-===== Compétences à acquérir
-
-
-+Compétences de base en intelligence artificielle.+
-
-===== Contenu
-
-
-+Ce cours est une introduction à l'intelligence artificielle. Son but est d'introduire un large spectre de techniques.+
-
-- Recherche dans des graphes d'états (recherche non-informée et recherche informée avec A*)
-- Recherche locale
-- Recherche avec observations partielles ou dans un environnement stochastique
-- Problème de satisfaction de contraintes (CSP)
-- IA et décision
-
-===== Références
-
-
-+Artificial Intelligence, A Modern Approach.+
-
-+Stuart Russell and Peter Norvig.+
-
-===== Évaluation
-
-
-+L'UE est évaluée à l'aide d'un examen sur table et d'un projet informatique à réaliser en binôme.+
-
 ==== Analyse financière
 30 h ; 3 ECTS
 
@@ -456,26 +421,56 @@ Enseignant responsable : THIERRY JAILLET
 
 
 ===== Contenu
-+Apporter des compléments en architecture et en urbanisation des systèmes d’information et mettre en application les concepts introduits au premier semestre en conduite de projet sous forme d’un projet mené par équipe de 3 à 4 étudiants. Architecture orienté service (SOA)+
++Apporter des compléments en architecture et en urbanisation des systèmes d ’ information et mettre en application les concepts introduits au premier semestre en conduite de projet sous forme d ’ un projet mené par équipe de 3 à 4 étudiants. Architecture orienté service (SOA)+
 
-+Urbanisme et processus métier : introduction aux processus métiers, les constats, les limites du fonctionnement en silo, quelques règles de description des processus et des activités, règles de découpage et niveau de maille, l’apport d’une démarche d’urbanisation au niveau métier.+
++Urbanisme et processus métier : introduction aux processus métiers, les constats, les limites du fonctionnement en silo, quelques règles de description des processus et des activités, règles de découpage et niveau de maille, l ’ apport d ’ une démarche d ’ urbanisation au niveau métier.+
 
-+Les référentiels dans l’urbanisation des SI+
++Les référentiels dans l ’ urbanisation des SI+
 
 +Organisation de la conduite d'un projet informatique (PAQ, Estimation des charges, Planification...)+
 
-+Application sous forme d’un projet qui s’effectue dans les conditions semblables à un projet informatique avec l'utilisation d'un Atelier Génie Logiciel et donnant lieu à la remise de dossiers d'analyse et de dossiers techniques ; réunions d'avancement de projet, séances de validation des choix fonctionnels et des orientations techniques, recette de l'application.+
++Application sous forme d ’ un projet qui s ’ effectue dans les conditions semblables à un projet informatique avec l'utilisation d'un Atelier Génie Logiciel et donnant lieu à la remise de dossiers d'analyse et de dossiers techniques ; réunions d'avancement de projet, séances de validation des choix fonctionnels et des orientations techniques, recette de l'application.+
+
+==== Intelligence artificielle et raisonnement
+30 h ; 4 ECTS
+
+Enseignant responsable : HUGO GILBERT
+
+
+===== Compétences à acquérir
+
+
++Compétences de base en intelligence artificielle.+
+
+===== Contenu
++Ce cours est une introduction à l'intelligence artificielle. Son but est d'introduire un large spectre de techniques.+
+
+- Recherche dans des graphes d'états (recherche non-informée et recherche informée avec A*)
+- Recherche locale
+- Recherche avec observations partielles ou dans un environnement stochastique
+- Problème de satisfaction de contraintes (CSP)
+- IA et décision
+
+===== Références
+
+
++Artificial Intelligence, A Modern Approach.+
+
++Stuart Russell and Peter Norvig.+
+
+===== Évaluation
+
+
++L'UE est évaluée à l'aide d'un examen sur table et d'un projet informatique à réaliser en binôme.+
 
 ==== Éthique en informatique et protection des données
-9 h ; 1 ECTS
+9 h ; 2 ECTS
 
 Enseignant responsable : STEPHANE AIRIAU
 
 
 ===== Contenu
-
-
-+Objectif de ce cours est de sensibiliser les étudiants au regard de techniques de manipulation et d’introduire à la problématique de la protection et traitement des données et à ses conséquences sur les individus.+
++Objectif de ce cours est de sensibiliser les étudiants au regard de techniques de manipulation et d ’ introduire à la problématique de la protection et traitement des données et à ses conséquences sur les individus.+
 
 
 
@@ -484,20 +479,16 @@ Enseignant responsable : STEPHANE AIRIAU
 - Les systèmes de régulation de la protection des données
 - Les textes applicables dans l'Union européenne et en France : les grands principes et définitions juridiques de la protection des données à caractère personnel
 - Nudge theory
-- Conséquences sur la société (privacy, surveillance, ’ossification’…)
-
-
+- Conséquences sur la société (privacy, surveillance, ’ ossification ’ … )
 
 ==== Jeu d’entreprise
-15 h ; 1 ECTS
+15 h ; 2 ECTS
 
 Enseignant responsable : RAPHAEL ACOSTA
 
 
 ===== Contenu
-
-
-+Application des concepts de l’analyse financière sur un logiciel de simulation.+
++Application des concepts de l ’ analyse financière sur un logiciel de simulation.+
 
 ==== Programmation Web
 30 h ; 3 ECTS
@@ -506,17 +497,22 @@ Enseignant responsable : FELIX FRITZ
 
 
 ===== Contenu
-+Introduction to the construction of Web applications.+
++A practice-oriented course on constructing web applications. In small groups, students will be tasked with implementing their ideas using the techniques taught in this class. The material includes:+
 
-+The main topic of this class is the construction of modern web applications. cover the following two topics:+
++* Java Spring Framework as Backend+
 
-+Client-side programming with javascript.+
++* PostgreSQL for database management+
 
-+Server-side programming with JSP and servlets.+
++* React as Frontend+
 
++* Using git for version control+
+
+
+
++This entire course will be in English.+
 
 ==== Anglais 2
-18 h ; 2 ECTS
+18 h ; 3 ECTS
 
 Enseignant responsable : KIERAN HELME
 
@@ -694,6 +690,6 @@ Enseignant responsable : HERVÉ COSTANTINI
 
 === Bloc entreprise
 ==== Mémoire
-8 ECTS
+3 ECTS
 
 
