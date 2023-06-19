@@ -167,6 +167,6 @@ Ce travail de réflexion doit permettre à l’apprenti de mieux gérer et compr
 ** S'assurer que chacun des membres du jury dispose du mémoire
 
 . 4 au 6 septembre 2023 : soutenances
-** En présentiel, à Dauphine (ou en hybride si le MA ne peut s’y rendre)
-** Planning diffusé au mois de juin
+** En présentiel, à Dauphine
+// ** Planning diffusé au mois de juin
 ** S’assurer quelques jours avant la date de sa soutenance que tous les membres du jury sont bien au courant des lieux, date et heure
