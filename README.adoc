@@ -1,16 +1,16 @@
 = M1 alternance
 
-* https://github.com/Dauphine-MIDO/M1-alternance/blob/master/M%C3%A9moire.adoc[Mémoire] (et https://github.com/Dauphine-MIDO/M1-alternance/raw/master/M%C3%A9moire.pdf[PDF])
+* https://github.com/Dauphine-MIDO/M1-alternance/raw/master/M%C3%A9moire.pdf[Mémoire]
 * https://dauphine.psl.eu/formations/masters/informatique/m1-methodes-informatiques-appliquees-a-la-gestion-des-entreprises/formation[Programme] des cours (et https://github.com/Dauphine-MIDO/M1-alternance/blob/master/Programme%20des%20cours.adoc[extraction])
 * https://github.com/Dauphine-MIDO/M1-alternance/blob/master/Tutorat.adoc[Tutorat]
 * https://github.com/oliviercailloux/Teaching/blob/main/README.adoc#take-notes[Take notes]!
 * https://github.com/oliviercailloux/Teaching/blob/main/Plagiat.adoc[Le plagiat]
 
-* Options : https://github.com/Dauphine-MIDO/M1-alternance/raw/master/Options/Sécurité%20et%20réseaux.pdf[Sécurité et réseaux], https://github.com/Dauphine-MIDO/M1-alternance/raw/master/Options/D%C3%A9cision%20collective%2C%20d%C3%A9cision%20multicrit%C3%A8re.pdf[Décision collective, décision multicritère]
+// * Options : https://github.com/Dauphine-MIDO/M1-alternance/raw/master/Options/Sécurité%20et%20réseaux.pdf[Sécurité et réseaux], https://github.com/Dauphine-MIDO/M1-alternance/raw/master/Options/D%C3%A9cision%20collective%2C%20d%C3%A9cision%20multicrit%C3%A8re.pdf[Décision collective, décision multicritère]
 
 //* https://docs.google.com/spreadsheets/d/15CiuejRCSkYZrPvhuQRIFRg2xbb0DKYkvSm8bW_LmxI/edit?usp=sharing[Associations] entre étudiants et cours optionnels
 * Diapos de présentation (mars 2021) du https://github.com/Dauphine-MIDO/M1-alternance/raw/master/Pr%C3%A9sentation%20M2%20ID.pdf[M2 ID] (par Cristina Bazgan), https://github.com/Dauphine-MIDO/M1-alternance/raw/master/Pr%C3%A9sentation%20M2%20SITN.pdf[M2 SITN] (par Khalid Belhajjame), https://github.com/Dauphine-MIDO/M1-alternance/raw/master/Pr%C3%A9sentation%20M2%20IF.pdf[M2 IF] (par Emmanuel Lepinette), https://github.com/Dauphine-MIDO/M1-alternance/raw/master/Pr%C3%A9sentation%20M2%20IASD%20Apprentissage.pdf[M2 IASD] (2020, par Tristan Canzenave)
 
 == Enseignants
-* https://trombis.dauphine.fr/?dn=cn=structure-etu-vet/A4AMIA-100/2021,ou=groups,dc=dauphine,dc=fr[Trombinoscope] (rempli lors de l’inscription administrative des étudiants, en septembre)
+* https://trombis.dauphine.psl.eu/?dn=cn=structure-etu-vet/A4AMIA-100/2023,ou=groups,dc=dauphine,dc=fr[Trombinoscope] (rempli lors de l’inscription administrative des étudiants, en septembre)
 
