@@ -1,6 +1,6 @@
 = M1 alternance
 
-* https://github.com/Dauphine-MIDO/M1-alternance/raw/main/M%C3%A9moire.pdf[Mémoire]
+* Mémoire : https://github.com/Dauphine-MIDO/M1-alternance/raw/main/M%C3%A9moire.pdf[consignes] et https://github.com/Dauphine-MIDO/M1-alternance/raw/main/Pr%C3%A9s%20m%C3%A9moire/M%C3%A9moire.pdf[présentation]
 * https://dauphine.psl.eu/formations/masters/informatique/m1-methodes-informatiques-appliquees-a-la-gestion-des-entreprises/formation[Programme] des cours (et https://github.com/Dauphine-MIDO/M1-alternance/blob/main/Programme%20des%20cours.adoc[extraction])
 * https://github.com/Dauphine-MIDO/M1-alternance/blob/main/Tutorat.adoc[Tutorat]
 * https://github.com/oliviercailloux/Teaching/blob/main/README.adoc#take-notes[Take notes]!
