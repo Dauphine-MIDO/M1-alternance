@@ -2,12 +2,12 @@
 :lang: fr
 :toc: preamble
 
-Généré le 24 janvier 2023 à partir des données du https://dauphine.psl.eu/formations/masters/informatique/m1-methodes-informatiques-appliquees-a-la-gestion-des-entreprises/formation[site internet] de Dauphine.
+Généré le 17 décembre 2023 à partir des données du https://dauphine.psl.eu/formations/masters/informatique/1re-annee-de-master-miage/programme[site internet] de Dauphine.
 
 == Vue d’ensemble
 [cols = "6, 6, 1"]
 |===
-|Cours|Enseignant responsable|ECTS
+|Cours|Enseignants responsables|ECTS
 
 |Programmation Objet avancée
 |KHITEM BLIDAOUI
@@ -16,29 +16,29 @@ Généré le 24 janvier 2023 à partir des données du https://dauphine.psl.eu/f
 |FLORENCE VATIN
 |3
 |Introduction au Machine Learning
-|LUCAS GNECCO HEREDIA
+|FLORIAN YGER
 |4
 |Systèmes de gestion de bases de données
 |KHALID BELHAJJAME
 |4
 |Systèmes d'information avancés 1
-|ALAIN DEDENIS
+|ANDRE CHAMOULEAU; MEHDI MOATASSIM; ALAIN DEDENIS
 |3
 |Systèmes et algorithmiques répartis
 |JOYCE EL HADDAD
 |4
-|Anglais 1
-|KIERAN HELME
-|1
-|Marketing
-|SARAH LASRI
-|3
 |Notions générales de Droit
 |CESAR OUAMPANA
 |3
+|Marketing
+|SARAH LASRI
+|3
+|Anglais 1
+|KIERAN HELME
+|2
 |Analyse financière
 |ERIC THIBONNIER
-|3
+|4
 |Systèmes d'information avancés 2
 |THIERRY JAILLET
 |3
@@ -46,35 +46,35 @@ Généré le 24 janvier 2023 à partir des données du https://dauphine.psl.eu/f
 |HUGO GILBERT
 |4
 |Éthique en informatique et protection des données
-|STEPHANE AIRIAU
+|THIERRY JAILLET
 |2
-|Jeu d’entreprise
+|Jeux d’entreprises
 |RAPHAEL ACOSTA
 |2
 |Programmation Web
-|FELIX FRITZ
+|ELIE ABI HANNA DAHER
 |3
 |Anglais 2
 |KIERAN HELME
+|3
+|Mémoire
+|
 |3
 |Marchés Financiers  
 |FRANCOIS PETER
 |3
 |Décision collective, décision multicritère
-|LUCIE GALAND
+|
 |3
 |Ordonnancement et Gestion de production
-|SYLVIE KORNMAN
+|BENJAMIN MALLO
 |3
 |Sécurité et réseaux
-|HERVÉ COSTANTINI
-|3
-|Mémoire
-|
+|JULIEN LESCA
 |3
 |===
 == Semestre 1
-=== Bloc Fondamental
+=== Tronc commun
 ==== Programmation Objet avancée
 36 h ; 4 ECTS
 
@@ -156,7 +156,7 @@ Enseignant responsable : FLORENCE VATIN
 ==== Introduction au Machine Learning
 36 h ; 4 ECTS
 
-Enseignant responsable : LUCAS GNECCO HEREDIA
+Enseignant responsable : FLORIAN YGER
 
 
 ===== Compétences à acquérir
@@ -210,7 +210,7 @@ Enseignant responsable : KHALID BELHAJJAME
 ==== Systèmes d'information avancés 1
 30 h ; 3 ECTS
 
-Enseignant responsable : ALAIN DEDENIS
+Enseignants responsables : ANDRE CHAMOULEAU; MEHDI MOATASSIM; ALAIN DEDENIS
 
 
 ===== Contenu
@@ -253,24 +253,63 @@ Enseignant responsable : JOYCE EL HADDAD
 
 
 - Systèmes d'exploitation, systèmes centralisés, systèmes distribués, A. Tanenbaum, Dunod-Prentice Hall, 1994
-- La communication et le temps dans les réseaux et les systèmes répartis, M. Raynal, Collection Direction des Etudes et des Recherches d'EDF n°75, Hermès, 1991
+- La communication et le temps dans les réseaux et les systèmes répartis, M. Raynal, Collection Direction des Etudes et des Recherches d'EDF n°75, Hermès, 1991 
 
-==== Anglais 1
-18 h ; 1 ECTS
+==== Notions générales de Droit
+36 h ; 3 ECTS
 
-Enseignant responsable : KIERAN HELME
+Enseignant responsable : CESAR OUAMPANA
 
+
+===== Prérequis recommandés
+
+
+
+
+*+Les cours se font sur le mode de la classe inversée+*+: AVANT chaque séance, les étudiants doivent avoir lu le contenu du support écrit envoyé auparavant, afin de participer de manière interactive au déroulement des séances. Cette lecture devra nécessairement être enrichie par la consultation des références bibliographiques recommandées.+
 
 ===== Compétences à acquérir
-+Fournir aux étudiants les outils linguistiques nécessaires pour fonctionner efficacement dans l'entreprise et avec leurs partenaires européens.+
+
+
++Permettre aux étudiants de découvrir les fondements du droit français et de se familiariser avec les principaux concepts ainsi qu’avec les grandes classifications du droit positif.+
 
 ===== Contenu
-+Expression orale / écrite : anglais des affaires, faire un compte rendu oral en public, rédiger, lettres, rapports, résumé de conférences, réunions.+
 
-+Préparation au TOEIC : Test of English for International Communication.+
 
-+Traduction Economique : Familiariser les étudiants avec la terminologie économique à partir de thèmes d'actualité. Travail en laboratoire et/ou en salle audiovisuelle à partir de documents authentiques.+
++Présentation du droit : organisation, sanction, régulation et études de ca.+
 
++Notions générales de base : droit privé/droit public, sujets/objets, droit impératif/droit supplétif et études de cas.+
+
++Sources de droit : droit interne, droit européen, droit international et études de cas+
+
+
+
++Droit des contrats et responsabilité contractuelle plus études de cas.+
+
++Droit de la preuve : modes de preuve, charge de la preuve, originalité du droit commercial par rapport au droit civil et études de cas.+
+
++Justice en France : ordre judiciaire, ordre administratif et études de ca.+
+
+
+===== Références
+
+
++Manuels et lectures recommandés :+
+
++Pour les aspects généraux : BONIFASSI, BUCHER, VARLET,+*+Fondamentaux du Droit+*+, NATHAN, dernière édition.+
+
++Autres ouvrages :+
+
+*+Introduction au droit+*+/ FABRE-MAGNAN ; Presses Universitaires de France, dernière édition- Version électronique disponible).+
+
+*+Introduction à l'étude du droit+*+/ MALINVAUD Philippe ; Paris : LexisNexis, dernière édition.+
+
+===== Évaluation
+
+
+
+
++L’enseignement est évalué sur la base d'un examen final portant sur la vérification des connaissances acquises lors de la formation.+
 
 ==== Marketing
 30 h ; 3 ECTS
@@ -313,88 +352,45 @@ Enseignant responsable : SARAH LASRI
 +Le Mercator, L. Levy, Dunod, 11ème édition, 2014.+
 
 
-==== Notions générales de Droit
-30 h ; 3 ECTS
+==== Anglais 1
+18 h ; 2 ECTS
 
-Enseignant responsable : CESAR OUAMPANA
+Enseignant responsable : KIERAN HELME
 
-
-===== Prérequis recommandés
-
-
-
-
-*+Les cours se font sur le mode de la classe inversée+*+: AVANT chaque séance, les étudiants doivent avoir lu le contenu du support écrit envoyé auparavant, afin de participer de manière interactive au déroulement des séances. Cette lecture devra nécessairement être enrichie par la consultation des références bibliographiques recommandées.+
 
 ===== Compétences à acquérir
-
-
-+Permettre aux étudiants de découvrir les fondements du droit français et de se familiariser avec les principaux concepts ainsi qu’avec les grandes classifications du droit positif.+
++Fournir aux étudiants les outils linguistiques nécessaires pour fonctionner efficacement dans l'entreprise et avec leurs partenaires européens.+
 
 ===== Contenu
++Expression orale / écrite : anglais des affaires, faire un compte rendu oral en public, rédiger, lettres, rapports, résumé de conférences, réunions.+
 
++Préparation au TOEIC : Test of English for International Communication.+
 
-+Présentation du droit : organisation, sanction, régulation et études de ca.+
++Traduction Economique : Familiariser les étudiants avec la terminologie économique à partir de thèmes d'actualité. Travail en laboratoire et/ou en salle audiovisuelle à partir de documents authentiques.+
 
-+Notions générales de base : droit privé/droit public, sujets/objets, droit impératif/droit supplétif et études de cas.+
-
-+Sources de droit : droit interne, droit européen, droit international et études de cas+
-
-
-
-+Droit des contrats et responsabilité contractuelle plus études de cas.+
-
-+Droit de la preuve : modes de preuve, charge de la preuve, originalité du droit commercial par rapport au droit civil et études de cas.+
-
-+Justice en France : ordre judiciaire, ordre administratif et études de ca.+
-
-
-===== Références
-
-
-
-
-+Manuels et lectures recommandés :+
-
-+Pour les aspects généraux : BONIFASSI, BUCHER, VARLET,+*+Fondamentaux du Droit+*+, NATHAN, dernière édition.+
-
-+Autres ouvrages :+
-
-*+Introduction au droit+*+/ FABRE-MAGNAN ; Presses Universitaires de France, dernière édition- Version électronique disponible).+
-
-*+Introduction à l'étude du droit+*+/ MALINVAUD Philippe ; Paris : LexisNexis, dernière édition.+
-
-===== Évaluation
-
-
-
-
-+L’enseignement est évalué sur la base d'un examen final portant sur la vérification des connaissances acquises lors de la formation.+
 
 == Semestre 2
-=== Bloc Fondamental
+=== Tronc commun
 ==== Analyse financière
-30 h ; 3 ECTS
+30 h ; 4 ECTS
 
 Enseignant responsable : ERIC THIBONNIER
 
 
 ===== Contenu
-
-
-+Introduction de notions de comptabilités générales et de mathématiques financières nécessaires à l’analyse financière et présentation de l’analyse du compte de résultat et du bilan financier.+
++Introduction de notions de comptabilités générales et de mathématiques financières nécessaires à l ’ analyse financière et présentation de l ’ analyse du compte de résultat et du bilan financier.+
 
 +Calcul financier : actualisation et capitalisation, analyse des emprunts et élément pour la décision de financement. Analyse du compte résultat : les soldes intermédiaires de gestion+
 
 +(SIG), la valeur ajoutée, retraitement du crédit-bail, le financement interne et la CAF.+
 
-+Analyse de bilan financier - approche Liquidité/Exigibilité : l’affectation du résultat, retraitement du crédit-bail, Le bilan résumé, la relation statique d’équilibre financier (T = FR – BFR), la trésorerie potentielle.+
++Analyse de bilan financier - approche Liquidité/Exigibilité : l ’ affectation du résultat, retraitement du crédit-bail, Le bilan résumé, la relation statique d ’ équilibre financier (T = FR – BFR), la trésorerie potentielle.+
 
-+Méthode des ratios : les principes de l’analyse par la méthode des ratios, les principaux ratios (structure du bilan, équilibre financier, gestion, marges), les ratios spécifiques à l’analyse boursière.+
++Méthode des ratios : les principes de l ’ analyse par la méthode des ratios, les principaux ratios (structure du bilan, équilibre financier, gestion, marges), les ratios spécifiques à l ’ analyse boursière.+
 
-+Analyse des flux financiers : la reconstitution des flux financiers, les emplois et les ressources, la construction d’un tableau de financement, la construction d’un tableau des flux de trésorerie, interprétation et analyse.+
++Analyse des flux financiers : la reconstitution des flux financiers, les emplois et les ressources, la construction d ’ un tableau de financement, la construction d ’ un tableau des flux de trésorerie, interprétation et analyse.+
 
-+Analyse des rentabilités : mesure comptable de la rentabilité économique, mesure comptable de la rentabilité financière, L’effet de levier financier.+
++Analyse des rentabilités : mesure comptable de la rentabilité économique, mesure comptable de la rentabilité financière, L ’ effet de levier financier.+
 
 
 ===== Références
@@ -466,7 +462,7 @@ Enseignant responsable : HUGO GILBERT
 ==== Éthique en informatique et protection des données
 9 h ; 2 ECTS
 
-Enseignant responsable : STEPHANE AIRIAU
+Enseignant responsable : THIERRY JAILLET
 
 
 ===== Contenu
@@ -481,7 +477,7 @@ Enseignant responsable : STEPHANE AIRIAU
 - Nudge theory
 - Conséquences sur la société (privacy, surveillance, ’ ossification ’ … )
 
-==== Jeu d’entreprise
+==== Jeux d’entreprises
 15 h ; 2 ECTS
 
 Enseignant responsable : RAPHAEL ACOSTA
@@ -493,7 +489,7 @@ Enseignant responsable : RAPHAEL ACOSTA
 ==== Programmation Web
 30 h ; 3 ECTS
 
-Enseignant responsable : FELIX FRITZ
+Enseignant responsable : ELIE ABI HANNA DAHER
 
 
 ===== Contenu
@@ -528,9 +524,13 @@ Enseignant responsable : KIERAN HELME
 +Traduction Economique : Familiariser les étudiants avec la terminologie économique à partir de thèmes d'actualité. Travail en laboratoire et/ou en salle audiovisuelle à partir de documents authentiques.+
 
 
-=== Bloc Options
-==== Marchés Financiers  
+==== Mémoire
 3 ECTS
+
+
+=== Options
+==== Marchés Financiers  
+30 h ; 3 ECTS
 
 Enseignant responsable : FRANCOIS PETER
 
@@ -546,64 +546,51 @@ Enseignant responsable : FRANCOIS PETER
 
 
 ===== Références
++Marche ´ s financiers, gestion de portefeuille et des risques, Jacquillat B., Solnik B., 4ee ´ d., Dunod, 2004 Financial Economics, Bodie Z., Merton R., 2thed., Prentice Hall, 2007 An introduction to derivatives& Risk management, Chance D., Brooks R., 7thed., Thomson South- Western, 2007+
 
++Mathe ´ matiques des marche ´ s financiers, Dalbarade J.M., 3ee ´ d., Eska, 2005+
 
-+Marche´s financiers, gestion de portefeuille et des risques, Jacquillat B., Solnik B., 4ee´d., Dunod, 2004 Financial Economics, Bodie Z., Merton R., 2thed., Prentice Hall, 2007 An introduction to derivatives & Risk management, Chance D., Brooks R., 7thed., Thomson South- Western, 2007+
-
-+Mathe´matiques des marche´s financiers, Dalbarade J.M., 3ee´d., Eska, 2005+
-
-+Bourse et marche´s financiers, Fleuriet M., Simon Y., 2ee´d., Economica, 2003+
++Bourse et marche ´ s financiers, Fleuriet M., Simon Y., 2ee ´ d., Economica, 2003+
 
 +Financial Institutions and Markets, Madura J., 7thed., Thomson South-Western, 2006+
 
-+Financial markets and Institutions, Mishkin F., Eakins S., 5ee´d., Addison Wesley, 2006 Corporate finance, Ross S., Westerfield R., Jaffe J., 7ee´d., Mc Graw Hill, 2005+
++Financial markets and Institutions, Mishkin F., Eakins S., 5ee ´ d., Addison Wesley, 2006 Corporate finance, Ross S., Westerfield R., Jaffe J., 7ee ´ d., Mc Graw Hill, 2005+
 
-+Encyclope´die des marche´s financiers, Simon Y. (sous la direction de), Economica, 1997 Finance d’entreprise, Vernimmen P., 6ee´d., Dalloz, 2005+
++Encyclope ´ die des marche ´ s financiers, Simon Y. (sous la direction de), Economica, 1997 Finance d ’ entreprise, Vernimmen P., 6ee ´ d., Dalloz, 2005+
 
 
 ==== Décision collective, décision multicritère
-3 ECTS
-
-Enseignant responsable : LUCIE GALAND
+30 h ; 3 ECTS
 
 
 ===== Prérequis recommandés
 
 
-+Langue française. Bases en théorie des jeux et choix social.+
-
-===== Prérequis obligatoires
-
-
-+Langue française+
++Concepts mathématiques formels de base pour l’aide à la décision (relations binaires, préférences)+
 
 ===== Compétences à acquérir
 
 
-+Présenter les principales familles de méthodes d’agrégation multicritère existantes et mise en œuvre de telles méthodes dans des situations réelles de décision+
++Analyse d’un problème de décision en présence de plusieurs critères ou plusieurs décideurs. Connaissance et analyse de méthodes classiques de résolution de problèmes de décision multicritère ou de décision collective. Mise en œuvre de telles méthodes dans des situations réelles de décision.+
 
 ===== Contenu
 
 
-+Introduction au processus de décision+
++Modélisation des préférences et aide multicritère à la décision : actions, problématiques, vrai, quasi et pseudo critères, structures associées, problèmes multicritères.+
 
-+Introduction à la théorie du choix social+
++Méthodes multicritères : approche agréger puis comparer (critère unique de synthèse), approche comparer puis agréger (relations de surclassement), illustrations sur des cas réels.+
 
-+Procédures d’agrégation multicritères de type critère de synthèse+
-
-+Procédures d’agrégation multicritères de type relation de surclassement,+
-
-+Illustration des méthodes sur des cas réel+
++Théorie du choix social : méthodes de vote, axiomatisation, manipulation.+
 
 ===== Évaluation
 
 
-+Contrôles sur table et travaux pratiques sur machine+
++Examen écrit et projet+
 
 ==== Ordonnancement et Gestion de production
-3 ECTS
+30 h ; 3 ECTS
 
-Enseignant responsable : SYLVIE KORNMAN
+Enseignant responsable : BENJAMIN MALLO
 
 
 ===== Contenu
@@ -614,9 +601,9 @@ Enseignant responsable : SYLVIE KORNMAN
 +Typologie des problèmes de gestion de la production des biens et des services -Planification de la production : MRP2 Gestion des approvisionnements et des stocks : demande uniforme et certaine, demande aléatoire : notions de rupture de stock, qualité de service, stock de sécurité et ordonnancement de projets. Ordonnancement d’ateliers : algorithmes optimaux et heuristiques. Étude de cas impliquant, pour certains d’entre eux, l’usage de logiciels comme cplex et Excel solver.+
 
 ==== Sécurité et réseaux
-3 ECTS
+30 h ; 3 ECTS
 
-Enseignant responsable : HERVÉ COSTANTINI
+Enseignant responsable : JULIEN LESCA
 
 
 ===== Prérequis recommandés
@@ -676,8 +663,6 @@ Enseignant responsable : HERVÉ COSTANTINI
 +Cloud Networking+
 
 ===== Références
-
-
 +Pujol, Guy, Les Réseaux+
 
 ===== Évaluation
@@ -686,10 +671,5 @@ Enseignant responsable : HERVÉ COSTANTINI
 +DST : 2 cc et exam+
 
 
-
-
-=== Bloc entreprise
-==== Mémoire
-3 ECTS
 
 
