@@ -51,7 +51,7 @@ jobs:
         mv "plaquette-MIDO/out.pdf" "Programme des cours.pdf"
 
     - name: Add and commit
-      uses: EndBug/add-and-commit@v7
+      uses: EndBug/add-and-commit@v9
       with:
         add: '["''Programme des cours.adoc''", "''Programme des cours.pdf''"]'
 
