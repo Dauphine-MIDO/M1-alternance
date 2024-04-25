@@ -2,7 +2,7 @@
 :lang: fr
 :toc: preamble
 
-Généré le 27 décembre 2023 à partir des données du https://dauphine.psl.eu/formations/masters/informatique/1re-annee-de-master-miage/programme[site internet] de Dauphine.
+Généré le 22 mars 2024 à partir des données du https://dauphine.psl.eu/formations/masters/informatique/1re-annee-de-master-miage/programme[site internet] de Dauphine.
 
 == Vue d’ensemble
 [cols = "6, 6, 1"]
@@ -22,7 +22,7 @@ Généré le 27 décembre 2023 à partir des données du https://dauphine.psl.eu
 |KHALID BELHAJJAME
 |4
 |Systèmes d'information avancés 1
-|ANDRE CHAMOULEAU; MEHDI MOATASSIM; ALAIN DEDENIS
+|ANDRE CHAMOULEAU; ALAIN DEDENIS; MEHDI MOATASSIM
 |3
 |Systèmes et algorithmiques répartis
 |JOYCE EL HADDAD
@@ -210,7 +210,7 @@ Enseignant responsable : KHALID BELHAJJAME
 ==== Systèmes d'information avancés 1
 30 h ; 3 ECTS
 
-Enseignants responsables : ANDRE CHAMOULEAU; MEHDI MOATASSIM; ALAIN DEDENIS
+Enseignants responsables : ANDRE CHAMOULEAU; ALAIN DEDENIS; MEHDI MOATASSIM
 
 
 ===== Contenu
@@ -593,12 +593,57 @@ Enseignant responsable : FRANCOIS PETER
 Enseignant responsable : BENJAMIN MALLO
 
 
+===== Compétences à acquérir
+
+
++A l’issus de ce cours, les étudiants auront acquis les compétences suivantes :+
+
++• Identifier la typologie d’un système productif et les enjeux industriels associés+
+
++• Choisir une politique de stock adaptée au contexte industriel+
+
++• Dimensionner les paramètres d’une politique de stock+
+
++• Planifier les besoins en matières et ressources+
+
++• Modéliser et résoudre un problème d’ordonnancement+
+
 ===== Contenu
 
 
-+Cet enseignement a pour objet de sensibiliser les étudiants aux problématiques de gestion de la production de biens et de services, en mettant en évidence la très grande complexité des problèmes à résoudre et la difficulté qui en découle de piloter efficacement une chaîne logistique. Quelques grilles d’analyse, modélisations et instrumentations seront abordées.+
++Cet enseignement a pour objet de sensibiliser les étudiants du master M1 MIAGE à quelques grandes problématiques de gestion de la production. Le programme de cette unité d’enseignement est organisé en deux parties :+
 
-+Typologie des problèmes de gestion de la production des biens et des services -Planification de la production : MRP2 Gestion des approvisionnements et des stocks : demande uniforme et certaine, demande aléatoire : notions de rupture de stock, qualité de service, stock de sécurité et ordonnancement de projets. Ordonnancement d’ateliers : algorithmes optimaux et heuristiques. Étude de cas impliquant, pour certains d’entre eux, l’usage de logiciels comme cplex et Excel solver.+
+*+Partie 1 : planification et gestion des stocks+*
+
++• Introduction : cette première partie du programme vise à familiariser les étudiants avec les concepts fondamentaux de la gestion de la production et de la chaîne logistique. Un tour d’horizon des principales problématiques traitées dans ce domaine sera proposé+
+
++• Gestion des stocks et des approvisionnements : la maîtrise des stocks est un enjeu stratégique pour les entreprises industrielles et de distribution. Les principales politiques de gestion des stocks appliquées aux demandes indépendantes seront abordées dans cette partie+
+
++• Planification industrielle : les processus de planification sont au cœur des décisions de pilotage des flux amont et aval dans les chaînes logistiques. La MRP, étudiés dans le cadre de cette partie du programme, reste la méthode de planification la plus diffusée dans le secteur industriel à travers les principaux ERP+
+
+*+Partie 2 : pilotage opérationnel des flux+*
+
++Cette partie traite des problématiques d’ordonnancement de la production. Les principales configurations d’atelier, contraintes et objectifs d’ordonnancement seront abordées dans cette partie du cours qui introduira également les principes de modélisation et de résolution de certains problèmes standard et de modèles de prévisions.+
+
+===== Références
+
+
++• P. Vallin, D. Vanderpooten, Aide à la décision, Ellipses, 2e édition 2002+
+
++• V. Giard, Gestion de la production et des flux, Economica, 3e édition, 2003+
+
++• G. Baglin, O. Bruel, A. Garreau, M. Grief, L. Kerbache et C. Van Delft, Management industriel et logistique, Economica, 5e édition, 2007+
+
++• M. L. Pinedo, Scheduling: Theory, Algorithms, and Systems, Springer, 4th edition, 2012+
+
++• S. Berbain, P. Vallin, Supply Chain, Ellipses, 1ère édition 2021+
+
+===== Évaluation
+
+
++• Préparation et participation aux TD pour 50% de la note finale+
+
++• Examen sur table comptant pour 50% de la note finale+
 
 ==== Sécurité et réseaux
 30 h ; 3 ECTS
