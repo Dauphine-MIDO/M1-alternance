@@ -2,7 +2,7 @@
 :lang: fr
 :toc: preamble
 
-Généré le 22 mars 2024 à partir des données du https://dauphine.psl.eu/formations/masters/informatique/1re-annee-de-master-miage/programme[site internet] de Dauphine.
+Généré le 27 mai 2024 à partir des données du https://dauphine.psl.eu/formations/masters/informatique/1re-annee-de-master-miage/programme[site internet] de Dauphine.
 
 == Vue d’ensemble
 [cols = "6, 6, 1"]
@@ -256,7 +256,7 @@ Enseignant responsable : JOYCE EL HADDAD
 - La communication et le temps dans les réseaux et les systèmes répartis, M. Raynal, Collection Direction des Etudes et des Recherches d'EDF n°75, Hermès, 1991 
 
 ==== Notions générales de Droit
-36 h ; 3 ECTS
+30 h ; 3 ECTS
 
 Enseignant responsable : CESAR OUAMPANA
 
