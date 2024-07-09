@@ -2,7 +2,7 @@
 :lang: fr
 :toc: preamble
 
-Généré le 10 juin 2024 à partir des données du https://dauphine.psl.eu/formations/masters/informatique/1re-annee-de-master-miage/programme[site internet] de Dauphine.
+Généré le 4 juillet 2024 à partir des données du https://dauphine.psl.eu/formations/masters/informatique/1re-annee-de-master-miage/programme[site internet] de Dauphine.
 
 == Vue d’ensemble
 [cols = "6, 6, 1"]
@@ -19,7 +19,7 @@ Généré le 10 juin 2024 à partir des données du https://dauphine.psl.eu/form
 |FLORIAN YGER
 |4
 |Systèmes de gestion de bases de données
-|KHALID BELHAJJAME
+|Khalid BELHAJJAME
 |4
 |Systèmes d'information avancés 1
 |ANDRE CHAMOULEAU; ALAIN DEDENIS; MEHDI MOATASSIM
@@ -192,7 +192,7 @@ Enseignant responsable : FLORIAN YGER
 ==== Systèmes de gestion de bases de données
 36 h ; 4 ECTS
 
-Enseignant responsable : KHALID BELHAJJAME
+Enseignant responsable : Khalid BELHAJJAME
 
 
 ===== Contenu
@@ -253,7 +253,7 @@ Enseignant responsable : JOYCE EL HADDAD
 
 
 - Systèmes d'exploitation, systèmes centralisés, systèmes distribués, A. Tanenbaum, Dunod-Prentice Hall, 1994
-- La communication et le temps dans les réseaux et les systèmes répartis, M. Raynal, Collection Direction des Etudes et des Recherches d'EDF n°75, Hermès, 1991 
+- La communication et le temps dans les réseaux et les systèmes répartis, M. Raynal, Collection Direction des Etudes et des Recherches d'EDF n°75, Hermès, 1991  
 
 ==== Notions générales de Droit
 30 h ; 3 ECTS
