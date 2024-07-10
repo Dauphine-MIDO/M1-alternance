@@ -2,12 +2,12 @@
 :lang: fr
 :toc: preamble
 
-Généré le 4 juillet 2024 à partir des données du https://dauphine.psl.eu/formations/masters/informatique/1re-annee-de-master-miage/programme[site internet] de Dauphine.
+Généré le 10 juillet 2024 à partir des données du https://dauphine.psl.eu/formations/masters/informatique/1re-annee-de-master-miage/programme[site internet] de Dauphine.
 
 == Vue d’ensemble
 [cols = "6, 6, 1"]
 |===
-|Cours|Enseignants responsables|ECTS
+|Cours|Enseignant·e·s responsables|ECTS
 
 |Programmation Objet avancée
 |KHITEM BLIDAOUI
@@ -15,11 +15,11 @@ Généré le 4 juillet 2024 à partir des données du https://dauphine.psl.eu/fo
 |Organisation et communication
 |FLORENCE VATIN
 |3
-|Introduction au Machine Learning
+|Introduction to Machine Learning
 |FLORIAN YGER
 |4
 |Systèmes de gestion de bases de données
-|Khalid BELHAJJAME
+|KHALID BELHAJJAME
 |4
 |Systèmes d'information avancés 1
 |ANDRE CHAMOULEAU; ALAIN DEDENIS; MEHDI MOATASSIM
@@ -42,7 +42,7 @@ Généré le 4 juillet 2024 à partir des données du https://dauphine.psl.eu/fo
 |Systèmes d'information avancés 2
 |THIERRY JAILLET
 |3
-|Intelligence artificielle et raisonnement
+|Artificial Intelligence and reasoning 
 |HUGO GILBERT
 |4
 |Éthique en informatique et protection des données
@@ -66,7 +66,7 @@ Généré le 4 juillet 2024 à partir des données du https://dauphine.psl.eu/fo
 |Décision collective, décision multicritère
 |
 |3
-|Ordonnancement et Gestion de production
+|Logistique et Gestion de production
 |BENJAMIN MALLO
 |3
 |Sécurité et réseaux
@@ -76,9 +76,9 @@ Généré le 4 juillet 2024 à partir des données du https://dauphine.psl.eu/fo
 == Semestre 1
 === Tronc commun
 ==== Programmation Objet avancée
-36 h ; 4 ECTS
+30 h ; 4 ECTS
 
-Enseignant responsable : KHITEM BLIDAOUI
+Enseignant·e responsable : KHITEM BLIDAOUI
 
 
 ===== Prérequis recommandés
@@ -131,9 +131,9 @@ Enseignant responsable : KHITEM BLIDAOUI
 +Tête la première, Design Patterns - E. Freeman et al.+
 
 ==== Organisation et communication
-30 h ; 3 ECTS
+27 h ; 3 ECTS
 
-Enseignant responsable : FLORENCE VATIN
+Enseignant·e responsable : FLORENCE VATIN
 
 
 ===== Compétences à acquérir
@@ -153,10 +153,10 @@ Enseignant responsable : FLORENCE VATIN
 +2) Une partie "communication" qui présente et analyse différents types d'interactions liés au processus de changement (conduite de réunion, négociation, gestion de conflit, etc...)+
 
 
-==== Introduction au Machine Learning
-36 h ; 4 ECTS
+==== Introduction to Machine Learning
+33 h ; 4 ECTS
 
-Enseignant responsable : FLORIAN YGER
+Enseignant·e responsable : FLORIAN YGER
 
 
 ===== Compétences à acquérir
@@ -190,9 +190,9 @@ Enseignant responsable : FLORIAN YGER
 +mixtures de gaussiennes+
 
 ==== Systèmes de gestion de bases de données
-36 h ; 4 ECTS
+27 h ; 4 ECTS
 
-Enseignant responsable : Khalid BELHAJJAME
+Enseignant·e responsable : KHALID BELHAJJAME
 
 
 ===== Contenu
@@ -208,9 +208,9 @@ Enseignant responsable : Khalid BELHAJJAME
 
 
 ==== Systèmes d'information avancés 1
-30 h ; 3 ECTS
+27 h ; 3 ECTS
 
-Enseignants responsables : ANDRE CHAMOULEAU; ALAIN DEDENIS; MEHDI MOATASSIM
+Enseignant·e·s responsables : ANDRE CHAMOULEAU; ALAIN DEDENIS; MEHDI MOATASSIM
 
 
 ===== Contenu
@@ -226,9 +226,9 @@ Enseignants responsables : ANDRE CHAMOULEAU; ALAIN DEDENIS; MEHDI MOATASSIM
 
 
 ==== Systèmes et algorithmiques répartis
-42 h ; 4 ECTS
+36 h ; 4 ECTS
 
-Enseignant responsable : JOYCE EL HADDAD
+Enseignant·e responsable : JOYCE EL HADDAD
 
 
 ===== Prérequis recommandés
@@ -258,7 +258,7 @@ Enseignant responsable : JOYCE EL HADDAD
 ==== Notions générales de Droit
 30 h ; 3 ECTS
 
-Enseignant responsable : CESAR OUAMPANA
+Enseignant·e responsable : CESAR OUAMPANA
 
 
 ===== Prérequis recommandés
@@ -312,9 +312,9 @@ Enseignant responsable : CESAR OUAMPANA
 +L’enseignement est évalué sur la base d'un examen final portant sur la vérification des connaissances acquises lors de la formation.+
 
 ==== Marketing
-30 h ; 3 ECTS
+21 h ; 3 ECTS
 
-Enseignant responsable : SARAH LASRI
+Enseignant·e responsable : SARAH LASRI
 
 
 ===== Compétences à acquérir
@@ -355,7 +355,7 @@ Enseignant responsable : SARAH LASRI
 ==== Anglais 1
 18 h ; 2 ECTS
 
-Enseignant responsable : KIERAN HELME
+Enseignant·e responsable : KIERAN HELME
 
 
 ===== Compétences à acquérir
@@ -374,7 +374,7 @@ Enseignant responsable : KIERAN HELME
 ==== Analyse financière
 30 h ; 4 ECTS
 
-Enseignant responsable : ERIC THIBONNIER
+Enseignant·e responsable : ERIC THIBONNIER
 
 
 ===== Contenu
@@ -411,9 +411,9 @@ Enseignant responsable : ERIC THIBONNIER
 +L’analyse financière de l’entreprise, B. Colasse, La Découverte, 2000+
 
 ==== Systèmes d'information avancés 2
-39 h ; 3 ECTS
+33 h ; 3 ECTS
 
-Enseignant responsable : THIERRY JAILLET
+Enseignant·e responsable : THIERRY JAILLET
 
 
 ===== Contenu
@@ -427,10 +427,10 @@ Enseignant responsable : THIERRY JAILLET
 
 +Application sous forme d ’ un projet qui s ’ effectue dans les conditions semblables à un projet informatique avec l'utilisation d'un Atelier Génie Logiciel et donnant lieu à la remise de dossiers d'analyse et de dossiers techniques ; réunions d'avancement de projet, séances de validation des choix fonctionnels et des orientations techniques, recette de l'application.+
 
-==== Intelligence artificielle et raisonnement
-30 h ; 4 ECTS
+==== Artificial Intelligence and reasoning 
+24 h ; 4 ECTS ; Dispensé en anglais
 
-Enseignant responsable : HUGO GILBERT
+Enseignant·e responsable : HUGO GILBERT
 
 
 ===== Compétences à acquérir
@@ -448,8 +448,6 @@ Enseignant responsable : HUGO GILBERT
 - IA et décision
 
 ===== Références
-
-
 +Artificial Intelligence, A Modern Approach.+
 
 +Stuart Russell and Peter Norvig.+
@@ -462,7 +460,7 @@ Enseignant responsable : HUGO GILBERT
 ==== Éthique en informatique et protection des données
 9 h ; 2 ECTS
 
-Enseignant responsable : THIERRY JAILLET
+Enseignant·e responsable : THIERRY JAILLET
 
 
 ===== Contenu
@@ -480,16 +478,16 @@ Enseignant responsable : THIERRY JAILLET
 ==== Jeux d’entreprises
 15 h ; 2 ECTS
 
-Enseignant responsable : RAPHAEL ACOSTA
+Enseignant·e responsable : RAPHAEL ACOSTA
 
 
 ===== Contenu
 +Application des concepts de l ’ analyse financière sur un logiciel de simulation.+
 
 ==== Programmation Web
-30 h ; 3 ECTS
+24 h ; 3 ECTS
 
-Enseignant responsable : ELIE ABI HANNA DAHER
+Enseignant·e responsable : ELIE ABI HANNA DAHER
 
 
 ===== Contenu
@@ -510,7 +508,7 @@ Enseignant responsable : ELIE ABI HANNA DAHER
 ==== Anglais 2
 18 h ; 3 ECTS
 
-Enseignant responsable : KIERAN HELME
+Enseignant·e responsable : KIERAN HELME
 
 
 ===== Compétences à acquérir
@@ -532,7 +530,7 @@ Enseignant responsable : KIERAN HELME
 ==== Marchés Financiers  
 30 h ; 3 ECTS
 
-Enseignant responsable : FRANCOIS PETER
+Enseignant·e responsable : FRANCOIS PETER
 
 
 ===== Contenu
@@ -587,10 +585,10 @@ Enseignant responsable : FRANCOIS PETER
 
 +Examen écrit et projet+
 
-==== Ordonnancement et Gestion de production
+==== Logistique et Gestion de production
 30 h ; 3 ECTS
 
-Enseignant responsable : BENJAMIN MALLO
+Enseignant·e responsable : BENJAMIN MALLO
 
 
 ===== Compétences à acquérir
@@ -648,7 +646,7 @@ Enseignant responsable : BENJAMIN MALLO
 ==== Sécurité et réseaux
 30 h ; 3 ECTS
 
-Enseignant responsable : JULIEN LESCA
+Enseignant·e responsable : JULIEN LESCA
 
 
 ===== Prérequis recommandés
