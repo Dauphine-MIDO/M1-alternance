@@ -1,23 +1,23 @@
 = Tutorat
 
-https://cfaafiaulis-my.sharepoint.com/:x:/g/personal/mgastelliercoumar_cfa-afia_fr/EdbNOSeRqv9Brmlz82CgNkEB6sDtUtwJTrUmv0cNtcS32Q?e=2xdHIf[Affectations tuteurs enseignants]
+https://universitedauphine-my.sharepoint.com/:x:/r/personal/olivier_cailloux_dauphine_psl_eu/Documents/M1/Apprentis%20M1.xlsx?d=wd94dd4dab8fc427a9590a1b21852cc02&csf=1&web=1&e=aIl0JZ[Affectations tuteurs enseignants]
 
-Chaque apprenti a une maitresse d’apprentissage : une personne de l’entreprise dans laquelle l’apprenti travaille, qui l’encadre sur place. Chaque apprenti (à MIDO) a également un tuteur enseignant. (J’ai tiré aléatoirement le genre des rôles, selon la règle de l’link:https://langagenonsexiste.ca/l-alternance-des-genres/[alternance des genres].)
-Généralement, les enseignants intervenant dans la formation suivent des étudiants au prorata de leur nombre d’ECTS dans la formation. 
+Chaque apprenti·e a un ou une maitresse d’apprentissage : une personne de l’entreprise dans laquelle l’apprenti·e travaille, qui l’encadre sur place. Chaque apprenti·e (à MIDO) a également un tuteur enseignant.
+Généralement, les enseignant·e·s intervenant dans la formation suivent des étudiant·e·s au prorata de leur nombre d’ECTS dans la formation. 
 
-C’est à l’apprenti de contacter son tuteur concernant la visite en entreprise, le plan du mémoire, …
+C’est à l’apprenti·e de contacter son tuteur concernant la visite en entreprise, le plan du mémoire, …
 
 == Tâches du tuteur
-Le tuteur enseignant aide son apprenti s’il rencontre une difficulté, s’assure qu’il est bien accueilli dans son entreprise (y compris en lui rendant visite), et aide à la rédaction et participe à l’évaluation de son mémoire.
+Le ou la tutrice enseignante aide son apprenti·e s’il rencontre une difficulté, s’assure qu’il est bien accueilli dans son entreprise (y compris en lui rendant visite), et aide à la rédaction et participe à l’évaluation de son mémoire.
 
 Plus précisément, ses tâches sont les suivantes.
 
-//- Participer à la réunion de rencontre de rentrée qui aura lieu le mardi 9 novembre 2021 à 9h15 en https://www.campusmap.fr/map/dauphine-paris?place=A709[A709] afin de rencontrer la maitresse d’apprentissage et l’apprenti et vérifier avec eux que la mission a bien débuté en entreprise (vous pouvez sauter la présentation si vous la connaissez déjà mais votre présence est importante à partir de 10h pour la rencontre elle-même)
-- Répondre aux questions éventuelles des apprentis, les aider s’ils ont des problèmes dans leur travail en entreprise ; conseiller et accompagner l’étudiant dans la formation ; avertir mailto:mgastelliercoumar@cfa-afia.fr[Maëlys Gastellier-Coumar] du CFA ou Olivier Cailloux en cas de problème
-- Rendre visite à l’apprenti et à sa maitresse d’apprentissage, si compatible avec les mesures anti-covid : veiller à ce que son stage lui soit profitable dans le cadre de ses études, que ses conditions de travail soient adéquates, que l’étudiant assure son travail avec sérieux, s’assurer que la mission pourra évoluer en M2 en cohérence avec la spécialisation visée par l’apprenti.
+- Participer à la réunion de rencontre de rentrée (généralement à 9h15 au mois de novembre) afin de rencontrer le ou la maitresse d’apprentissage et l’apprenti·e et vérifier avec eux que la mission a bien débuté en entreprise (vous pouvez sauter la présentation si vous la connaissez déjà mais votre présence est importante à partir de 10h pour la rencontre elle-même)
+- Répondre aux questions éventuelles des apprenti·e·s, les aider s’ils ont des problèmes dans leur travail en entreprise ; les conseiller et accompagner dans la formation ; avertir mailto:mgastelliercoumar@cfa-afia.fr[Maëlys Gastellier-Coumar] du CFA ou Olivier Cailloux en cas de problème
+- Rendre visite à l’apprenti·e et à son ou sa maitresse d’apprentissage : veiller à ce que son stage lui soit profitable dans le cadre de ses études, que ses conditions de travail soient adéquates, que l’étudiant·e assure son travail avec sérieux, s’assurer que la mission pourra évoluer en M2 en cohérence avec la spécialisation visée par l’apprenti·e.
 - Compléter le https://www.elia-cfa-afia.com/[carnet de suivi] à intervalles réguliers
-- Valider la problématique choisie pour le mémoire ; guider et conseiller l'apprenti pour l’élaboration de son mémoire (lire : https://github.com/Dauphine-MIDO/M1-app/blob/master/M%C3%A9moire.adoc#objectif-du-m%C3%A9moire[L’objectif du mémoire])
-- Participer à la https://github.com/Dauphine-MIDO/M1-app/blob/master/M%C3%A9moire.adoc#d%C3%A9roulement-de-la-soutenance[soutenance] du mémoire qui a lieu début septembre
+- Valider la problématique choisie pour le mémoire ; guider et conseiller l'apprenti·e pour l’élaboration de son mémoire (lire les https://github.com/Dauphine-MIDO/M1-alternance/raw/main/M%C3%A9moire.pdf[consignes])
+- Participer à la soutenance du mémoire qui a lieu début septembre
 
-Voir également les https://universitedauphine-my.sharepoint.com/:w:/g/personal/olivier_cailloux_lamsade_dauphine_fr/Ec67_3ebGoxDhbCfTn_Kv1QBoMayLU9gp_usmN9SNTwYow[informations à usage interne].
+https://universitedauphine-my.sharepoint.com/:w:/r/personal/olivier_cailloux_dauphine_psl_eu/Documents/M1/Informations%20internes%20pour%20le%20M1%20MIAGE%20en%20alternance.docx?d=w77ffbbce1a9b438c85b09f4e7fcabf54[informations à usage interne].
 
