@@ -1,6 +1,6 @@
 = Tutorat
 
-https://universitedauphine-my.sharepoint.com/:x:/r/personal/olivier_cailloux_dauphine_psl_eu/Documents/M1/Apprentis%20M1.xlsx?d=wd94dd4dab8fc427a9590a1b21852cc02&csf=1&web=1&e=aIl0JZ[Affectations tuteurs enseignants]
+Affectations tuteurs enseignants : https://universitedauphine-my.sharepoint.com/:x:/g/personal/olivier_cailloux_dauphine_psl_eu/EdrUTdn8uHpClZChshhSzAIBCwoevHS1PEVFBIDSg2caGg[voir], https://universitedauphine-my.sharepoint.com/:x:/g/personal/olivier_cailloux_dauphine_psl_eu/EdrUTdn8uHpClZChshhSzAIB8WHpBFByiiIyDQyUh3Ki6g[modifier]
 
 Chaque apprenti·e a un ou une maitresse d’apprentissage : une personne de l’entreprise dans laquelle l’apprenti·e travaille, qui l’encadre sur place. Chaque apprenti·e (à MIDO) a également un tuteur enseignant.
 Généralement, les enseignant·e·s intervenant dans la formation suivent des étudiant·e·s au prorata de leur nombre d’ECTS dans la formation. 
@@ -15,7 +15,7 @@ Plus précisément, ses tâches sont les suivantes.
 - Participer à la réunion de rencontre de rentrée (généralement à 9h15 au mois de novembre) afin de rencontrer le ou la maitresse d’apprentissage et l’apprenti·e et vérifier avec eux que la mission a bien débuté en entreprise (vous pouvez sauter la présentation si vous la connaissez déjà mais votre présence est importante à partir de 10h pour la rencontre elle-même)
 - Répondre aux questions éventuelles des apprenti·e·s, les aider s’ils ont des problèmes dans leur travail en entreprise ; les conseiller et accompagner dans la formation ; avertir mailto:mgastelliercoumar@cfa-afia.fr[Maëlys Gastellier-Coumar] du CFA ou Olivier Cailloux en cas de problème
 - Rendre visite à l’apprenti·e et à son ou sa maitresse d’apprentissage : veiller à ce que son stage lui soit profitable dans le cadre de ses études, que ses conditions de travail soient adéquates, que l’étudiant·e assure son travail avec sérieux, s’assurer que la mission pourra évoluer en M2 en cohérence avec la spécialisation visée par l’apprenti·e.
-- Compléter le https://www.elia-cfa-afia.com/[carnet de suivi] à intervalles réguliers
+- Compléter le https://www.izia-afia.com/[carnet de suivi] à intervalles réguliers
 - Valider la problématique choisie pour le mémoire ; guider et conseiller l'apprenti·e pour l’élaboration de son mémoire (lire les https://github.com/Dauphine-MIDO/M1-alternance/raw/main/M%C3%A9moire.pdf[consignes])
 - Participer à la soutenance du mémoire qui a lieu début septembre
 
