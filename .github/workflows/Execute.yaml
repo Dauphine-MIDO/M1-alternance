@@ -13,13 +13,13 @@ jobs:
      
     steps:
     - name: Checkout Own
-      uses: actions/checkout@v2
+      uses: actions/checkout@v4
 
     - name: Checkout plaquette-MIDO
-      uses: actions/checkout@v2
+      uses: actions/checkout@v4
       with:
         repository: Dauphine-MIDO/plaquette-MIDO
-        ref: v0.0.21
+        ref: v0.0.22
         path: 'plaquette-MIDO'
     
     - name: Set up JDK
@@ -29,7 +29,7 @@ jobs:
         java-version: 17
       
     - name: Cache
-      uses: actions/cache@v2
+      uses: actions/cache@v4
       with:
         key: maven-cache-${{ hashFiles('**/pom.xml') }}
         restore-keys: maven-cache
