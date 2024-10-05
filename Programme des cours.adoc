@@ -2,7 +2,7 @@
 :lang: fr
 :toc: preamble
 
-Généré le 25 juillet 2024 à partir des données du https://dauphine.psl.eu/formations/masters/informatique/1re-annee-de-master-miage/programme[site internet] de Dauphine.
+Généré le 5 octobre 2024 à partir des données du https://dauphine.psl.eu/formations/masters/informatique/1re-annee-de-master-miage/programme[site internet] de Dauphine.
 
 == Vue d’ensemble
 [cols = "6, 6, 1"]
@@ -10,16 +10,16 @@ Généré le 25 juillet 2024 à partir des données du https://dauphine.psl.eu/f
 |Cours|Enseignant·e·s responsables|ECTS
 
 |Programmation Objet avancée
-|KHITEM BLIDAOUI
+|KHADOUJA ZELLAMA
 |4
 |Organisation et communication
-|FLORENCE VATIN
+|KRYSTELLE RANTONNET
 |3
 |Introduction to Machine Learning
-|FLORIAN YGER
+|Wissam GHERISSI
 |4
 |Systèmes de gestion de bases de données
-|KHALID BELHAJJAME
+|Khalid BELHAJJAME
 |4
 |Systèmes d'information avancés 1
 |ANDRE CHAMOULEAU; ALAIN DEDENIS; MEHDI MOATASSIM
@@ -34,7 +34,7 @@ Généré le 25 juillet 2024 à partir des données du https://dauphine.psl.eu/f
 |SARAH LASRI
 |3
 |Anglais 1
-|KIERAN HELME
+|Kieran HELME
 |2
 |Analyse financière
 |ERIC THIBONNIER
@@ -43,10 +43,10 @@ Généré le 25 juillet 2024 à partir des données du https://dauphine.psl.eu/f
 |THIERRY JAILLET
 |3
 |Artificial Intelligence and reasoning 
-|HUGO GILBERT
+|ALASSANE DIALLO
 |4
 |Éthique en informatique et protection des données
-|THIERRY JAILLET
+|Sarra TAJOURI
 |2
 |Jeux d’entreprises
 |RAPHAEL ACOSTA
@@ -55,7 +55,7 @@ Généré le 25 juillet 2024 à partir des données du https://dauphine.psl.eu/f
 |ELIE ABI HANNA DAHER
 |3
 |Anglais 2
-|KIERAN HELME
+|Kieran HELME
 |3
 |Mémoire
 |
@@ -64,21 +64,21 @@ Généré le 25 juillet 2024 à partir des données du https://dauphine.psl.eu/f
 |FRANCOIS PETER
 |3
 |Décision collective, décision multicritère
-|
+|MELTEM OZTURK ESCOFFIER
 |3
 |Logistique et Gestion de production
 |BENJAMIN MALLO
 |3
 |Sécurité et réseaux
-|JULIEN LESCA
+|THIERRY VIGNOBLE
 |3
 |===
 == Semestre 1
-=== Tronc commun
+=== UE Obligatoires S1
 ==== Programmation Objet avancée
 30 h ; 4 ECTS
 
-Enseignant·e responsable : KHITEM BLIDAOUI
+Enseignant·e responsable : KHADOUJA ZELLAMA
 
 
 ===== Prérequis recommandés
@@ -116,8 +116,6 @@ Enseignant·e responsable : KHITEM BLIDAOUI
 
 
 ===== Références
-
-
 +Effective Java 2nd Edition - J. Bloch (1ère éd. traduite mais vieille). TRES BIEN.+
 
 +Programmer en Java 6eme Edition - C. Delannoy.+
@@ -133,7 +131,7 @@ Enseignant·e responsable : KHITEM BLIDAOUI
 ==== Organisation et communication
 27 h ; 3 ECTS
 
-Enseignant·e responsable : FLORENCE VATIN
+Enseignant·e responsable : KRYSTELLE RANTONNET
 
 
 ===== Compétences à acquérir
@@ -156,7 +154,7 @@ Enseignant·e responsable : FLORENCE VATIN
 ==== Introduction to Machine Learning
 33 h ; 4 ECTS
 
-Enseignant·e responsable : FLORIAN YGER
+Enseignant·e responsable : Wissam GHERISSI
 
 
 ===== Compétences à acquérir
@@ -192,7 +190,7 @@ Enseignant·e responsable : FLORIAN YGER
 ==== Systèmes de gestion de bases de données
 27 h ; 4 ECTS
 
-Enseignant·e responsable : KHALID BELHAJJAME
+Enseignant·e responsable : Khalid BELHAJJAME
 
 
 ===== Contenu
@@ -355,7 +353,7 @@ Enseignant·e responsable : SARAH LASRI
 ==== Anglais 1
 18 h ; 2 ECTS
 
-Enseignant·e responsable : KIERAN HELME
+Enseignant·e responsable : Kieran HELME
 
 
 ===== Compétences à acquérir
@@ -370,7 +368,7 @@ Enseignant·e responsable : KIERAN HELME
 
 
 == Semestre 2
-=== Tronc commun
+=== UE Obligatoires S2
 ==== Analyse financière
 30 h ; 4 ECTS
 
@@ -402,13 +400,13 @@ Enseignant·e responsable : ERIC THIBONNIER
 
 +Comptabilité générale, Grandguillot B et F., Gualino, 2006+
 
-+Finance d’entreprise, P. Vernimmen, Dalloz, 2006+
++Finance d ’ entreprise, P. Vernimmen, Dalloz, 2006+
 
-+Finance d’entreprise, J. Pilverdier, Economica 2002+
++Finance d ’ entreprise, J. Pilverdier, Economica 2002+
 
 +Diagnostic financier, L. Batsch, ECONOMICA, 2000+
 
-+L’analyse financière de l’entreprise, B. Colasse, La Découverte, 2000+
++L ’ analyse financière de l ’ entreprise, B. Colasse, La Découverte, 2000+
 
 ==== Systèmes d'information avancés 2
 33 h ; 3 ECTS
@@ -430,7 +428,7 @@ Enseignant·e responsable : THIERRY JAILLET
 ==== Artificial Intelligence and reasoning 
 24 h ; 4 ECTS ; Dispensé en anglais
 
-Enseignant·e responsable : HUGO GILBERT
+Enseignant·e responsable : ALASSANE DIALLO
 
 
 ===== Compétences à acquérir
@@ -460,7 +458,7 @@ Enseignant·e responsable : HUGO GILBERT
 ==== Éthique en informatique et protection des données
 9 h ; 2 ECTS
 
-Enseignant·e responsable : THIERRY JAILLET
+Enseignant·e responsable : Sarra TAJOURI
 
 
 ===== Contenu
@@ -508,7 +506,7 @@ Enseignant·e responsable : ELIE ABI HANNA DAHER
 ==== Anglais 2
 18 h ; 3 ECTS
 
-Enseignant·e responsable : KIERAN HELME
+Enseignant·e responsable : Kieran HELME
 
 
 ===== Compétences à acquérir
@@ -526,7 +524,7 @@ Enseignant·e responsable : KIERAN HELME
 3 ECTS
 
 
-=== Options
+=== UE Optionnelles S2
 ==== Marchés Financiers  
 30 h ; 3 ECTS
 
@@ -559,6 +557,8 @@ Enseignant·e responsable : FRANCOIS PETER
 
 ==== Décision collective, décision multicritère
 30 h ; 3 ECTS
+
+Enseignant·e responsable : MELTEM OZTURK ESCOFFIER
 
 
 ===== Prérequis recommandés
@@ -624,8 +624,6 @@ Enseignant·e responsable : BENJAMIN MALLO
 +Cette partie traite des problématiques d’ordonnancement de la production. Les principales configurations d’atelier, contraintes et objectifs d’ordonnancement seront abordées dans cette partie du cours qui introduira également les principes de modélisation et de résolution de certains problèmes standard et de modèles de prévisions.+
 
 ===== Références
-
-
 +• P. Vallin, D. Vanderpooten, Aide à la décision, Ellipses, 2e édition 2002+
 
 +• V. Giard, Gestion de la production et des flux, Economica, 3e édition, 2003+
@@ -646,7 +644,7 @@ Enseignant·e responsable : BENJAMIN MALLO
 ==== Sécurité et réseaux
 30 h ; 3 ECTS
 
-Enseignant·e responsable : JULIEN LESCA
+Enseignant·e responsable : THIERRY VIGNOBLE
 
 
 ===== Prérequis recommandés
