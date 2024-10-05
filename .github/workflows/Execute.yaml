@@ -1,57 +1,56 @@
 name: Execute workflow
 
-on: 
+on:
   push:
   schedule:
-    - cron:  '43 2 * * *'
-    
+    - cron: "43 2 * * *"
+
 jobs:
   execute:
     name: Execute job
     runs-on: ubuntu-latest
     environment: API
-     
+
     steps:
-    - name: Checkout Own
-      uses: actions/checkout@v4
+      - name: Checkout Own
+        uses: actions/checkout@v4
 
-    - name: Checkout plaquette-MIDO
-      uses: actions/checkout@v4
-      with:
-        repository: Dauphine-MIDO/plaquette-MIDO
-        ref: v0.0.22
-        path: 'plaquette-MIDO'
-    
-    - name: Set up JDK
-      uses: actions/setup-java@v2
-      with:
-        distribution: 'zulu'
-        java-version: 17
-      
-    - name: Cache
-      uses: actions/cache@v4
-      with:
-        key: maven-cache-${{ hashFiles('**/pom.xml') }}
-        restore-keys: maven-cache
-        path: ~/.m2/repository
-        
-    - name: Maven
-      env:
-        #For mvn generate-sources (WSDL access credentials)
-        URL_ENCODED_API_USERNAME: ${{ secrets.URL_ENCODED_API_USERNAME }}
-        URL_ENCODED_API_PASSWORD: ${{ secrets.URL_ENCODED_API_PASSWORD }}
-        #For mvn test (runtime credentials)
-        API_USERNAME: ${{ secrets.API_USERNAME }}
-        API_PASSWORD: ${{ secrets.API_PASSWORD }}
-      run: mvn "-PCI" "-DtrimStackTrace=false" verify org.codehaus.mojo:exec-maven-plugin:3.0.0:exec
-      working-directory: 'plaquette-MIDO'
-      
-    - run: |
-        mv "plaquette-MIDO/out.adoc" "Programme des cours.adoc"
-        mv "plaquette-MIDO/out.pdf" "Programme des cours.pdf"
+      - name: Checkout plaquette-MIDO
+        uses: actions/checkout@v4
+        with:
+          repository: Dauphine-MIDO/plaquette-MIDO
+          ref: v0.0.22
+          path: "plaquette-MIDO"
 
-    - name: Add and commit
-      uses: EndBug/add-and-commit@v9
-      with:
-        add: '["''Programme des cours.adoc''", "''Programme des cours.pdf''"]'
+      - name: Set up JDK
+        uses: actions/setup-java@v2
+        with:
+          distribution: "zulu"
+          java-version: 17
 
+      - name: Cache
+        uses: actions/cache@v4
+        with:
+          key: maven-cache-${{ hashFiles('**/pom.xml') }}
+          restore-keys: maven-cache
+          path: ~/.m2/repository
+
+      - name: Maven
+        env:
+          #For mvn generate-sources (WSDL access credentials)
+          URL_ENCODED_API_USERNAME: ${{ secrets.URL_ENCODED_API_USERNAME }}
+          URL_ENCODED_API_PASSWORD: ${{ secrets.URL_ENCODED_API_PASSWORD }}
+          #For mvn test (runtime credentials)
+          API_USERNAME: ${{ secrets.API_USERNAME }}
+          API_PASSWORD: ${{ secrets.API_PASSWORD }}
+        run: mvn "-PCI" "-DtrimStackTrace=false" verify org.codehaus.mojo:exec-maven-plugin:3.0.0:exec
+        working-directory: "plaquette-MIDO"
+
+      - run: |
+          mv "plaquette-MIDO/out.adoc" "Programme des cours.adoc"
+          mv "plaquette-MIDO/out.pdf" "Programme des cours.pdf"
+
+      - name: Add and commit
+        uses: EndBug/add-and-commit@v9
+        with:
+          add: '["''Programme des cours.adoc''", "''Programme des cours.pdf''"]'
