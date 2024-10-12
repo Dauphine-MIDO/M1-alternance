@@ -2,7 +2,7 @@
 :lang: fr
 :toc: preamble
 
-Généré le 11 octobre 2024 à partir des données du https://dauphine.psl.eu/formations/masters/informatique/1re-annee-de-master-miage/programme[site internet] de Dauphine.
+Généré le 12 octobre 2024 à partir des données du https://dauphine.psl.eu/formations/masters/informatique/1re-annee-de-master-miage/programme[site internet] de Dauphine.
 
 == Vue d’ensemble
 [cols = "6, 6, 1"]
@@ -264,7 +264,9 @@ Enseignant·e responsable : CESAR OUAMPANA
 
 
 
-*+Les cours se font sur le mode de la classe inversée+*+: AVANT chaque séance, les étudiants doivent avoir lu le contenu du support écrit envoyé auparavant, afin de participer de manière interactive au déroulement des séances. Cette lecture devra nécessairement être enrichie par la consultation des références bibliographiques recommandées.+
+*+Les cours se font sur le mode de la classe inversée+*+:+
+
++Les étudiants doivent enrichir et approfondir certains points abordés lors de la formation en consultant les références bibliographiques suggérées.+
 
 ===== Compétences à acquérir
 
@@ -278,15 +280,15 @@ Enseignant·e responsable : CESAR OUAMPANA
 
 +Notions générales de base : droit privé/droit public, sujets/objets, droit impératif/droit supplétif et études de cas.+
 
-+Sources de droit : droit interne, droit européen, droit international et études de cas+
++Sources de droit : droit interne, droit européen, droit international et études de cas.+
 
++Les titulaires des droits subjectifs+
 
-
-+Droit des contrats et responsabilité contractuelle plus études de cas.+
++Droit des contrats(Généralités)+
 
 +Droit de la preuve : modes de preuve, charge de la preuve, originalité du droit commercial par rapport au droit civil et études de cas.+
 
-+Justice en France : ordre judiciaire, ordre administratif et études de ca.+
++Justice en France : ordre judiciaire, ordre administratif et études de cas.+
 
 
 ===== Références
@@ -307,7 +309,10 @@ Enseignant·e responsable : CESAR OUAMPANA
 
 
 
-+L’enseignement est évalué sur la base d'un examen final portant sur la vérification des connaissances acquises lors de la formation.+
++La note est composée de deux éléments: 50% de la moyenne obtenue à l'issue des devoirs en contrôles continus et 50% de la la note obtenue lors de l'examen final.+
+
+
+
 
 ==== Marketing
 21 h ; 3 ECTS
