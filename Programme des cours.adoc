@@ -2,7 +2,7 @@
 :lang: fr
 :toc: preamble
 
-Généré le 21 novembre 2024 à partir des données du https://dauphine.psl.eu/formations/masters/informatique/1re-annee-de-master-miage/programme[site internet] de Dauphine.
+Généré le 22 novembre 2024 à partir des données du https://dauphine.psl.eu/formations/masters/informatique/1re-annee-de-master-miage/programme[site internet] de Dauphine.
 
 == Vue d’ensemble
 [cols = "6, 6, 1"]
