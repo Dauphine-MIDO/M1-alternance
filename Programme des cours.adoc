@@ -2,7 +2,7 @@
 :lang: fr
 :toc: preamble
 
-Généré le 25 novembre 2024 à partir des données du https://dauphine.psl.eu/formations/masters/informatique/1re-annee-de-master-miage/programme[site internet] de Dauphine.
+Généré le 26 novembre 2024 à partir des données du https://dauphine.psl.eu/formations/masters/informatique/1re-annee-de-master-miage/programme[site internet] de Dauphine.
 
 == Vue d’ensemble
 [cols = "6, 6, 1"]
@@ -22,7 +22,7 @@ Généré le 25 novembre 2024 à partir des données du https://dauphine.psl.eu/
 |Khalid BELHAJJAME
 |4
 |Systèmes d'information avancés 1
-|ANDRE CHAMOULEAU; ALAIN DEDENIS; MEHDI MOATASSIM
+|ALAIN DEDENIS; MEHDI MOATASSIM; ANDRE CHAMOULEAU
 |3
 |Systèmes et algorithmiques répartis
 |JOYCE EL HADDAD
@@ -208,7 +208,7 @@ Enseignant·e responsable : Khalid BELHAJJAME
 ==== Systèmes d'information avancés 1
 27 h ; 3 ECTS
 
-Enseignant·e·s responsables : ANDRE CHAMOULEAU; ALAIN DEDENIS; MEHDI MOATASSIM
+Enseignant·e·s responsables : ALAIN DEDENIS; MEHDI MOATASSIM; ANDRE CHAMOULEAU
 
 
 ===== Contenu
