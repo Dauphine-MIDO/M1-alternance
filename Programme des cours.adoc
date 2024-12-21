@@ -2,7 +2,7 @@
 :lang: fr
 :toc: preamble
 
-Généré le 20 décembre 2024 à partir des données du https://dauphine.psl.eu/formations/masters/informatique/1re-annee-de-master-miage/programme[site internet] de Dauphine.
+Généré le 21 décembre 2024 à partir des données du https://dauphine.psl.eu/formations/masters/informatique/1re-annee-de-master-miage/programme[site internet] de Dauphine.
 
 == Vue d’ensemble
 [cols = "6, 6, 1"]
@@ -25,7 +25,7 @@ Généré le 20 décembre 2024 à partir des données du https://dauphine.psl.eu
 |ALAIN DEDENIS; MEHDI MOATASSIM; ANDRE CHAMOULEAU
 |3
 |Systèmes et algorithmiques répartis
-|JOYCE EL HADDAD
+|Joyce EL HADDAD
 |4
 |Notions générales de Droit
 |CESAR OUAMPANA
@@ -226,7 +226,7 @@ Enseignant·e·s responsables : ALAIN DEDENIS; MEHDI MOATASSIM; ANDRE CHAMOULEAU
 ==== Systèmes et algorithmiques répartis
 36 h ; 4 ECTS
 
-Enseignant·e responsable : JOYCE EL HADDAD
+Enseignant·e responsable : Joyce EL HADDAD
 
 
 ===== Prérequis recommandés
