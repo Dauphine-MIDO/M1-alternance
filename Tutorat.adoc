@@ -15,7 +15,7 @@ Plus précisément, ses tâches sont les suivantes.
 - Participer à la réunion de rencontre de rentrée, cette année le mercredi 4 décembre 2024 de 9h à 11h en Amphi 9 puis bar des étudiants, afin de rencontrer le ou la maitresse d’apprentissage et l’apprenti·e et vérifier avec eux que la mission a bien débuté en entreprise (vous pouvez sauter la présentation si vous la connaissez déjà mais votre présence est importante à partir de 9h45 pour la rencontre elle-même)
 - Répondre aux questions éventuelles des apprenti·e·s, les aider s’ils ont des problèmes dans leur travail en entreprise ; les conseiller et accompagner dans la formation ; avertir mailto:plavagna@cfa-numia.fr[Patricia Lavagna] du CFA ou Olivier Cailloux en cas de problème
 - Rendre visite à l’apprenti·e et à son ou sa maitresse d’apprentissage : veiller à ce que son stage lui soit profitable dans le cadre de ses études, que ses conditions de travail soient adéquates, que l’étudiant·e assure son travail avec sérieux, s’assurer que la mission pourra évoluer en M2 en cohérence avec la spécialisation visée par l’apprenti·e
-- Compléter le https://www.izia-afia.com/[carnet de suivi] à intervalles réguliers (l’adresse de connexion iziA est votre adresse e-mail `@dauphine.psl.eu`, sauf cas particuliers)
+- Compléter le https://www.izia-numia.com/[carnet de suivi] à intervalles réguliers (l’adresse de connexion iziA est votre adresse e-mail `@dauphine.psl.eu`, sauf cas particuliers)
 - Valider la problématique choisie pour le mémoire ; guider et conseiller l'apprenti·e pour l’élaboration de son mémoire (lire les https://github.com/Dauphine-MIDO/M1-alternance/raw/main/M%C3%A9moire.pdf[consignes])
 - Participer à la soutenance du mémoire qui a lieu début septembre
 
