@@ -1,7 +1,5 @@
 = Tutorat
 
-Affectations tuteurices enseignantes : https://universitedauphine-my.sharepoint.com/:x:/g/personal/olivier_cailloux_dauphine_psl_eu/EetqoVKXkfBPkoqzZccRdYQB0hcJ5blRSl6gPetnaIlGIw[voir], https://universitedauphine-my.sharepoint.com/:x:/g/personal/olivier_cailloux_dauphine_psl_eu/EetqoVKXkfBPkoqzZccRdYQB_a5-gwVQsBk_52CwfJpNyQ[modifier]
-
 Chaque apprenti·e a un ou une maitresse d’apprentissage : une personne de l’entreprise dans laquelle l’apprenti·e travaille, qui l’encadre sur place. Chaque apprenti·e (à MIDO) a également un tuteur enseignant.
 Généralement, les enseignant·e·s intervenant dans la formation suivent des étudiant·e·s au prorata de leur nombre d’ECTS dans la formation. 
 
@@ -19,5 +17,8 @@ Plus précisément, ses tâches sont les suivantes.
 - Guider et conseiller l'apprenti·e pour l’élaboration de son https://github.com/Dauphine-MIDO/M1-alternance/raw/main/M%C3%A9moire.pdf[mémoire]
 - Participer à la soutenance du mémoire qui a lieu début septembre
 
-https://universitedauphine-my.sharepoint.com/:w:/r/personal/olivier_cailloux_dauphine_psl_eu/Documents/M1/Informations%20internes%20pour%20le%20M1%20MIAGE%20en%20alternance.docx?d=w77ffbbce1a9b438c85b09f4e7fcabf54[informations à usage interne]
+== Interne
+- https://universitedauphine-my.sharepoint.com/:x:/g/personal/olivier_cailloux_dauphine_psl_eu/EetqoVKXkfBPkoqzZccRdYQB0hcJ5blRSl6gPetnaIlGIw[Affectations tuteurices enseignantes]
+- https://universitedauphine-my.sharepoint.com/:w:/r/personal/olivier_cailloux_dauphine_psl_eu/Documents/M1/Informations%20internes%20pour%20le%20M1%20MIAGE%20en%20alternance.docx?d=w77ffbbce1a9b438c85b09f4e7fcabf54[Informations diverses]
+// , https://universitedauphine-my.sharepoint.com/:x:/g/personal/olivier_cailloux_dauphine_psl_eu/EetqoVKXkfBPkoqzZccRdYQB_a5-gwVQsBk_52CwfJpNyQ[modifier]
 
