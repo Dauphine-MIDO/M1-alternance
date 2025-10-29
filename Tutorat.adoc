@@ -1,6 +1,6 @@
 = Tutorat
 
-Affectations tuteurices enseignantes : https://universitedauphine-my.sharepoint.com/:x:/g/personal/olivier_cailloux_dauphine_psl_eu/EdrUTdn8uHpClZChshhSzAIBCwoevHS1PEVFBIDSg2caGg[voir], https://universitedauphine-my.sharepoint.com/:x:/g/personal/olivier_cailloux_dauphine_psl_eu/EdrUTdn8uHpClZChshhSzAIB8WHpBFByiiIyDQyUh3Ki6g[modifier]
+Affectations tuteurices enseignantes : https://universitedauphine-my.sharepoint.com/:x:/g/personal/olivier_cailloux_dauphine_psl_eu/EetqoVKXkfBPkoqzZccRdYQB0hcJ5blRSl6gPetnaIlGIw[voir], https://universitedauphine-my.sharepoint.com/:x:/g/personal/olivier_cailloux_dauphine_psl_eu/EetqoVKXkfBPkoqzZccRdYQB_a5-gwVQsBk_52CwfJpNyQ[modifier]
 
 Chaque apprenti·e a un ou une maitresse d’apprentissage : une personne de l’entreprise dans laquelle l’apprenti·e travaille, qui l’encadre sur place. Chaque apprenti·e (à MIDO) a également un tuteur enseignant.
 Généralement, les enseignant·e·s intervenant dans la formation suivent des étudiant·e·s au prorata de leur nombre d’ECTS dans la formation. 
@@ -16,8 +16,8 @@ Plus précisément, ses tâches sont les suivantes.
 - Répondre aux questions éventuelles des apprenti·e·s, les aider s’ils ont des problèmes dans leur travail en entreprise ; les conseiller et accompagner dans la formation ; avertir mailto:plavagna@cfa-numia.fr[Patricia Lavagna] du CFA ou Olivier Cailloux en cas de problème
 - Rendre visite à l’apprenti·e et à son ou sa maitresse d’apprentissage : veiller à ce que son stage lui soit profitable dans le cadre de ses études, que ses conditions de travail soient adéquates, que l’étudiant·e assure son travail avec sérieux, s’assurer que la mission pourra évoluer en M2 en cohérence avec la spécialisation visée par l’apprenti·e
 - Compléter le https://www.izia-numia.com/[carnet de suivi] à intervalles réguliers (l’adresse de connexion iziA est votre adresse e-mail `@dauphine.psl.eu`, sauf cas particuliers)
-- Valider la problématique choisie pour le mémoire ; guider et conseiller l'apprenti·e pour l’élaboration de son mémoire (lire les https://github.com/Dauphine-MIDO/M1-alternance/raw/main/M%C3%A9moire.pdf[consignes])
+- Guider et conseiller l'apprenti·e pour l’élaboration de son https://github.com/Dauphine-MIDO/M1-alternance/raw/main/M%C3%A9moire.pdf[mémoire]
 - Participer à la soutenance du mémoire qui a lieu début septembre
 
-https://universitedauphine-my.sharepoint.com/:w:/r/personal/olivier_cailloux_dauphine_psl_eu/Documents/M1/Informations%20internes%20pour%20le%20M1%20MIAGE%20en%20alternance.docx?d=w77ffbbce1a9b438c85b09f4e7fcabf54[informations à usage interne].
+https://universitedauphine-my.sharepoint.com/:w:/r/personal/olivier_cailloux_dauphine_psl_eu/Documents/M1/Informations%20internes%20pour%20le%20M1%20MIAGE%20en%20alternance.docx?d=w77ffbbce1a9b438c85b09f4e7fcabf54[informations à usage interne]
 
